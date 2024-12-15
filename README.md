@@ -19,7 +19,7 @@
 Text-to-3D generation has achieved remarkable progress in recent years, yet evaluating these methods remains challenging for two reasons: i) Existing benchmarks lack fine-grained evaluation on different prompt categories and evaluation dimensions. ii) Previous evaluation metrics only focus on a single aspect (e.g., text-3D alignment) and fail to perform multi-dimensional quality assessment. To address these problems, we first propose a comprehensive benchmark named **MATE-3D**. The benchmark contains eight well-designed prompt categories that cover single and multiple object generation, resulting in 1,280 generated textured meshes. We have conducted a large-scale subjective experiment from four different evaluation dimensions and collected 107,520 annotations, followed by detailed analyses of the results. Based on MATE-3D, we propose a novel quality evaluator named **HyperScore**. Utilizing hypernetwork to generate specified mapping functions for each evaluation dimension, our metric can effectively perform multi-dimensional quality assessment. HyperScore presents superior performance over existing metrics on MATE-3D, making it a promising metric for assessing and improving text-to-3D generation.
 
 <div align="center">
-<img src="framework.jpg" width = 80% height = 80%/>
+<img src="[framework.jpg](https://github.com/zhangyujie-1998/MATE-3D/blob/main/asset/framework.jpg)" width = 80% height = 80%/>
 <br>
 Overview of the HyperScore Evaluator
 </div>
