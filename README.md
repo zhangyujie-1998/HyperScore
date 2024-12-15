@@ -12,7 +12,9 @@
     <img src="https://img.shields.io/badge/Project-&#x1F680-blue">
   </a>
 </p>
-
+</div>
+</div>
+</div>
 
 ## 🎦 Introduction
 
