@@ -73,7 +73,7 @@ We implement our metric by PyTorch and conduct training and testing on the NVIDI
 **NOTE:** Since the dataset used in our training is based on MATE-3D, please first prepare MATE-3D dataset in  the ```data``` folder. Then, you need to render the texture meshes into multi-view images by
 
  ```
-python projection/get_projection.py
+python get_projection.py
  ```
 
 The multi-view images will be saved in the ```data/projection``` folder.
