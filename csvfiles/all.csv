@@ -1,0 +1,1281 @@
+model,prompt,Alignment,Geometry,Texture,Overall
+dreamfusion,A striped zebra,4.764705882,3.105263158,3.1875,3.315789474
+dreamfusion,A green pepper,8.736842105,8.388888889,7.388888889,8
+dreamfusion,A grey mouse,0.944444444,0.761904762,0.647058824,0.842105263
+dreamfusion,A blue vase,8,7.666666667,6.3,7.238095238
+dreamfusion,A brown bear,1.947368421,1.388888889,1.277777778,1.619047619
+dreamfusion,A red cup,5.529411765,4.473684211,4.75,4.736842105
+dreamfusion,A round stool,8.578947368,7.888888889,7.166666667,8
+dreamfusion,A wooden boat,7.80952381,7.0625,7.05,7.210526316
+dreamfusion,A white helmet,1.789473684,1.888888889,1.55,1.571428571
+dreamfusion,A green umbrella,1.157894737,0.666666667,1.1,0.952380952
+dreamfusion,A yellow hat,8.315789474,7.277777778,6.684210526,7.3
+dreamfusion,A wooden bench,8.1,6.941176471,6.588235294,7.105263158
+dreamfusion,A brown horse,4,2.631578947,3.5,2.9
+dreamfusion,A symmetrical arch,1.052631579,1.545454545,1.285714286,1.047619048
+dreamfusion,A glass bottle,7.052631579,6.666666667,6,6.19047619
+dreamfusion,A white rabbit,8.666666667,8.095238095,6.823529412,7.789473684
+dreamfusion,A red bus,8.105263158,6.888888889,5.789473684,6.85
+dreamfusion,A blue jacket,4.85,4.117647059,4.764705882,4.315789474
+dreamfusion,A delicious hamburger,6.631578947,5.388888889,4.684210526,5.45
+dreamfusion,A canned Coke,8.333333333,7.578947368,6.85,7.45
+dreamfusion,A badge shaped like a shield,2.5,2.210526316,1.85,2.15
+dreamfusion,A black umbrella with a curved handle,1.277777778,0.952380952,0.882352941,1.157894737
+dreamfusion,A bookmark with a tassel,2.833333333,2.142857143,2.176470588,2.736842105
+dreamfusion,A cactus with a blooming flower,6.578947368,5.454545455,5.571428571,5.761904762
+dreamfusion,A candleholder made of wrought iron,6.263157895,4.210526316,4.166666667,4.761904762
+dreamfusion,A chess piece carved from ivory,7.947368421,7,6.666666667,7.095238095
+dreamfusion,A coffee mug with a chipped rim,4.222222222,4.315789474,3.75,3.95
+dreamfusion,A red rose with a thorny stem,2.666666667,1.684210526,1.85,1.7
+dreamfusion,A lamp with a fabric shade,7.368421053,5.736842105,5.833333333,6.476190476
+dreamfusion,A lipstick in a golden case,6.833333333,6.526315789,6,6.25
+dreamfusion,A model airplane with spinning propellers,5.736842105,6.888888889,5.833333333,5.904761905
+dreamfusion,A porcelain vase with dragon motifs,8.833333333,7.947368421,7.55,8.1
+dreamfusion,A soccer ball signed by players,6.3,7.235294118,6.176470588,6.368421053
+dreamfusion,A steel hammer with a rubber grip,8.142857143,7.125,6.5,7.263157895
+dreamfusion,A stone castle with a drawbridge,5.25,5,5,5.052631579
+dreamfusion,A straw hat with a blue band,7.388888889,6.857142857,6.470588235,7
+dreamfusion,A teddy bear holding a heart,1.368421053,1.368421053,1.388888889,1.142857143
+dreamfusion,A wooden chair with a woven seat,6.380952381,6.8125,5.95,6.526315789
+dreamfusion,A headphone with cushioned ear pads,3.736842105,3.888888889,3.473684211,3.6
+dreamfusion,A white sneaker with blue stripes,6.526315789,6.777777778,5.944444444,6.19047619
+dreamfusion,"A bronze goblet encrusted with rubies, with swirling engravings of dragons coiling up its stem",3.111111111,2.571428571,2.058823529,2.526315789
+dreamfusion,"A black bat with luminous red eyes, outstretched wings, and a detailed claw with subtle ridges",3.631578947,2.944444444,3.2,3.142857143
+dreamfusion,"A square table with intricate carvings along the legs, a scratched surface, and a missing corner",5.789473684,7.181818182,5.571428571,6.19047619
+dreamfusion,"A golden lamp with an intricate bird and flower motif, and a glossy, amber-colored glass shade",3.333333333,3.476190476,2.764705882,3.210526316
+dreamfusion,"A wooden chair with a broken leg, a cushioned seat, and carved spirals on the arms",5.631578947,5.666666667,5.05,5.571428571
+dreamfusion,A porcelain teapot with a gold-trimmed spout and a painted phoenix spiraling around its surface,5.368421053,5.181818182,4.333333333,4.666666667
+dreamfusion,"A round clock with a cracked face, golden hands, and worn Roman numerals along the edges",1.105263158,1.055555556,1.15,1
+dreamfusion,"A potted succulent with plump, fleshy, blue-green leaves edged in red and planted in a terracotta pot",8,7.894736842,7.15,7.6
+dreamfusion,"A gilded picture frame adorned with ivy leaves, enclosing an oil painting of a serene landscape",0.611111111,0.619047619,0.882352941,0.842105263
+dreamfusion,"A blue hat with a wide brim, a finely stitched edge, and a silver feather pinned delicately to one side",4.947368421,4.842105263,4.666666667,4.80952381
+dreamfusion,"A blue jacket with silver buttons, fur lining on the collar, and a tear on the right sleeve",4.894736842,4.166666667,4.277777778,4.285714286
+dreamfusion,"A yellow pencil with a polished finish, a sharply defined lead tip, and a vibrant red eraser",5.052631579,4.722222222,4.368421053,4.65
+dreamfusion,"A glass bottle with a chipped neck, intricate patterns swirling along the sides, and a faded label",5.705882353,5.052631579,4.1875,5.105263158
+dreamfusion,"A green cactus with twisted, gnarled branches, white spines, and tiny red flowers growing at the top",7.631578947,7.166666667,6.947368421,7.5
+dreamfusion,"A black cat with white paws, one torn ear, and piercing green eyes, sitting with its tail curled",4.277777778,3.894736842,3.35,3.45
+dreamfusion,"A ceramic vase with swirling patterns etched into the surface, a chipped rim, and a long, narrow neck",5.736842105,6.388888889,5.157894737,5.8
+dreamfusion,"A white dove with one bent wing, a scarred beak, and a single, grey feather among its tail",5.888888889,6.095238095,5.882352941,5.789473684
+dreamfusion,"A bronze statue of a warrior with one arm raised, and a weathered, cracked base",4.631578947,2.944444444,4,3.428571429
+dreamfusion,"A wooden cabin with a finely crafted stone chimney, detailed log walls, and a delicately carved wooden door",6.7,5.352941176,5.588235294,5.789473684
+dreamfusion,"A golden crown with missing jewels, a slightly bent band, and intricate scrollwork along the edges",3.9,3.705882353,3.411764706,3.789473684
+dreamfusion,A cactus blooming flowers made of glowing embers,2.947368421,2.722222222,2.736842105,2.6
+dreamfusion,"A candleholder resembling a twisted, gnarled tree branch",4.894736842,4.272727273,4.380952381,4.333333333
+dreamfusion,A castle built entirely from interlocking giant seashells,4.75,4.411764706,4.235294118,4.263157895
+dreamfusion,"A chair made from intertwined vines, leaves still attached",1.833333333,0.947368421,1.25,1.1
+dreamfusion,A flower that blooms metallic petals shaped like butterflies,1.263157895,1.166666667,1.277777778,1.285714286
+dreamfusion,"A frog wearing a tailored shirt with tiny gold buttons, a red bow tie",5.631578947,5.636363636,4.904761905,5.238095238
+dreamfusion,A headphone with ear cups shaped like intricate seashells,0.833333333,0.80952381,0.882352941,0.894736842
+dreamfusion,"A hippo explorer dressed in a khaki outfit, with binoculars slung around its neck",1.7,1.235294118,1.411764706,1.368421053
+dreamfusion,"A house made from oversized mushrooms, walls and roof",7.55,7,6.823529412,7.105263158
+dreamfusion,"A house shaped like a giant teapot, complete with handle and spout",4.894736842,5.055555556,4.7,4.380952381
+dreamfusion,A hummingbird with wings made of shimmering glass,2.421052632,1.611111111,2.2,2.095238095
+dreamfusion,"A key carved from bone, adorned with tiny sculpted figures",2,1.578947368,2.111111111,1.761904762
+dreamfusion,"A lamp in the form of a tree, branches holding lights",1.368421053,1.166666667,1.421052632,1.3
+dreamfusion,A mushroom with a cap resembling a stained glass window,5.8,6.411764706,5.235294118,5.526315789
+dreamfusion,A paintbrush with bristles made of tiny flower petals,3.578947368,3.222222222,3.45,3.285714286
+dreamfusion,"A rabbit with butterfly wings instead of ears, patterns vivid",4.210526316,3.666666667,4,3.857142857
+dreamfusion,"A shoe designed to look like fish, scales detailed and shiny",5.571428571,5.1875,4.7,4.894736842
+dreamfusion,A skyscraper constructed from stacked books of varying sizes,7.157894737,6.473684211,5.888888889,6.571428571
+dreamfusion,A sunflower with a center that is a functioning clock face,0.444444444,0.523809524,0.411764706,0.631578947
+dreamfusion,An earring designed as miniature chandeliers adorned with crystals,2.470588235,1.947368421,2.75,2.210526316
+dreamfusion,A black camera and a metal tripod,7.526315789,5.5,5.947368421,6.15
+dreamfusion,A blue umbrella and a silver key,3.45,3.411764706,3.823529412,3.315789474
+dreamfusion,A bronze helmet and a golden crown,2.736842105,2.555555556,3.05,2.666666667
+dreamfusion,A photo frame and a furry teddy bear,1.526315789,0.888888889,1.1,1.19047619
+dreamfusion,A wooden house and a coconut tree,0.777777778,0.714285714,0.823529412,0.842105263
+dreamfusion,A wooden easel and a canvas painting,5.842105263,5.222222222,5.105263158,5.3
+dreamfusion,A green apple and a bronze coin,6.5,5,4.2,4.75
+dreamfusion,A green cactus and a glass bottle,5.117647059,6,6.125,5.473684211
+dreamfusion,A leather wallet and a cotton hat,4.35,5.352941176,5.588235294,4.684210526
+dreamfusion,A metal pen and a plastic ruler,2.947368421,3.454545455,2.333333333,2.380952381
+dreamfusion,A plastic spoon and a ceramic cup,1.052631579,1,0.947368421,1
+dreamfusion,A yellow lemon and a square table,4.523809524,5.8125,5.75,5.052631579
+dreamfusion,A red chair and a yellow tennis ball,8.105263158,7.363636364,6.380952381,7.142857143
+dreamfusion,A round clock and a wooden shelf,1.315789474,1.555555556,1.3,1.19047619
+dreamfusion,A silver teapot and a golden cup,3.882352941,4.315789474,3.8125,3.578947368
+dreamfusion,A white flower and a green vase,5.631578947,4.772727273,4.714285714,4.761904762
+dreamfusion,A gray rabbit and a brown squirrel,1.263157895,1.555555556,1.684210526,1.4
+dreamfusion,A wooden bench and a bronze statue,3.047619048,2.9375,2.4,2.789473684
+dreamfusion,A metal sword and a bronze shield,1.333333333,1.875,1.95,1.684210526
+dreamfusion,A wooden table and a red candle,3.761904762,4.125,3.7,3.736842105
+dreamfusion,A polished silver bell resting on a wooden stand,6.684210526,6.5,5.611111111,6.238095238
+dreamfusion,A white orchid in a ceramic vase,0.631578947,0.388888889,0.833333333,0.714285714
+dreamfusion,A white candle in an iron holder,3.444444444,3.789473684,3.75,3.05
+dreamfusion,A set of dice beside a deck of cards,3.65,4.470588235,4.235294118,3.842105263
+dreamfusion,A ripe strawberry on a delicious cake,1.947368421,2,2.111111111,2.095238095
+dreamfusion,A pink backpack on a yellow kayak,6.722222222,5.857142857,5.117647059,5.789473684
+dreamfusion,A rubber duck next to a wooden comb,4.722222222,6.368421053,6.25,5.1
+dreamfusion,A swallow on a red brick square chimney,6.368421053,5.157894737,4.944444444,5.428571429
+dreamfusion,"A green plant on a rectangular, wooden chair",6.473684211,5.409090909,5.047619048,5.523809524
+dreamfusion,A handwoven basket filled with a ripe peach,6,5.5,5,5.285714286
+dreamfusion,A pair of black shoes beside a white hat,8.315789474,6.722222222,6.5,7.428571429
+dreamfusion,A blue butterfly perched on a yellow flower,6.473684211,4.833333333,4.894736842,5.45
+dreamfusion,A guitar leaning against a wooden chair,5.631578947,3.578947368,3.833333333,4.285714286
+dreamfusion,A brass key hanging on a metal hook,4.578947368,4.166666667,4.3,4.333333333
+dreamfusion,A glass teapot next to a porcelain cup,0.888888889,1.026315789,1.075,0.9
+dreamfusion,A silk scarf draped over a wooden hanger,4.80952381,5.0625,4.6,4.578947368
+dreamfusion,A wooden crate holding a single red apple,3.315789474,2.777777778,3.166666667,3.047619048
+dreamfusion,A small wooden ship inside a glass bottle,2.380952381,2.3125,2.2,2.052631579
+dreamfusion,A small cactus inside a clay pot,8.263157895,7.666666667,6.631578947,7.55
+dreamfusion,A black hat hanging on a brass hook,7.111111111,6.761904762,6.764705882,6.736842105
+dreamfusion,A penguin is waddling with a fish in its beak,4.764705882,5.052631579,5.375,4.842105263
+dreamfusion,A dog is barking at a cat with its tail wagging,3.45,3.705882353,3.647058824,3.210526316
+dreamfusion,A dog is licking an ice cream cone with its tail wagging,6.714285714,5.625,5.65,5.947368421
+dreamfusion,A violinist in a black suit is playing a violin while standing on one foot,6.105263158,4.722222222,4.947368421,5.1
+dreamfusion,"A cyan crab is holding a sharp, conical shell in its claw",1.85,1.647058824,1.764705882,1.578947368
+dreamfusion,A yellow truck is crashing into a wooden house,3.368421053,2.590909091,2.714285714,2.666666667
+dreamfusion,A man holding a book next to a tall bookshelf,4.842105263,4.944444444,4.777777778,4.857142857
+dreamfusion,"A turtle is crawling to a circular, white shell",0.842105263,0.777777778,0.7,0.857142857
+dreamfusion,A brown dog is chewing a high-heeled shoe,0.368421053,0.333333333,0.611111111,0.333333333
+dreamfusion,A panda is chewing on bamboo while sitting on its hind legs,5.105263158,4.318181818,4.523809524,4.523809524
+dreamfusion,A knight is polishing a shield while seated on a stool,6.526315789,4.666666667,4.95,5.047619048
+dreamfusion,A dolphin is pushing a ball with its nose while swimming,7.5,6.473684211,6.25,6.45
+dreamfusion,A bird is preening its feathers with its beak,1.75,1.941176471,1.705882353,1.789473684
+dreamfusion,A duck is chasing a yellow ball with its wings flapping,5.941176471,5.473684211,5.5,5.105263158
+dreamfusion,A knight is jousting with a lance while riding a white horse,6.142857143,4.75,5.1,5.263157895
+dreamfusion,"A cat is playing with a ball of yarn, unraveling it with its paws",5.473684211,3.722222222,4.111111111,4.380952381
+dreamfusion,A pirate is digging for treasure with a rusty shovel,0.5,0.444444444,0.775,0.619047619
+dreamfusion,A boy is kicking a soccer ball with his foot raised,6.777777778,5.421052632,4.95,5.35
+dreamfusion,A black cat is knocking over a glass with its paw extended,3.105263158,2.555555556,2.9,2.714285714
+dreamfusion,A bat is hanging upside down from a branch with its wings folded,4.421052632,3.777777778,3.888888889,3.904761905
+dreamfusion,A bear astronaut is planting a flag with a paw print,4.380952381,3.5,3.1,3.631578947
+dreamfusion,A crowned koala is inspecting a mystical golden staff,2.789473684,2,2.5,2.380952381
+dreamfusion,A fox magician is pulling a rabbit from a hat,4.578947368,3.863636364,4.333333333,4.047619048
+dreamfusion,A giant tortoise is peacefully resting while a garden of mushrooms grows on its shell,5.095238095,4.625,3.8,4.421052632
+dreamfusion,A lion rider is riding a motorcycle,6.842105263,4.055555556,5.166666667,5
+dreamfusion,A mermaid is holding a white conch shell,7.473684211,6.045454545,5.333333333,6.095238095
+dreamfusion,A mouse pirate is guarding a tiny treasure chest,0.684210526,0.666666667,0.578947368,0.5
+dreamfusion,A panda detective is using a magnifying glass to examine an ancient scroll,5.4,5.176470588,6.117647059,5.421052632
+dreamfusion,A parrot wearing a crown is sitting on a jeweled throne,5.095238095,4.25,3.9,4.368421053
+dreamfusion,A penguin in a tuxedo is conducting an orchestra with a baton,5.235294118,4.789473684,5.1875,4.473684211
+dreamfusion,A phoenix with flaming wings is carrying a silver lantern,1.526315789,1.368421053,1.444444444,1.476190476
+dreamfusion,A rabbit pirate is holding a treasure map with a carrot symbol,4.105263158,2.631578947,3,3.047619048
+dreamfusion,A rabbit with a top hat is balancing on a golden egg,6.3,6.882352941,6.705882353,6.578947368
+dreamfusion,A raccoon detective is studying a map under a magnifying glass,4.105263158,2.888888889,3.333333333,3.333333333
+dreamfusion,A raccoon with wings is casting a spell with a magic wand,4.380952381,3.6875,3.9,3.894736842
+dreamfusion,A robot butler is holding a tray with a crystal goblet,4.941176471,4.157894737,4.125,4.105263158
+dreamfusion,A shark with a crown is holding a golden trident,5.052631579,4.666666667,4.842105263,4.7
+dreamfusion,A skeleton knight is polishing his golden sword,2.105263158,1.263157895,1.611111111,1.571428571
+dreamfusion,A monkey wizard is riding a flying broom and eating a banana,4.142857143,2.6875,3.25,3.157894737
+dreamfusion,A dog wearing backpack is walking on a rainbow,3.526315789,2.444444444,2.95,2.761904762
+magic3d,A striped zebra,6.5,5.666666667,5.294117647,5.631578947
+magic3d,A green pepper,8.894736842,8.727272727,7.666666667,8.428571429
+magic3d,A grey mouse,4.235294118,3.736842105,2.875,3.263157895
+magic3d,A blue vase,8,7.136363636,5.857142857,6.666666667
+magic3d,A brown bear,6.578947368,4.444444444,4.789473684,5
+magic3d,A red cup,5.947368421,5.210526316,4.833333333,5.285714286
+magic3d,A round stool,8.578947368,8.157894737,6.555555556,7.619047619
+magic3d,A wooden boat,6.833333333,5.842105263,5.25,5.65
+magic3d,A white helmet,3.631578947,3.888888889,2.842105263,3.2
+magic3d,A green umbrella,2.5,1.210526316,2.5,1.45
+magic3d,A yellow hat,7.736842105,6.5,5.789473684,6.8
+magic3d,A wooden bench,7.833333333,6.684210526,6.5,6.75
+magic3d,A brown horse,5,3.142857143,4.352941176,3.631578947
+magic3d,A symmetrical arch,0.352941176,0.736842105,0.875,0.578947368
+magic3d,A glass bottle,7.80952381,7.5625,6.65,7.421052632
+magic3d,A white rabbit,7.631578947,6.166666667,6,6.619047619
+magic3d,A red bus,4.142857143,3.125,3.05,3.157894737
+magic3d,A blue jacket,4.944444444,4.238095238,4.235294118,4.263157895
+magic3d,A delicious hamburger,8,6.545454545,6.857142857,7.095238095
+magic3d,A canned Coke,7.5,6.470588235,6.352941176,6.631578947
+magic3d,A badge shaped like a shield,2.529411765,2.631578947,2.1875,2.157894737
+magic3d,A black umbrella with a curved handle,5.052631579,3.105263158,4.055555556,3.80952381
+magic3d,A bookmark with a tassel,4.289473684,3.605263158,3.361111111,3.642857143
+magic3d,A cactus with a blooming flower,7.578947368,5.631578947,5.722222222,6.095238095
+magic3d,A candleholder made of wrought iron,6.285714286,5.0625,4.95,5.315789474
+magic3d,A chess piece carved from ivory,7.842105263,8,7.105263158,7.85
+magic3d,A coffee mug with a chipped rim,5.473684211,5.545454545,4.333333333,5.095238095
+magic3d,A red rose with a thorny stem,4.5,4.285714286,4.176470588,4.263157895
+magic3d,A lamp with a fabric shade,4.428571429,4.25,3.75,4.263157895
+magic3d,A lipstick in a golden case,5.157894737,3.772727273,3.761904762,3.904761905
+magic3d,A model airplane with spinning propellers,6.210526316,4.222222222,3.7,4.571428571
+magic3d,A porcelain vase with dragon motifs,8.631578947,7.909090909,7.80952381,8.047619048
+magic3d,A soccer ball signed by players,5.055555556,4.952380952,3.823529412,4.789473684
+magic3d,A steel hammer with a rubber grip,5.947368421,4.5,4.666666667,4.333333333
+magic3d,A stone castle with a drawbridge,6.526315789,6.157894737,6.222222222,6.380952381
+magic3d,A straw hat with a blue band,7.944444444,7.238095238,6.882352941,7.473684211
+magic3d,A teddy bear holding a heart,1.058823529,1,1.5,0.789473684
+magic3d,A wooden chair with a woven seat,6.947368421,6.736842105,5.444444444,6.238095238
+magic3d,A headphone with cushioned ear pads,5.263157895,3.454545455,3.142857143,3.857142857
+magic3d,A white sneaker with blue stripes,5.941176471,5.052631579,6.3125,4.947368421
+magic3d,"A bronze goblet encrusted with rubies, with swirling engravings of dragons coiling up its stem",6.526315789,5.894736842,5.722222222,6.142857143
+magic3d,"A black bat with luminous red eyes, outstretched wings, and a detailed claw with subtle ridges",6.052631579,5.388888889,5.166666667,4.952380952
+magic3d,"A square table with intricate carvings along the legs, a scratched surface, and a missing corner",5.45,7.470588235,6.647058824,6.315789474
+magic3d,"A golden lamp with an intricate bird and flower motif, and a glossy, amber-colored glass shade",6.421052632,5.863636364,5.904761905,6.047619048
+magic3d,"A wooden chair with a broken leg, a cushioned seat, and carved spirals on the arms",5.210526316,4.722222222,4.5,4.761904762
+magic3d,A porcelain teapot with a gold-trimmed spout and a painted phoenix spiraling around its surface,6.611111111,5.157894737,5,5.2
+magic3d,"A round clock with a cracked face, golden hands, and worn Roman numerals along the edges",1.35,1.411764706,1.294117647,1.157894737
+magic3d,"A potted succulent with plump, fleshy, blue-green leaves edged in red and planted in a terracotta pot",8.368421053,7.5,7.263157895,7.85
+magic3d,"A gilded picture frame adorned with ivy leaves, enclosing an oil painting of a serene landscape",0.444444444,0.631578947,0.65,0.5
+magic3d,"A blue hat with a wide brim, a finely stitched edge, and a silver feather pinned delicately to one side",7.222222222,6.857142857,6.764705882,7
+magic3d,"A blue jacket with silver buttons, fur lining on the collar, and a tear on the right sleeve",7,6.894736842,6.75,7.052631579
+magic3d,"A yellow pencil with a polished finish, a sharply defined lead tip, and a vibrant red eraser",5.058823529,4.368421053,4,4.473684211
+magic3d,"A glass bottle with a chipped neck, intricate patterns swirling along the sides, and a faded label",6.095238095,6.0625,4.95,5.736842105
+magic3d,"A green cactus with twisted, gnarled branches, white spines, and tiny red flowers growing at the top",7.736842105,7.611111111,7.157894737,7.35
+magic3d,"A black cat with white paws, one torn ear, and piercing green eyes, sitting with its tail curled",2.631578947,2.333333333,1.888888889,2.428571429
+magic3d,"A ceramic vase with swirling patterns etched into the surface, a chipped rim, and a long, narrow neck",5.684210526,6.636363636,5.047619048,5.80952381
+magic3d,"A white dove with one bent wing, a scarred beak, and a single, grey feather among its tail",6,5.555555556,5.3,5.380952381
+magic3d,"A bronze statue of a warrior with one arm raised, and a weathered, cracked base",2.428571429,2.0625,2.4,2
+magic3d,"A wooden cabin with a finely crafted stone chimney, detailed log walls, and a delicately carved wooden door",7.052631579,6.055555556,5.888888889,6.333333333
+magic3d,"A golden crown with missing jewels, a slightly bent band, and intricate scrollwork along the edges",4.631578947,4.611111111,3.95,4.666666667
+magic3d,A cactus blooming flowers made of glowing embers,2.35,2.117647059,2.352941176,2.052631579
+magic3d,"A candleholder resembling a twisted, gnarled tree branch",7.421052632,6.388888889,5.684210526,6.7
+magic3d,A castle built entirely from interlocking giant seashells,6.222222222,6.047619048,5.470588235,5.789473684
+magic3d,"A chair made from intertwined vines, leaves still attached",6.526315789,6.166666667,5.5,6.19047619
+magic3d,A flower that blooms metallic petals shaped like butterflies,7.210526316,7.5,7.285714286,7.142857143
+magic3d,"A frog wearing a tailored shirt with tiny gold buttons, a red bow tie",6.833333333,5.947368421,5.95,5.85
+magic3d,A headphone with ear cups shaped like intricate seashells,5.421052632,5.555555556,5.052631579,5.4
+magic3d,"A hippo explorer dressed in a khaki outfit, with binoculars slung around its neck",5.894736842,6.210526316,5.444444444,5.857142857
+magic3d,"A house made from oversized mushrooms, walls and roof",7.684210526,6.909090909,6.714285714,6.857142857
+magic3d,"A house shaped like a giant teapot, complete with handle and spout",4.421052632,4.5,3.444444444,3.761904762
+magic3d,A hummingbird with wings made of shimmering glass,5.294117647,5.157894737,4.1875,4.684210526
+magic3d,"A key carved from bone, adorned with tiny sculpted figures",2.555555556,2.095238095,2.176470588,2.315789474
+magic3d,"A lamp in the form of a tree, branches holding lights",6.380952381,5.875,5.15,5.736842105
+magic3d,A mushroom with a cap resembling a stained glass window,6.842105263,5.684210526,5.666666667,6
+magic3d,A paintbrush with bristles made of tiny flower petals,5.578947368,5.363636364,4.523809524,5.047619048
+magic3d,"A rabbit with butterfly wings instead of ears, patterns vivid",5,5.764705882,4.764705882,4.789473684
+magic3d,"A shoe designed to look like fish, scales detailed and shiny",3.882352941,3.684210526,4.5625,3.315789474
+magic3d,A skyscraper constructed from stacked books of varying sizes,7.1,6.823529412,6.882352941,6.736842105
+magic3d,A sunflower with a center that is a functioning clock face,2.111111111,2.285714286,2.176470588,2.210526316
+magic3d,An earring designed as miniature chandeliers adorned with crystals,2.894736842,2.333333333,2.578947368,2.55
+magic3d,A black camera and a metal tripod,6.210526316,6.222222222,4.85,5.952380952
+magic3d,A blue umbrella and a silver key,2.222222222,2.19047619,2,2
+magic3d,A bronze helmet and a golden crown,3.789473684,3.736842105,4.388888889,3.619047619
+magic3d,A photo frame and a furry teddy bear,0.333333333,0.6875,0.9,0.421052632
+magic3d,A wooden house and a coconut tree,3.052631579,3.5,3.3,3.142857143
+magic3d,A wooden easel and a canvas painting,5.578947368,5.277777778,4.35,5
+magic3d,A green apple and a bronze coin,4.571428571,5,5.35,4.789473684
+magic3d,A green cactus and a glass bottle,5.9,7.882352941,7.588235294,6.947368421
+magic3d,A leather wallet and a cotton hat,4.368421053,5.555555556,5.333333333,4.666666667
+magic3d,A metal pen and a plastic ruler,2.777777778,3.105263158,2.4,2.25
+magic3d,A plastic spoon and a ceramic cup,3.764705882,3.736842105,3.9375,3.578947368
+magic3d,A yellow lemon and a square table,4.333333333,5.947368421,5.2,4.55
+magic3d,A red chair and a yellow tennis ball,5.647058824,4.736842105,4.9375,4.894736842
+magic3d,A round clock and a wooden shelf,1,1.473684211,1.111111111,1
+magic3d,A silver teapot and a golden cup,4.210526316,3.136363636,3.476190476,3.142857143
+magic3d,A white flower and a green vase,5.210526316,4.111111111,3.578947368,4.25
+magic3d,A gray rabbit and a brown squirrel,4.473684211,4.5,5.05,4.476190476
+magic3d,A wooden bench and a bronze statue,3.631578947,3.333333333,3.611111111,3.476190476
+magic3d,A metal sword and a bronze shield,6.888888889,5.421052632,5.7,5.7
+magic3d,A wooden table and a red candle,4.35,5.235294118,5.294117647,4.631578947
+magic3d,A polished silver bell resting on a wooden stand,7,6.777777778,6.388888889,6.476190476
+magic3d,A white orchid in a ceramic vase,3.315789474,2.611111111,2.85,2.476190476
+magic3d,A white candle in an iron holder,5.944444444,5.095238095,4.470588235,5
+magic3d,A set of dice beside a deck of cards,4.65,3.705882353,4.117647059,3.421052632
+magic3d,A ripe strawberry on a delicious cake,3.894736842,4.833333333,4.105263158,4.05
+magic3d,A pink backpack on a yellow kayak,7.421052632,6.5,6.1,6.761904762
+magic3d,A rubber duck next to a wooden comb,7.526315789,6.157894737,5.888888889,6.428571429
+magic3d,A swallow on a red brick square chimney,3.684210526,2.277777778,2.8,2.904761905
+magic3d,"A green plant on a rectangular, wooden chair",8.333333333,7.736842105,6.55,7.55
+magic3d,A handwoven basket filled with a ripe peach,6.777777778,6.421052632,5.85,6.35
+magic3d,A pair of black shoes beside a white hat,4.4,5.647058824,5.705882353,4.842105263
+magic3d,A blue butterfly perched on a yellow flower,5.611111111,4.714285714,4.882352941,4.947368421
+magic3d,A guitar leaning against a wooden chair,3.823529412,3.315789474,3.4375,3.157894737
+magic3d,A brass key hanging on a metal hook,5.157894737,4.055555556,4.277777778,3.952380952
+magic3d,A glass teapot next to a porcelain cup,3.952380952,4.5,3.75,3.789473684
+magic3d,A silk scarf draped over a wooden hanger,7.684210526,6.526315789,6.777777778,6.523809524
+magic3d,A wooden crate holding a single red apple,4.277777778,5.421052632,5.15,4.45
+magic3d,A small wooden ship inside a glass bottle,5.722222222,3.842105263,3.85,4
+magic3d,A small cactus inside a clay pot,8.777777778,8.238095238,7.705882353,8.263157895
+magic3d,A black hat hanging on a brass hook,6.315789474,5.684210526,6.333333333,5.952380952
+magic3d,A penguin is waddling with a fish in its beak,7.1,6.470588235,6.529411765,6.157894737
+magic3d,A dog is barking at a cat with its tail wagging,6.944444444,6.095238095,5.529411765,6.105263158
+magic3d,A dog is licking an ice cream cone with its tail wagging,6.052631579,4.888888889,5.4,5.095238095
+magic3d,A violinist in a black suit is playing a violin while standing on one foot,6.388888889,5.714285714,5.941176471,5.684210526
+magic3d,"A cyan crab is holding a sharp, conical shell in its claw",4.526315789,3.545454545,3.333333333,3.523809524
+magic3d,A yellow truck is crashing into a wooden house,2.411764706,2.105263158,2.375,2
+magic3d,A man holding a book next to a tall bookshelf,4.368421053,4.277777778,4.3,4.238095238
+magic3d,"A turtle is crawling to a circular, white shell",5.578947368,6.555555556,6.578947368,6.35
+magic3d,A brown dog is chewing a high-heeled shoe,6.166666667,5.285714286,5.588235294,5.263157895
+magic3d,A panda is chewing on bamboo while sitting on its hind legs,5.857142857,4.8125,5.05,4.736842105
+magic3d,A knight is polishing a shield while seated on a stool,6.470588235,4.894736842,4.75,4.842105263
+magic3d,A dolphin is pushing a ball with its nose while swimming,7.388888889,7,6,6.789473684
+magic3d,A bird is preening its feathers with its beak,3.705882353,3.526315789,4.3125,3.473684211
+magic3d,A duck is chasing a yellow ball with its wings flapping,6.052631579,4.055555556,3.388888889,4.333333333
+magic3d,A knight is jousting with a lance while riding a white horse,5.421052632,4.227272727,4.380952381,4.476190476
+magic3d,"A cat is playing with a ball of yarn, unraveling it with its paws",2.222222222,1.947368421,1.75,1.65
+magic3d,A pirate is digging for treasure with a rusty shovel,6.761904762,5.75,5.25,5.473684211
+magic3d,A boy is kicking a soccer ball with his foot raised,7,4.5,5.523809524,5.333333333
+magic3d,A black cat is knocking over a glass with its paw extended,5.263157895,4.5,3.894736842,4.4
+magic3d,A bat is hanging upside down from a branch with its wings folded,4.944444444,5.238095238,5.058823529,4.578947368
+magic3d,A bear astronaut is planting a flag with a paw print,4.666666667,4.047619048,3.705882353,3.842105263
+magic3d,A crowned koala is inspecting a mystical golden staff,8.238095238,7,6.95,6.578947368
+magic3d,A fox magician is pulling a rabbit from a hat,5.058823529,4.526315789,4.5625,4.526315789
+magic3d,A giant tortoise is peacefully resting while a garden of mushrooms grows on its shell,5.842105263,5.055555556,4.736842105,5.05
+magic3d,A lion rider is riding a motorcycle,8.777777778,7.526315789,6.75,7.45
+magic3d,A mermaid is holding a white conch shell,7.105263158,5.888888889,5.9,6.476190476
+magic3d,A mouse pirate is guarding a tiny treasure chest,6.526315789,5.055555556,5.2,5.476190476
+magic3d,A panda detective is using a magnifying glass to examine an ancient scroll,4.823529412,4.157894737,4.5625,4
+magic3d,A parrot wearing a crown is sitting on a jeweled throne,5.526315789,4.333333333,5.35,5.095238095
+magic3d,A penguin in a tuxedo is conducting an orchestra with a baton,3.526315789,3.166666667,1.526315789,2.7
+magic3d,A phoenix with flaming wings is carrying a silver lantern,4.941176471,4.105263158,3.9375,4.052631579
+magic3d,A rabbit pirate is holding a treasure map with a carrot symbol,5.736842105,5.052631579,5.388888889,5.095238095
+magic3d,A rabbit with a top hat is balancing on a golden egg,4.578947368,3.681818182,4.19047619,3.857142857
+magic3d,A raccoon detective is studying a map under a magnifying glass,5.631578947,5,5.368421053,5.25
+magic3d,A raccoon with wings is casting a spell with a magic wand,4.368421053,3.526315789,4.222222222,3.619047619
+magic3d,A robot butler is holding a tray with a crystal goblet,7.470588235,6.210526316,5.8125,6.421052632
+magic3d,A shark with a crown is holding a golden trident,5.210526316,4.888888889,4.611111111,4.523809524
+magic3d,A skeleton knight is polishing his golden sword,4.947368421,3.545454545,3.571428571,4
+magic3d,A monkey wizard is riding a flying broom and eating a banana,7,6.352941176,6.235294118,6.263157895
+magic3d,A dog wearing backpack is walking on a rainbow,4.944444444,4.105263158,4.95,4.35
+sjc,A striped zebra,4.157894737,3.5,2.473684211,3.1
+sjc,A green pepper,5,3.277777778,2.8,3.714285714
+sjc,A grey mouse,3.857142857,2.3125,1.9,2.263157895
+sjc,A blue vase,6.342105263,4.083333333,4.194444444,4.666666667
+sjc,A brown bear,3.411764706,2.157894737,1.875,2.315789474
+sjc,A red cup,6.1,5.058823529,4.470588235,5
+sjc,A round stool,6.526315789,3.545454545,3.523809524,4.142857143
+sjc,A wooden boat,5.105263158,3.454545455,2.761904762,3.19047619
+sjc,A white helmet,5.55,4.823529412,3.823529412,4.631578947
+sjc,A green umbrella,5.411764706,3.631578947,3.3125,4
+sjc,A yellow hat,4,2.166666667,2.611111111,2.666666667
+sjc,A wooden bench,5.8,4.117647059,4.647058824,4.421052632
+sjc,A brown horse,5.904761905,4.5,3.05,4.052631579
+sjc,A symmetrical arch,1.368421053,1.545454545,1.380952381,1.238095238
+sjc,A glass bottle,6.263157895,3.772727273,3.619047619,4.285714286
+sjc,A white rabbit,7.222222222,5.263157895,3.85,4.95
+sjc,A red bus,1.789473684,1.157894737,1.222222222,1.285714286
+sjc,A blue jacket,0.368421053,0.222222222,0.388888889,0.333333333
+sjc,A delicious hamburger,5.473684211,2.611111111,3.5,3.904761905
+sjc,A canned Coke,2.105263158,1.210526316,0.833333333,1.523809524
+sjc,A badge shaped like a shield,2.631578947,2,1.5,2
+sjc,A black umbrella with a curved handle,6.473684211,4.5,3.3,4.714285714
+sjc,A bookmark with a tassel,4.15,3.411764706,3.352941176,3.526315789
+sjc,A cactus with a blooming flower,6.823529412,4.894736842,4.4375,5.315789474
+sjc,A candleholder made of wrought iron,6.888888889,5.421052632,4.7,5.25
+sjc,A chess piece carved from ivory,7,6.315789474,5.05,5.8
+sjc,A coffee mug with a chipped rim,3.789473684,2.888888889,2.631578947,2.9
+sjc,A red rose with a thorny stem,6.95,5.705882353,5.705882353,6.105263158
+sjc,A lamp with a fabric shade,4.684210526,3.555555556,3.157894737,3.5
+sjc,A lipstick in a golden case,6.055555556,4.789473684,3.85,4.45
+sjc,A model airplane with spinning propellers,4.157894737,3.227272727,2.857142857,3.095238095
+sjc,A porcelain vase with dragon motifs,5.052631579,3.111111111,3.5,3.80952381
+sjc,A soccer ball signed by players,3.95,3.764705882,3,3.263157895
+sjc,A steel hammer with a rubber grip,2.157894737,1.368421053,1.333333333,1.619047619
+sjc,A stone castle with a drawbridge,0.80952381,0.6875,0.55,0.631578947
+sjc,A straw hat with a blue band,6.166666667,3.789473684,3.5,4.1
+sjc,A teddy bear holding a heart,4.473684211,3.666666667,2.789473684,3.3
+sjc,A wooden chair with a woven seat,3.842105263,2.388888889,2.6,2.714285714
+sjc,A headphone with cushioned ear pads,1.842105263,0.947368421,0.833333333,1.142857143
+sjc,A white sneaker with blue stripes,3.368421053,2.052631579,1.833333333,2.285714286
+sjc,"A bronze goblet encrusted with rubies, with swirling engravings of dragons coiling up its stem",2.571428571,1.5625,2,1.842105263
+sjc,"A black bat with luminous red eyes, outstretched wings, and a detailed claw with subtle ridges",3.222222222,2.052631579,2.2,2
+sjc,"A square table with intricate carvings along the legs, a scratched surface, and a missing corner",0.55,0.588235294,0.705882353,0.578947368
+sjc,"A golden lamp with an intricate bird and flower motif, and a glossy, amber-colored glass shade",6.047619048,5.875,5.2,5.631578947
+sjc,"A wooden chair with a broken leg, a cushioned seat, and carved spirals on the arms",4,2.833333333,2.75,3.142857143
+sjc,A porcelain teapot with a gold-trimmed spout and a painted phoenix spiraling around its surface,4.947368421,4.666666667,3.315789474,3.85
+sjc,"A round clock with a cracked face, golden hands, and worn Roman numerals along the edges",1.157894737,1.210526316,1.333333333,1.142857143
+sjc,"A potted succulent with plump, fleshy, blue-green leaves edged in red and planted in a terracotta pot",6.473684211,3.631578947,3.888888889,4.619047619
+sjc,"A gilded picture frame adorned with ivy leaves, enclosing an oil painting of a serene landscape",0.722222222,0.857142857,0.647058824,0.526315789
+sjc,"A blue hat with a wide brim, a finely stitched edge, and a silver feather pinned delicately to one side",3.947368421,2.526315789,2.111111111,2.857142857
+sjc,"A blue jacket with silver buttons, fur lining on the collar, and a tear on the right sleeve",1.055555556,1.19047619,1.294117647,1.105263158
+sjc,"A yellow pencil with a polished finish, a sharply defined lead tip, and a vibrant red eraser",2.166666667,2,1.6,1.65
+sjc,"A glass bottle with a chipped neck, intricate patterns swirling along the sides, and a faded label",5.5,5.764705882,4.529411765,5.105263158
+sjc,"A green cactus with twisted, gnarled branches, white spines, and tiny red flowers growing at the top",6.277777778,5.210526316,4.25,5
+sjc,"A black cat with white paws, one torn ear, and piercing green eyes, sitting with its tail curled",4.95,4.235294118,3.705882353,4.368421053
+sjc,"A ceramic vase with swirling patterns etched into the surface, a chipped rim, and a long, narrow neck",4.842105263,2.631578947,3,3.428571429
+sjc,"A white dove with one bent wing, a scarred beak, and a single, grey feather among its tail",4.684210526,3.111111111,2.944444444,3.523809524
+sjc,"A bronze statue of a warrior with one arm raised, and a weathered, cracked base",4.947368421,3.5,3.055555556,3.666666667
+sjc,"A wooden cabin with a finely crafted stone chimney, detailed log walls, and a delicately carved wooden door",0.833333333,0.578947368,0.6,0.6
+sjc,"A golden crown with missing jewels, a slightly bent band, and intricate scrollwork along the edges",5.333333333,4.25,3.15,4.263157895
+sjc,A cactus blooming flowers made of glowing embers,2.80952381,2.25,2.4,2.421052632
+sjc,"A candleholder resembling a twisted, gnarled tree branch",5.047619048,4.8125,3.45,4.421052632
+sjc,A castle built entirely from interlocking giant seashells,4.275,3.147058824,3.558823529,3.473684211
+sjc,"A chair made from intertwined vines, leaves still attached",5.111111111,4.904761905,3.882352941,4.473684211
+sjc,A flower that blooms metallic petals shaped like butterflies,5.388888889,4.315789474,4.2,4.15
+sjc,"A frog wearing a tailored shirt with tiny gold buttons, a red bow tie",3.380952381,2.5625,1.8,2.315789474
+sjc,A headphone with ear cups shaped like intricate seashells,3.052631579,2.333333333,1.894736842,2.25
+sjc,"A hippo explorer dressed in a khaki outfit, with binoculars slung around its neck",2.611111111,1.904761905,1.764705882,2.052631579
+sjc,"A house made from oversized mushrooms, walls and roof",2.736842105,1.777777778,1.666666667,1.857142857
+sjc,"A house shaped like a giant teapot, complete with handle and spout",4.894736842,3.277777778,3.388888889,3.476190476
+sjc,A hummingbird with wings made of shimmering glass,4.952380952,4,3.45,3.842105263
+sjc,"A key carved from bone, adorned with tiny sculpted figures",4.736842105,3.684210526,2.944444444,3.761904762
+sjc,"A lamp in the form of a tree, branches holding lights",5.789473684,4.055555556,3.944444444,4.523809524
+sjc,A mushroom with a cap resembling a stained glass window,6,4.863636364,3.714285714,4.619047619
+sjc,A paintbrush with bristles made of tiny flower petals,2.578947368,2.526315789,2.444444444,2.523809524
+sjc,"A rabbit with butterfly wings instead of ears, patterns vivid",3.65,2.882352941,2.647058824,2.947368421
+sjc,"A shoe designed to look like fish, scales detailed and shiny",2.421052632,1.888888889,1.578947368,1.65
+sjc,A skyscraper constructed from stacked books of varying sizes,0.666666667,0.428571429,0.411764706,0.473684211
+sjc,A sunflower with a center that is a functioning clock face,2.888888889,1.789473684,2.25,1.95
+sjc,An earring designed as miniature chandeliers adorned with crystals,2,1.263157895,1,1.15
+sjc,A black camera and a metal tripod,5.888888889,5.238095238,3.647058824,4.526315789
+sjc,A blue umbrella and a silver key,5.15,4.705882353,4.882352941,4.578947368
+sjc,A bronze helmet and a golden crown,3.15,2.823529412,3.294117647,2.789473684
+sjc,A photo frame and a furry teddy bear,0.777777778,0.736842105,0.5,0.6
+sjc,A wooden house and a coconut tree,2.777777778,1.80952381,1.588235294,1.736842105
+sjc,A wooden easel and a canvas painting,3.176470588,2.210526316,2.125,2.263157895
+sjc,A green apple and a bronze coin,3.631578947,1.5,1.7,2.238095238
+sjc,A green cactus and a glass bottle,5.888888889,5.631578947,4.85,5.2
+sjc,A leather wallet and a cotton hat,3.105263158,1.727272727,1.952380952,1.904761905
+sjc,A metal pen and a plastic ruler,4.421052632,3.421052632,2.222222222,3.476190476
+sjc,A plastic spoon and a ceramic cup,3.105263158,2.105263158,1.333333333,2.333333333
+sjc,A yellow lemon and a square table,2.157894737,0.944444444,1.277777778,1.333333333
+sjc,A red chair and a yellow tennis ball,2.105263158,1.611111111,1.55,1.571428571
+sjc,A round clock and a wooden shelf,1.833333333,1.210526316,1.1,1.1
+sjc,A silver teapot and a golden cup,2.764705882,2.263157895,1.9375,2
+sjc,A white flower and a green vase,4.842105263,2.578947368,2.777777778,3.333333333
+sjc,A gray rabbit and a brown squirrel,2.684210526,2.222222222,1.789473684,1.95
+sjc,A wooden bench and a bronze statue,1.222222222,1.263157895,1,0.95
+sjc,A metal sword and a bronze shield,2.882352941,2.210526316,1.875,2.105263158
+sjc,A wooden table and a red candle,4.476190476,3.75,4.15,3.947368421
+sjc,A polished silver bell resting on a wooden stand,4.411764706,2.842105263,2.8125,3.157894737
+sjc,A white orchid in a ceramic vase,4.210526316,2.777777778,2.944444444,3.142857143
+sjc,A white candle in an iron holder,7.105263158,4.888888889,4.833333333,5.571428571
+sjc,A set of dice beside a deck of cards,0.947368421,0.772727273,0.761904762,0.714285714
+sjc,A ripe strawberry on a delicious cake,1.111111111,0.80952381,1.176470588,0.842105263
+sjc,A pink backpack on a yellow kayak,1.45,1.058823529,1.176470588,1.315789474
+sjc,A rubber duck next to a wooden comb,5,4.19047619,3.882352941,4.052631579
+sjc,A swallow on a red brick square chimney,2.388888889,1.526315789,1.15,1.45
+sjc,"A green plant on a rectangular, wooden chair",6.05,3.647058824,4.529411765,4.526315789
+sjc,A handwoven basket filled with a ripe peach,5.857142857,4.125,3.25,4.210526316
+sjc,A pair of black shoes beside a white hat,6.157894737,4.136363636,4.095238095,4.333333333
+sjc,A blue butterfly perched on a yellow flower,6.210526316,3.947368421,3.222222222,4.19047619
+sjc,A guitar leaning against a wooden chair,3.722222222,2.421052632,1.85,2.3
+sjc,A brass key hanging on a metal hook,3.421052632,2.842105263,2.888888889,2.80952381
+sjc,A glass teapot next to a porcelain cup,2.882352941,2.052631579,1.75,2.052631579
+sjc,A silk scarf draped over a wooden hanger,0.789473684,0.444444444,0.555555556,0.619047619
+sjc,A wooden crate holding a single red apple,2.5,1.571428571,1.647058824,1.736842105
+sjc,A small wooden ship inside a glass bottle,4.294117647,3.052631579,3.0625,3.210526316
+sjc,A small cactus inside a clay pot,7,4.954545455,4.428571429,5.19047619
+sjc,A black hat hanging on a brass hook,3.888888889,3.142857143,2.705882353,3.052631579
+sjc,A penguin is waddling with a fish in its beak,2.588235294,2.263157895,1.875,2
+sjc,A dog is barking at a cat with its tail wagging,4.157894737,1.894736842,2.055555556,2.714285714
+sjc,A dog is licking an ice cream cone with its tail wagging,4.947368421,3.111111111,2.45,3.476190476
+sjc,A violinist in a black suit is playing a violin while standing on one foot,5.277777778,4.761904762,3.176470588,4.105263158
+sjc,"A cyan crab is holding a sharp, conical shell in its claw",3.368421053,2.055555556,2.111111111,2.142857143
+sjc,A yellow truck is crashing into a wooden house,0.823529412,0.894736842,1.0625,0.894736842
+sjc,A man holding a book next to a tall bookshelf,4.157894737,3.363636364,3.19047619,3.380952381
+sjc,"A turtle is crawling to a circular, white shell",4,3.611111111,2.736842105,3.45
+sjc,A brown dog is chewing a high-heeled shoe,2.95,2,2.294117647,2.263157895
+sjc,A panda is chewing on bamboo while sitting on its hind legs,5.2,4.529411765,3.941176471,4.526315789
+sjc,A knight is polishing a shield while seated on a stool,4.705882353,2.736842105,2.5625,3.157894737
+sjc,A dolphin is pushing a ball with its nose while swimming,2.947368421,1.681818182,1.904761905,1.952380952
+sjc,A bird is preening its feathers with its beak,2.789473684,2.631578947,2.611111111,2.333333333
+sjc,A duck is chasing a yellow ball with its wings flapping,5.157894737,3.727272727,3.238095238,3.857142857
+sjc,A knight is jousting with a lance while riding a white horse,3.315789474,2.157894737,1.833333333,2.142857143
+sjc,"A cat is playing with a ball of yarn, unraveling it with its paws",2.052631579,1.052631579,1,1.238095238
+sjc,A pirate is digging for treasure with a rusty shovel,4.736842105,2.954545455,2.619047619,3.095238095
+sjc,A boy is kicking a soccer ball with his foot raised,6.444444444,4.526315789,3.7,4.35
+sjc,A black cat is knocking over a glass with its paw extended,3.19047619,2.125,1.8,2.368421053
+sjc,A bat is hanging upside down from a branch with its wings folded,3.131578947,1.636363636,1.785714286,1.857142857
+sjc,A bear astronaut is planting a flag with a paw print,3.368421053,2.333333333,2.611111111,2.523809524
+sjc,A crowned koala is inspecting a mystical golden staff,2.944444444,2.210526316,1.3,1.95
+sjc,A fox magician is pulling a rabbit from a hat,4.473684211,3.5,3.631578947,3.75
+sjc,A giant tortoise is peacefully resting while a garden of mushrooms grows on its shell,4.055555556,3.19047619,2.588235294,2.947368421
+sjc,A lion rider is riding a motorcycle,5.166666667,3.684210526,2.9,3.5
+sjc,A mermaid is holding a white conch shell,5.789473684,3.545454545,2.952380952,3.666666667
+sjc,A mouse pirate is guarding a tiny treasure chest,4,2.894736842,2.625,3.052631579
+sjc,A panda detective is using a magnifying glass to examine an ancient scroll,4.052631579,2.222222222,2.666666667,2.80952381
+sjc,A parrot wearing a crown is sitting on a jeweled throne,4.631578947,3.181818182,3.047619048,3.19047619
+sjc,A penguin in a tuxedo is conducting an orchestra with a baton,5.611111111,4.684210526,3.45,4.4
+sjc,A phoenix with flaming wings is carrying a silver lantern,4.157894737,2.666666667,2.944444444,3.095238095
+sjc,A rabbit pirate is holding a treasure map with a carrot symbol,5.166666667,3.947368421,2.7,3.5
+sjc,A rabbit with a top hat is balancing on a golden egg,6,4.619047619,3.588235294,4.578947368
+sjc,A raccoon detective is studying a map under a magnifying glass,5.4,4.058823529,4,4.157894737
+sjc,A raccoon with wings is casting a spell with a magic wand,4.176470588,3.421052632,3.0625,3.263157895
+sjc,A robot butler is holding a tray with a crystal goblet,4.368421053,3.318181818,2.523809524,3.047619048
+sjc,A shark with a crown is holding a golden trident,5.777777778,4.631578947,3.5,4.1
+sjc,A skeleton knight is polishing his golden sword,5.111111111,4.210526316,3.15,3.5
+sjc,A monkey wizard is riding a flying broom and eating a banana,4.166666667,4.19047619,3.294117647,3.578947368
+sjc,A dog wearing backpack is walking on a rainbow,0.388888889,0.428571429,0.352941176,0.315789474
+textmesh,A striped zebra,3.666666667,2.75,2.7,2.684210526
+textmesh,A green pepper,9.526315789,8.947368421,8.444444444,8.904761905
+textmesh,A grey mouse,8.2,7.294117647,7.235294118,7.684210526
+textmesh,A blue vase,7.388888889,6.714285714,6.176470588,6.736842105
+textmesh,A brown bear,1,1,1.222222222,1
+textmesh,A red cup,1.761904762,1.9375,2.25,1.368421053
+textmesh,A round stool,8.352941176,7.631578947,6.9375,7.684210526
+textmesh,A wooden boat,5.368421053,4.166666667,3.666666667,4.476190476
+textmesh,A white helmet,1.052631579,1.222222222,0.95,0.952380952
+textmesh,A green umbrella,1.25,0.823529412,1.764705882,1.157894737
+textmesh,A yellow hat,5.789473684,4.666666667,4.055555556,4.666666667
+textmesh,A wooden bench,1.80952381,2.0625,1.6,1.736842105
+textmesh,A brown horse,3.210526316,2.333333333,2.947368421,2.5
+textmesh,A symmetrical arch,1.105263158,1,1.166666667,1
+textmesh,A glass bottle,1.1,1.352941176,1.411764706,1.157894737
+textmesh,A white rabbit,8.5,7.052631579,7.2,7
+textmesh,A red bus,0.764705882,0.842105263,1.3125,0.789473684
+textmesh,A blue jacket,6.736842105,5.111111111,5.444444444,5.714285714
+textmesh,A delicious hamburger,7.857142857,6.625,6,6.842105263
+textmesh,A canned Coke,8.388888889,7.736842105,6.85,7.55
+textmesh,A badge shaped like a shield,2.789473684,2.666666667,2.8,2.428571429
+textmesh,A black umbrella with a curved handle,5.052631579,3.681818182,3.857142857,3.80952381
+textmesh,A bookmark with a tassel,2.952380952,3.0625,2.45,2.631578947
+textmesh,A cactus with a blooming flower,6.166666667,5.095238095,5.117647059,5.526315789
+textmesh,A candleholder made of wrought iron,6.80952381,6.125,5.5,6.052631579
+textmesh,A chess piece carved from ivory,7.789473684,7.227272727,6.571428571,7.19047619
+textmesh,A coffee mug with a chipped rim,5,5.052631579,4.5625,4.842105263
+textmesh,A red rose with a thorny stem,1.421052632,1.166666667,1.833333333,1.285714286
+textmesh,A lamp with a fabric shade,6.105263158,5.388888889,4.473684211,5.25
+textmesh,A lipstick in a golden case,6.947368421,6.666666667,6,6.380952381
+textmesh,A model airplane with spinning propellers,5.833333333,5.904761905,5.882352941,5.894736842
+textmesh,A porcelain vase with dragon motifs,8.052631579,7.166666667,7.055555556,7.428571429
+textmesh,A soccer ball signed by players,6.055555556,6.523809524,5.647058824,6
+textmesh,A steel hammer with a rubber grip,5.85,4.764705882,5.705882353,4.736842105
+textmesh,A stone castle with a drawbridge,6.157894737,5.909090909,5.904761905,6.047619048
+textmesh,A straw hat with a blue band,7.285714286,6.25,6.2,6.473684211
+textmesh,A teddy bear holding a heart,1.294117647,1.421052632,1.6875,1.315789474
+textmesh,A wooden chair with a woven seat,6.263157895,6.055555556,5.3,6.047619048
+textmesh,A headphone with cushioned ear pads,0.947368421,1.166666667,1.05,0.857142857
+textmesh,A white sneaker with blue stripes,1,1.157894737,1.375,1
+textmesh,"A bronze goblet encrusted with rubies, with swirling engravings of dragons coiling up its stem",4.6,5.588235294,4.352941176,4.578947368
+textmesh,"A black bat with luminous red eyes, outstretched wings, and a detailed claw with subtle ridges",2.789473684,1.888888889,2.3,2.285714286
+textmesh,"A square table with intricate carvings along the legs, a scratched surface, and a missing corner",6.857142857,6.6875,5.6,6.263157895
+textmesh,"A golden lamp with an intricate bird and flower motif, and a glossy, amber-colored glass shade",6.5,7.095238095,6,6.631578947
+textmesh,"A wooden chair with a broken leg, a cushioned seat, and carved spirals on the arms",5.105263158,5.954545455,5.571428571,5.666666667
+textmesh,A porcelain teapot with a gold-trimmed spout and a painted phoenix spiraling around its surface,5.619047619,5.6875,4.6,5.473684211
+textmesh,"A round clock with a cracked face, golden hands, and worn Roman numerals along the edges",0.631578947,1.631578947,1.222222222,1.047619048
+textmesh,"A potted succulent with plump, fleshy, blue-green leaves edged in red and planted in a terracotta pot",1.117647059,1.421052632,1.1875,1.052631579
+textmesh,"A gilded picture frame adorned with ivy leaves, enclosing an oil painting of a serene landscape",4.555555556,4.476190476,5.117647059,4
+textmesh,"A blue hat with a wide brim, a finely stitched edge, and a silver feather pinned delicately to one side",5.238095238,4.8125,4.9,5
+textmesh,"A blue jacket with silver buttons, fur lining on the collar, and a tear on the right sleeve",7.263157895,6.947368421,6.777777778,7
+textmesh,"A yellow pencil with a polished finish, a sharply defined lead tip, and a vibrant red eraser",4.842105263,4.944444444,4.222222222,4.285714286
+textmesh,"A glass bottle with a chipped neck, intricate patterns swirling along the sides, and a faded label",6.647058824,6.842105263,5.5625,6.421052632
+textmesh,"A green cactus with twisted, gnarled branches, white spines, and tiny red flowers growing at the top",6.823529412,6,5.9375,6.052631579
+textmesh,"A black cat with white paws, one torn ear, and piercing green eyes, sitting with its tail curled",3.631578947,3.842105263,2.722222222,3.380952381
+textmesh,"A ceramic vase with swirling patterns etched into the surface, a chipped rim, and a long, narrow neck",6.05,6.882352941,5.588235294,6.052631579
+textmesh,"A white dove with one bent wing, a scarred beak, and a single, grey feather among its tail",4.894736842,4.333333333,4.55,4.619047619
+textmesh,"A bronze statue of a warrior with one arm raised, and a weathered, cracked base",5.055555556,4.285714286,3.794117647,4.157894737
+textmesh,"A wooden cabin with a finely crafted stone chimney, detailed log walls, and a delicately carved wooden door",6.888888889,6.238095238,6,6.526315789
+textmesh,"A golden crown with missing jewels, a slightly bent band, and intricate scrollwork along the edges",5.19047619,5.75,4.45,5.210526316
+textmesh,A cactus blooming flowers made of glowing embers,2.2,2.235294118,1.823529412,1.894736842
+textmesh,"A candleholder resembling a twisted, gnarled tree branch",5.894736842,4.818181818,4.952380952,5
+textmesh,A castle built entirely from interlocking giant seashells,5.473684211,5.772727273,5.19047619,5.380952381
+textmesh,"A chair made from intertwined vines, leaves still attached",5.157894737,5.388888889,4.888888889,5.047619048
+textmesh,A flower that blooms metallic petals shaped like butterflies,1.277777778,1.047619048,1.058823529,1.368421053
+textmesh,"A frog wearing a tailored shirt with tiny gold buttons, a red bow tie",5.047619048,4.375,3.8,4.368421053
+textmesh,A headphone with ear cups shaped like intricate seashells,1.684210526,1.863636364,1.904761905,1.714285714
+textmesh,"A hippo explorer dressed in a khaki outfit, with binoculars slung around its neck",6.1,6.411764706,6.176470588,6.315789474
+textmesh,"A house made from oversized mushrooms, walls and roof",3.684210526,3.5,2.952380952,3.238095238
+textmesh,"A house shaped like a giant teapot, complete with handle and spout",4.894736842,5.473684211,3.944444444,4.285714286
+textmesh,A hummingbird with wings made of shimmering glass,4.263157895,3.5,3.3,3.523809524
+textmesh,"A key carved from bone, adorned with tiny sculpted figures",5.736842105,5.947368421,4.722222222,5.619047619
+textmesh,"A lamp in the form of a tree, branches holding lights",3.631578947,2.909090909,2.904761905,2.714285714
+textmesh,A mushroom with a cap resembling a stained glass window,8,7.894736842,7.5625,7.526315789
+textmesh,A paintbrush with bristles made of tiny flower petals,7.428571429,6.875,6.05,6.789473684
+textmesh,"A rabbit with butterfly wings instead of ears, patterns vivid",4.444444444,4.526315789,3.85,3.85
+textmesh,"A shoe designed to look like fish, scales detailed and shiny",4.263157895,5.944444444,4.9,4.904761905
+textmesh,A skyscraper constructed from stacked books of varying sizes,5.388888889,5.380952381,5.176470588,5.473684211
+textmesh,A sunflower with a center that is a functioning clock face,1.105263158,1.473684211,1.444444444,1.19047619
+textmesh,An earring designed as miniature chandeliers adorned with crystals,5.444444444,4.421052632,3.55,4.15
+textmesh,A black camera and a metal tripod,7.166666667,6.666666667,5.705882353,6.684210526
+textmesh,A blue umbrella and a silver key,1.588235294,2.052631579,2.375,1.631578947
+textmesh,A bronze helmet and a golden crown,2.777777778,3.263157895,3.75,2.85
+textmesh,A photo frame and a furry teddy bear,2.263157895,2.272727273,2.428571429,1.904761905
+textmesh,A wooden house and a coconut tree,4.052631579,3.444444444,3.666666667,3.571428571
+textmesh,A wooden easel and a canvas painting,1.882352941,1.842105263,2.375,1.631578947
+textmesh,A green apple and a bronze coin,4.684210526,4.631578947,4.388888889,4.285714286
+textmesh,A green cactus and a glass bottle,5.421052632,7,6.8,5.904761905
+textmesh,A leather wallet and a cotton hat,4.473684211,5.055555556,5.45,4.666666667
+textmesh,A metal pen and a plastic ruler,3.166666667,3.526315789,2.75,2.9
+textmesh,A plastic spoon and a ceramic cup,3.473684211,3.545454545,3.333333333,3.19047619
+textmesh,A yellow lemon and a square table,2.842105263,3.5,2.947368421,3.1
+textmesh,A red chair and a yellow tennis ball,5.421052632,3.894736842,4.166666667,4.333333333
+textmesh,A round clock and a wooden shelf,0.526315789,1.157894737,1.055555556,0.714285714
+textmesh,A silver teapot and a golden cup,3.428571429,4.25,4.2,3.684210526
+textmesh,A white flower and a green vase,3.894736842,4.388888889,4.3,4.047619048
+textmesh,A gray rabbit and a brown squirrel,1.526315789,1.315789474,1.055555556,1.333333333
+textmesh,A wooden bench and a bronze statue,0.888888889,1.315789474,1.15,0.95
+textmesh,A metal sword and a bronze shield,1.842105263,2.5,2.55,2.047619048
+textmesh,A wooden table and a red candle,4.6,5.882352941,5.647058824,5.052631579
+textmesh,A polished silver bell resting on a wooden stand,7.105263158,7.210526316,6.888888889,7
+textmesh,A white orchid in a ceramic vase,3.263157895,3.666666667,3.3,3.142857143
+textmesh,A white candle in an iron holder,4.210526316,4.111111111,4.25,4.142857143
+textmesh,A set of dice beside a deck of cards,3.315789474,3.272727273,2.619047619,2.80952381
+textmesh,A ripe strawberry on a delicious cake,3.263157895,3.222222222,3.2,3
+textmesh,A pink backpack on a yellow kayak,6.631578947,5.222222222,4.842105263,5.85
+textmesh,A rubber duck next to a wooden comb,4.761904762,6.0625,5.9,5.631578947
+textmesh,A swallow on a red brick square chimney,4.666666667,3.631578947,3.85,3.65
+textmesh,"A green plant on a rectangular, wooden chair",8,6.947368421,6.388888889,7.19047619
+textmesh,A handwoven basket filled with a ripe peach,0.894736842,0.888888889,0.789473684,0.8
+textmesh,A pair of black shoes beside a white hat,5.117647059,4.315789474,4.9375,4.263157895
+textmesh,A blue butterfly perched on a yellow flower,3.055555556,2.666666667,3.176470588,3.157894737
+textmesh,A guitar leaning against a wooden chair,2.222222222,2.526315789,3.05,2.4
+textmesh,A brass key hanging on a metal hook,4.117647059,3.894736842,4.0625,3.842105263
+textmesh,A glass teapot next to a porcelain cup,0.789473684,1.444444444,1.666666667,1.047619048
+textmesh,A silk scarf draped over a wooden hanger,3.823529412,4.052631579,4.875,3.894736842
+textmesh,A wooden crate holding a single red apple,4.714285714,6.4375,6.4,5.631578947
+textmesh,A small wooden ship inside a glass bottle,3.526315789,2.578947368,2.888888889,2.857142857
+textmesh,A small cactus inside a clay pot,9.055555556,8.428571429,8.529411765,8.894736842
+textmesh,A black hat hanging on a brass hook,4.157894737,4.277777778,4.210526316,4.2
+textmesh,A penguin is waddling with a fish in its beak,5.523809524,5.75,5.8,5.631578947
+textmesh,A dog is barking at a cat with its tail wagging,2.952380952,2.9375,2.8,2.894736842
+textmesh,A dog is licking an ice cream cone with its tail wagging,5.578947368,4.277777778,4.6,4.80952381
+textmesh,A violinist in a black suit is playing a violin while standing on one foot,6.473684211,5.055555556,4.95,5.380952381
+textmesh,"A cyan crab is holding a sharp, conical shell in its claw",4.055555556,3.666666667,3.352941176,3.578947368
+textmesh,A yellow truck is crashing into a wooden house,1.842105263,1.736842105,2.166666667,1.571428571
+textmesh,A man holding a book next to a tall bookshelf,2.684210526,2.222222222,2.611111111,2.333333333
+textmesh,"A turtle is crawling to a circular, white shell",4.894736842,6.055555556,5.842105263,5.4
+textmesh,A brown dog is chewing a high-heeled shoe,5.222222222,4.380952381,4.588235294,4.263157895
+textmesh,A panda is chewing on bamboo while sitting on its hind legs,3.105263158,2.222222222,2.789473684,2.45
+textmesh,A knight is polishing a shield while seated on a stool,6.65,5.235294118,5.529411765,5.315789474
+textmesh,A dolphin is pushing a ball with its nose while swimming,3.526315789,3.611111111,3.8,3.476190476
+textmesh,A bird is preening its feathers with its beak,4.052631579,3,3.055555556,3.333333333
+textmesh,A duck is chasing a yellow ball with its wings flapping,4.210526316,3.5,3.777777778,3.523809524
+textmesh,A knight is jousting with a lance while riding a white horse,6,4.684210526,4.4,4.9
+textmesh,"A cat is playing with a ball of yarn, unraveling it with its paws",3.65,3.117647059,3.411764706,3.105263158
+textmesh,A pirate is digging for treasure with a rusty shovel,5.888888889,4.578947368,4.6,4.35
+textmesh,A boy is kicking a soccer ball with his foot raised,1.222222222,1.571428571,0.764705882,1.421052632
+textmesh,A black cat is knocking over a glass with its paw extended,3.944444444,3.526315789,3.9,3.45
+textmesh,A bat is hanging upside down from a branch with its wings folded,2.842105263,2.5,2.619047619,2.333333333
+textmesh,A bear astronaut is planting a flag with a paw print,5.473684211,5.210526316,4.611111111,5.19047619
+textmesh,A crowned koala is inspecting a mystical golden staff,5.470588235,5.842105263,5.5625,5.578947368
+textmesh,A fox magician is pulling a rabbit from a hat,3.095238095,3.1875,3.45,3.157894737
+textmesh,A giant tortoise is peacefully resting while a garden of mushrooms grows on its shell,5.380952381,5.9375,5.7,5.631578947
+textmesh,A lion rider is riding a motorcycle,7,5.210526316,4.75,5.631578947
+textmesh,A mermaid is holding a white conch shell,5.526315789,4.166666667,3.95,4.523809524
+textmesh,A mouse pirate is guarding a tiny treasure chest,3.176470588,2.947368421,2.8125,2.526315789
+textmesh,A panda detective is using a magnifying glass to examine an ancient scroll,4.388888889,3.684210526,3.95,3.45
+textmesh,A parrot wearing a crown is sitting on a jeweled throne,7.473684211,6.5,6.222222222,6.761904762
+textmesh,A penguin in a tuxedo is conducting an orchestra with a baton,3.647058824,3.842105263,4.0625,3.421052632
+textmesh,A phoenix with flaming wings is carrying a silver lantern,2.722222222,2.421052632,2.7,2.1
+textmesh,A rabbit pirate is holding a treasure map with a carrot symbol,3.421052632,3.277777778,3.157894737,3.1
+textmesh,A rabbit with a top hat is balancing on a golden egg,3.210526316,3.888888889,3.684210526,3.3
+textmesh,A raccoon detective is studying a map under a magnifying glass,3.631578947,2.777777778,3.7,3.285714286
+textmesh,A raccoon with wings is casting a spell with a magic wand,6.157894737,5.263157895,6.111111111,5.619047619
+textmesh,A robot butler is holding a tray with a crystal goblet,5.263157895,4.333333333,4.35,4.761904762
+textmesh,A shark with a crown is holding a golden trident,5.052631579,4.611111111,4.631578947,4.75
+textmesh,A skeleton knight is polishing his golden sword,4.263157895,2.166666667,2.888888889,2.761904762
+textmesh,A monkey wizard is riding a flying broom and eating a banana,6.421052632,5.166666667,5.052631579,5.45
+textmesh,A dog wearing backpack is walking on a rainbow,4.222222222,4.333333333,4,4.263157895
+3dtopia,A striped zebra,4.5,3.761904762,4.941176471,3.947368421
+3dtopia,A green pepper,6.411764706,5.421052632,5.8125,5.736842105
+3dtopia,A grey mouse,2.631578947,1.944444444,2.6,2.047619048
+3dtopia,A blue vase,6.8,5.823529412,5.529411765,5.947368421
+3dtopia,A brown bear,6.157894737,3.545454545,4.333333333,4.476190476
+3dtopia,A red cup,5.80952381,4.4375,4.75,5.105263158
+3dtopia,A round stool,8.789473684,8.090909091,7.714285714,8.238095238
+3dtopia,A wooden boat,6.421052632,4.388888889,5.105263158,5.15
+3dtopia,A white helmet,4.294117647,4.052631579,3.9375,4.105263158
+3dtopia,A green umbrella,6.789473684,5.444444444,5.75,5.666666667
+3dtopia,A yellow hat,2.555555556,2.142857143,3.176470588,2.315789474
+3dtopia,A wooden bench,8.789473684,8.166666667,8.421052632,8.5
+3dtopia,A brown horse,6.842105263,4.789473684,5.777777778,5.476190476
+3dtopia,A symmetrical arch,7.9,7.411764706,7.588235294,7.578947368
+3dtopia,A glass bottle,5.5,3.588235294,4.352941176,4.473684211
+3dtopia,A white rabbit,5.214285714,4.65625,4.5,4.684210526
+3dtopia,A red bus,6.210526316,4.842105263,4.055555556,4.952380952
+3dtopia,A blue jacket,8.722222222,8.052631579,7.5,7.95
+3dtopia,A delicious hamburger,2,1.888888889,2.105263158,1.85
+3dtopia,A canned Coke,3,4.333333333,2.117647059,3
+3dtopia,A badge shaped like a shield,7.894736842,7.666666667,7.55,7.714285714
+3dtopia,A black umbrella with a curved handle,2.952380952,2.25,2.4,2.421052632
+3dtopia,A bookmark with a tassel,5.80952381,5.5,6.05,5.578947368
+3dtopia,A cactus with a blooming flower,3.157894737,2.666666667,2.5,2.619047619
+3dtopia,A candleholder made of wrought iron,7,4.681818182,5.761904762,5.571428571
+3dtopia,A chess piece carved from ivory,8.111111111,7.428571429,7.235294118,7.684210526
+3dtopia,A coffee mug with a chipped rim,4.684210526,4.444444444,4.315789474,4.45
+3dtopia,A red rose with a thorny stem,5.555555556,4.19047619,4.588235294,4.421052632
+3dtopia,A lamp with a fabric shade,8.578947368,7.333333333,7.684210526,7.9
+3dtopia,A lipstick in a golden case,4.842105263,5.5,5.65,5.047619048
+3dtopia,A model airplane with spinning propellers,0.470588235,0.526315789,0.8125,0.578947368
+3dtopia,A porcelain vase with dragon motifs,6.411764706,5.105263158,5.375,5.526315789
+3dtopia,A soccer ball signed by players,3.555555556,4.095238095,3.411764706,3.894736842
+3dtopia,A steel hammer with a rubber grip,6.684210526,6.555555556,6.85,6.666666667
+3dtopia,A stone castle with a drawbridge,5.647058824,6.421052632,6.9375,6.157894737
+3dtopia,A straw hat with a blue band,4.315789474,4.578947368,3.166666667,4.19047619
+3dtopia,A teddy bear holding a heart,3.789473684,3.833333333,3.666666667,3.714285714
+3dtopia,A wooden chair with a woven seat,8.894736842,8.888888889,8.578947368,9
+3dtopia,A headphone with cushioned ear pads,2.277777778,3.210526316,4.55,2.7
+3dtopia,A white sneaker with blue stripes,2.684210526,1.833333333,3,2.333333333
+3dtopia,"A bronze goblet encrusted with rubies, with swirling engravings of dragons coiling up its stem",7.444444444,6.210526316,6.45,6.45
+3dtopia,"A black bat with luminous red eyes, outstretched wings, and a detailed claw with subtle ridges",2.684210526,3.421052632,3.888888889,3
+3dtopia,"A square table with intricate carvings along the legs, a scratched surface, and a missing corner",5.526315789,5,4.722222222,5.380952381
+3dtopia,"A golden lamp with an intricate bird and flower motif, and a glossy, amber-colored glass shade",7.315789474,6.590909091,6.904761905,6.857142857
+3dtopia,"A wooden chair with a broken leg, a cushioned seat, and carved spirals on the arms",6.052631579,5.105263158,5.666666667,5.619047619
+3dtopia,A porcelain teapot with a gold-trimmed spout and a painted phoenix spiraling around its surface,5.157894737,4.444444444,4.8,4.80952381
+3dtopia,"A round clock with a cracked face, golden hands, and worn Roman numerals along the edges",7.631578947,7.333333333,7.444444444,7.19047619
+3dtopia,"A potted succulent with plump, fleshy, blue-green leaves edged in red and planted in a terracotta pot",5.176470588,4.105263158,4.5,4.473684211
+3dtopia,"A gilded picture frame adorned with ivy leaves, enclosing an oil painting of a serene landscape",7.473684211,6.409090909,6.952380952,7
+3dtopia,"A blue hat with a wide brim, a finely stitched edge, and a silver feather pinned delicately to one side",2.578947368,2.578947368,3.277777778,2.476190476
+3dtopia,"A blue jacket with silver buttons, fur lining on the collar, and a tear on the right sleeve",6.105263158,6,5.55,5.761904762
+3dtopia,"A yellow pencil with a polished finish, a sharply defined lead tip, and a vibrant red eraser",4.722222222,5.421052632,5.05,4.85
+3dtopia,"A glass bottle with a chipped neck, intricate patterns swirling along the sides, and a faded label",5.684210526,5.833333333,5.4,5.80952381
+3dtopia,"A green cactus with twisted, gnarled branches, white spines, and tiny red flowers growing at the top",5.166666667,4.666666667,5,4.842105263
+3dtopia,"A black cat with white paws, one torn ear, and piercing green eyes, sitting with its tail curled",2.047619048,1.9375,1.35,1.526315789
+3dtopia,"A ceramic vase with swirling patterns etched into the surface, a chipped rim, and a long, narrow neck",5.789473684,4.052631579,5.944444444,5.142857143
+3dtopia,"A white dove with one bent wing, a scarred beak, and a single, grey feather among its tail",3.631578947,3,4.333333333,3.095238095
+3dtopia,"A bronze statue of a warrior with one arm raised, and a weathered, cracked base",4.526315789,4.333333333,5.35,4.380952381
+3dtopia,"A wooden cabin with a finely crafted stone chimney, detailed log walls, and a delicately carved wooden door",6.368421053,6,6.631578947,6.55
+3dtopia,"A golden crown with missing jewels, a slightly bent band, and intricate scrollwork along the edges",1.352941176,1.578947368,2,1.368421053
+3dtopia,A cactus blooming flowers made of glowing embers,4.894736842,4.111111111,4.894736842,4.75
+3dtopia,"A candleholder resembling a twisted, gnarled tree branch",5.333333333,4.947368421,6.15,4.8
+3dtopia,A castle built entirely from interlocking giant seashells,3.555555556,3.619047619,3.705882353,3.526315789
+3dtopia,"A chair made from intertwined vines, leaves still attached",2.578947368,1.333333333,1.6,1.761904762
+3dtopia,A flower that blooms metallic petals shaped like butterflies,4.473684211,3.227272727,4.142857143,3.571428571
+3dtopia,"A frog wearing a tailored shirt with tiny gold buttons, a red bow tie",5.117647059,4.052631579,4.4375,3.947368421
+3dtopia,A headphone with ear cups shaped like intricate seashells,1.142857143,1.375,1.5,1.210526316
+3dtopia,"A hippo explorer dressed in a khaki outfit, with binoculars slung around its neck",5.052631579,4,4.944444444,4.285714286
+3dtopia,"A house made from oversized mushrooms, walls and roof",5.15,4.411764706,4.705882353,4.526315789
+3dtopia,"A house shaped like a giant teapot, complete with handle and spout",6.333333333,6.0625,5.1,5.684210526
+3dtopia,A hummingbird with wings made of shimmering glass,2.055555556,2.684210526,3.15,2.1
+3dtopia,"A key carved from bone, adorned with tiny sculpted figures",3.421052632,3.055555556,3,2.9
+3dtopia,"A lamp in the form of a tree, branches holding lights",4.263157895,3.333333333,3.631578947,3.45
+3dtopia,A mushroom with a cap resembling a stained glass window,3.294117647,3.210526316,3.6875,3.052631579
+3dtopia,A paintbrush with bristles made of tiny flower petals,2.470588235,2.368421053,3.125,2.421052632
+3dtopia,"A rabbit with butterfly wings instead of ears, patterns vivid",5.388888889,6.333333333,5.764705882,6.052631579
+3dtopia,"A shoe designed to look like fish, scales detailed and shiny",2.882352941,3.105263158,4.0625,2.789473684
+3dtopia,A skyscraper constructed from stacked books of varying sizes,6.444444444,5.80952381,5.352941176,5.789473684
+3dtopia,A sunflower with a center that is a functioning clock face,4.157894737,3.894736842,4.388888889,3.952380952
+3dtopia,An earring designed as miniature chandeliers adorned with crystals,7.684210526,6.777777778,6.947368421,7.15
+3dtopia,A black camera and a metal tripod,3.947368421,3.388888889,4.3,3.571428571
+3dtopia,A blue umbrella and a silver key,3.055555556,2.904761905,3.117647059,3
+3dtopia,A bronze helmet and a golden crown,4.578947368,4.157894737,5.611111111,4.380952381
+3dtopia,A photo frame and a furry teddy bear,6.85,6.882352941,7.764705882,6.736842105
+3dtopia,A wooden house and a coconut tree,2.294117647,1.894736842,3.3125,2.052631579
+3dtopia,A wooden easel and a canvas painting,5.777777778,6.380952381,6.294117647,5.947368421
+3dtopia,A green apple and a bronze coin,1.789473684,1.888888889,2.388888889,2
+3dtopia,A green cactus and a glass bottle,4.238095238,4.1875,4.45,4.210526316
+3dtopia,A leather wallet and a cotton hat,4.052631579,5.090909091,5.333333333,4.523809524
+3dtopia,A metal pen and a plastic ruler,6.761904762,6.375,5.65,6.052631579
+3dtopia,A plastic spoon and a ceramic cup,3.473684211,3.166666667,2.947368421,2.9
+3dtopia,A yellow lemon and a square table,3.277777778,3.263157895,3.4,3.1
+3dtopia,A red chair and a yellow tennis ball,3.105263158,4.555555556,4.7,3.476190476
+3dtopia,A round clock and a wooden shelf,4.526315789,4.055555556,4.5,3.952380952
+3dtopia,A silver teapot and a golden cup,3.947368421,3.727272727,4.285714286,3.857142857
+3dtopia,A white flower and a green vase,3.947368421,3.578947368,3.611111111,3.952380952
+3dtopia,A gray rabbit and a brown squirrel,3.444444444,3.714285714,3.764705882,3.368421053
+3dtopia,A wooden bench and a bronze statue,4.294117647,6.473684211,6.0625,4.842105263
+3dtopia,A metal sword and a bronze shield,5.238095238,6.25,6.7,5.842105263
+3dtopia,A wooden table and a red candle,3.166666667,3.476190476,3.352941176,3.263157895
+3dtopia,A polished silver bell resting on a wooden stand,4.388888889,4.947368421,5.5,4.5
+3dtopia,A white orchid in a ceramic vase,4.210526316,4.545454545,4.476190476,4.285714286
+3dtopia,A white candle in an iron holder,2.944444444,3.052631579,3.8,2.55
+3dtopia,A set of dice beside a deck of cards,2.789473684,3.789473684,3.888888889,3
+3dtopia,A ripe strawberry on a delicious cake,2.789473684,2.277777778,3.166666667,2.857142857
+3dtopia,A pink backpack on a yellow kayak,3.263157895,3.409090909,4.095238095,3.238095238
+3dtopia,A rubber duck next to a wooden comb,1.277777778,1.578947368,2.3,1.3
+3dtopia,A swallow on a red brick square chimney,5.888888889,6.619047619,7,6.263157895
+3dtopia,"A green plant on a rectangular, wooden chair",4.684210526,6.421052632,6.055555556,5.142857143
+3dtopia,A handwoven basket filled with a ripe peach,5.526315789,4.894736842,5.611111111,5.095238095
+3dtopia,A pair of black shoes beside a white hat,0.7,0.941176471,1.176470588,0.736842105
+3dtopia,A blue butterfly perched on a yellow flower,2.473684211,1.954545455,1.857142857,2.047619048
+3dtopia,A guitar leaning against a wooden chair,4.888888889,5.578947368,6.2,4.95
+3dtopia,A brass key hanging on a metal hook,4.3,5.294117647,5.882352941,4.473684211
+3dtopia,A glass teapot next to a porcelain cup,4.45,5.411764706,5.411764706,4.789473684
+3dtopia,A silk scarf draped over a wooden hanger,7.238095238,5.8125,6.6,6.631578947
+3dtopia,A wooden crate holding a single red apple,5.052631579,4.526315789,5.388888889,4.523809524
+3dtopia,A small wooden ship inside a glass bottle,2.444444444,2.333333333,2.470588235,2.263157895
+3dtopia,A small cactus inside a clay pot,7,6.421052632,5.65,6.1
+3dtopia,A black hat hanging on a brass hook,3.263157895,2.954545455,3.285714286,3
+3dtopia,A penguin is waddling with a fish in its beak,3.368421053,2.222222222,2.833333333,2.714285714
+3dtopia,A dog is barking at a cat with its tail wagging,3.210526316,2.055555556,3.105263158,2.4
+3dtopia,A dog is licking an ice cream cone with its tail wagging,2.333333333,1.947368421,2.75,1.75
+3dtopia,A violinist in a black suit is playing a violin while standing on one foot,4,3.526315789,3.65,3.3
+3dtopia,"A cyan crab is holding a sharp, conical shell in its claw",2.842105263,2.5,3.055555556,2.761904762
+3dtopia,A yellow truck is crashing into a wooden house,4.777777778,6.142857143,5.882352941,5.421052632
+3dtopia,A man holding a book next to a tall bookshelf,4.75,3.941176471,4.941176471,4.315789474
+3dtopia,"A turtle is crawling to a circular, white shell",3.714285714,3.375,4.1,3.578947368
+3dtopia,A brown dog is chewing a high-heeled shoe,3.263157895,2.318181818,2.761904762,2.428571429
+3dtopia,A panda is chewing on bamboo while sitting on its hind legs,1.789473684,1.318181818,1.619047619,1.380952381
+3dtopia,A knight is polishing a shield while seated on a stool,5.111111111,4.619047619,5,4.842105263
+3dtopia,A dolphin is pushing a ball with its nose while swimming,4.263157895,3.833333333,4.15,4
+3dtopia,A bird is preening its feathers with its beak,3.736842105,2.944444444,3.315789474,2.9
+3dtopia,A duck is chasing a yellow ball with its wings flapping,1.578947368,1.578947368,1.777777778,1.380952381
+3dtopia,A knight is jousting with a lance while riding a white horse,4,3.444444444,3.947368421,3.5
+3dtopia,"A cat is playing with a ball of yarn, unraveling it with its paws",1.105263158,0.888888889,1.277777778,1.142857143
+3dtopia,A pirate is digging for treasure with a rusty shovel,3.210526316,2.409090909,3.095238095,2.571428571
+3dtopia,A boy is kicking a soccer ball with his foot raised,3.65,2.352941176,2.823529412,2.684210526
+3dtopia,A black cat is knocking over a glass with its paw extended,1.210526316,0.777777778,1.578947368,0.95
+3dtopia,A bat is hanging upside down from a branch with its wings folded,2.105263158,1.611111111,2.3,1.952380952
+3dtopia,A bear astronaut is planting a flag with a paw print,4.761904762,3.4375,4.85,4.157894737
+3dtopia,A crowned koala is inspecting a mystical golden staff,3.526315789,2.545454545,3.333333333,2.428571429
+3dtopia,A fox magician is pulling a rabbit from a hat,2.944444444,2.368421053,2.55,2.15
+3dtopia,A giant tortoise is peacefully resting while a garden of mushrooms grows on its shell,2.684210526,2.166666667,2.684210526,2.3
+3dtopia,A lion rider is riding a motorcycle,4.1,3.176470588,3.117647059,3.157894737
+3dtopia,A mermaid is holding a white conch shell,2.789473684,2.888888889,3.052631579,2.6
+3dtopia,A mouse pirate is guarding a tiny treasure chest,3,3.555555556,3.842105263,3.3
+3dtopia,A panda detective is using a magnifying glass to examine an ancient scroll,0.526315789,0.636363636,0.761904762,0.476190476
+3dtopia,A parrot wearing a crown is sitting on a jeweled throne,3.684210526,2.944444444,3.7,3.380952381
+3dtopia,A penguin in a tuxedo is conducting an orchestra with a baton,1.294117647,1.684210526,1.875,1.526315789
+3dtopia,A phoenix with flaming wings is carrying a silver lantern,2.578947368,2.578947368,3.222222222,2.285714286
+3dtopia,A rabbit pirate is holding a treasure map with a carrot symbol,4.947368421,4.473684211,4.222222222,4.333333333
+3dtopia,A rabbit with a top hat is balancing on a golden egg,2.294117647,2.342105263,2.9375,2.210526316
+3dtopia,A raccoon detective is studying a map under a magnifying glass,2.578947368,1.944444444,2.947368421,2.2
+3dtopia,A raccoon with wings is casting a spell with a magic wand,3.476190476,3.125,3.45,3.157894737
+3dtopia,A robot butler is holding a tray with a crystal goblet,4.611111111,4,3.705882353,3.684210526
+3dtopia,A shark with a crown is holding a golden trident,3.222222222,4.052631579,4.95,3.7
+3dtopia,A skeleton knight is polishing his golden sword,5.105263158,3.894736842,5.055555556,4.666666667
+3dtopia,A monkey wizard is riding a flying broom and eating a banana,4.166666667,3.894736842,4.7,3.65
+3dtopia,A dog wearing backpack is walking on a rainbow,3.894736842,3.666666667,3.388888889,3.714285714
+consistent3d,A striped zebra,4.761904762,3.125,3.8,3.631578947
+consistent3d,A green pepper,5.736842105,5,4.722222222,4.904761905
+consistent3d,A grey mouse,6,5.142857143,4.941176471,4.421052632
+consistent3d,A blue vase,4.526315789,3,3.210526316,3.25
+consistent3d,A brown bear,6.421052632,4.105263158,4.444444444,4.238095238
+consistent3d,A red cup,5.333333333,4.571428571,4.823529412,4.842105263
+consistent3d,A round stool,8.210526316,6.894736842,5.5,6.80952381
+consistent3d,A wooden boat,6.19047619,5,4.1,5.105263158
+consistent3d,A white helmet,6,4.75,4.45,5.105263158
+consistent3d,A green umbrella,3.411764706,2.526315789,2.8125,2.210526316
+consistent3d,A yellow hat,6.526315789,5.409090909,5.619047619,5.428571429
+consistent3d,A wooden bench,3.80952381,2.875,3.15,3.105263158
+consistent3d,A brown horse,5.476190476,3.9375,4.35,4.210526316
+consistent3d,A symmetrical arch,0.888888889,1,1.55,1
+consistent3d,A glass bottle,5,3.105263158,3.555555556,3.619047619
+consistent3d,A white rabbit,7.789473684,5.157894737,5.611111111,5.666666667
+consistent3d,A red bus,2.736842105,1.736842105,2.333333333,2.047619048
+consistent3d,A blue jacket,5.684210526,4.454545455,4.238095238,4.476190476
+consistent3d,A delicious hamburger,5.857142857,4.75,4.8,4.894736842
+consistent3d,A canned Coke,5.789473684,3.263157895,3.722222222,4
+consistent3d,A badge shaped like a shield,4.210526316,3.555555556,3.263157895,3.4
+consistent3d,A black umbrella with a curved handle,3.631578947,2.590909091,3.238095238,2.666666667
+consistent3d,A bookmark with a tassel,4.166666667,3.476190476,3.235294118,3.526315789
+consistent3d,A cactus with a blooming flower,7,6.411764706,5.529411765,6.105263158
+consistent3d,A candleholder made of wrought iron,7.421052632,6.222222222,5.666666667,6.523809524
+consistent3d,A chess piece carved from ivory,7.947368421,7.444444444,6.736842105,7.3
+consistent3d,A coffee mug with a chipped rim,5.368421053,4.277777778,3.5,4.428571429
+consistent3d,A red rose with a thorny stem,3.5,2.647058824,2.647058824,2.631578947
+consistent3d,A lamp with a fabric shade,6.166666667,4.684210526,4.9,4.75
+consistent3d,A lipstick in a golden case,6.111111111,6.142857143,5.352941176,5.631578947
+consistent3d,A model airplane with spinning propellers,3.263157895,2.684210526,2.666666667,2.714285714
+consistent3d,A porcelain vase with dragon motifs,6.421052632,3.894736842,5.777777778,4.952380952
+consistent3d,A soccer ball signed by players,5.526315789,5,4.055555556,4.761904762
+consistent3d,A steel hammer with a rubber grip,6.105263158,5.277777778,5,5.380952381
+consistent3d,A stone castle with a drawbridge,3.684210526,3.333333333,3.789473684,3.6
+consistent3d,A straw hat with a blue band,6.714285714,4.875,5.05,5.210526316
+consistent3d,A teddy bear holding a heart,6.368421053,4.888888889,4.85,4.761904762
+consistent3d,A wooden chair with a woven seat,6.619047619,5.75,4.85,5.894736842
+consistent3d,A headphone with cushioned ear pads,7.8,6.823529412,6.352941176,6.789473684
+consistent3d,A white sneaker with blue stripes,8.5,8,6.7,7.4
+consistent3d,"A bronze goblet encrusted with rubies, with swirling engravings of dragons coiling up its stem",6.555555556,6.666666667,5.823529412,6.421052632
+consistent3d,"A black bat with luminous red eyes, outstretched wings, and a detailed claw with subtle ridges",4.944444444,4.052631579,4.25,3.7
+consistent3d,"A square table with intricate carvings along the legs, a scratched surface, and a missing corner",3.894736842,3,3.555555556,3.238095238
+consistent3d,"A golden lamp with an intricate bird and flower motif, and a glossy, amber-colored glass shade",5.631578947,4.388888889,4.75,4.619047619
+consistent3d,"A wooden chair with a broken leg, a cushioned seat, and carved spirals on the arms",5.428571429,3.9375,4.15,4.526315789
+consistent3d,A porcelain teapot with a gold-trimmed spout and a painted phoenix spiraling around its surface,4.842105263,4,3.388888889,3.952380952
+consistent3d,"A round clock with a cracked face, golden hands, and worn Roman numerals along the edges",2.25,2.411764706,2.352941176,2.157894737
+consistent3d,"A potted succulent with plump, fleshy, blue-green leaves edged in red and planted in a terracotta pot",6.157894737,4.611111111,5.15,5.238095238
+consistent3d,"A gilded picture frame adorned with ivy leaves, enclosing an oil painting of a serene landscape",1.35,1.176470588,1.470588235,1.157894737
+consistent3d,"A blue hat with a wide brim, a finely stitched edge, and a silver feather pinned delicately to one side",5.833333333,6.428571429,6.176470588,6.421052632
+consistent3d,"A blue jacket with silver buttons, fur lining on the collar, and a tear on the right sleeve",5.555555556,4.904761905,4.941176471,4.947368421
+consistent3d,"A yellow pencil with a polished finish, a sharply defined lead tip, and a vibrant red eraser",5.894736842,5.227272727,3.714285714,4.80952381
+consistent3d,"A glass bottle with a chipped neck, intricate patterns swirling along the sides, and a faded label",4.5,3.882352941,2.588235294,3.684210526
+consistent3d,"A green cactus with twisted, gnarled branches, white spines, and tiny red flowers growing at the top",6.904761905,6.375,6.15,6.421052632
+consistent3d,"A black cat with white paws, one torn ear, and piercing green eyes, sitting with its tail curled",4.263157895,3.055555556,3.055555556,3.095238095
+consistent3d,"A ceramic vase with swirling patterns etched into the surface, a chipped rim, and a long, narrow neck",5.421052632,3.263157895,4.666666667,4.476190476
+consistent3d,"A white dove with one bent wing, a scarred beak, and a single, grey feather among its tail",5.15,5.058823529,5.058823529,4.736842105
+consistent3d,"A bronze statue of a warrior with one arm raised, and a weathered, cracked base",5.666666667,5.047619048,4.764705882,4.842105263
+consistent3d,"A wooden cabin with a finely crafted stone chimney, detailed log walls, and a delicately carved wooden door",6.111111111,5.142857143,5,5.157894737
+consistent3d,"A golden crown with missing jewels, a slightly bent band, and intricate scrollwork along the edges",4.705882353,4.263157895,3.875,4.473684211
+consistent3d,A cactus blooming flowers made of glowing embers,7.05,7,6.882352941,6.842105263
+consistent3d,"A candleholder resembling a twisted, gnarled tree branch",7.619047619,7.4375,6.4,7.210526316
+consistent3d,A castle built entirely from interlocking giant seashells,4.9,4.882352941,5.294117647,4.736842105
+consistent3d,"A chair made from intertwined vines, leaves still attached",6.529411765,6.052631579,5.5625,5.947368421
+consistent3d,A flower that blooms metallic petals shaped like butterflies,3.526315789,2.681818182,2.80952381,2.666666667
+consistent3d,"A frog wearing a tailored shirt with tiny gold buttons, a red bow tie",6.473684211,5.090909091,4.761904762,4.904761905
+consistent3d,A headphone with ear cups shaped like intricate seashells,6.263157895,4,4.777777778,5.095238095
+consistent3d,"A hippo explorer dressed in a khaki outfit, with binoculars slung around its neck",5.157894737,4.055555556,3.888888889,4.19047619
+consistent3d,"A house made from oversized mushrooms, walls and roof",4.75,3.823529412,4,4.263157895
+consistent3d,"A house shaped like a giant teapot, complete with handle and spout",5.105263158,5.473684211,4.611111111,4.571428571
+consistent3d,A hummingbird with wings made of shimmering glass,4.777777778,4.952380952,4,4.157894737
+consistent3d,"A key carved from bone, adorned with tiny sculpted figures",5.421052632,5.166666667,4.85,5.047619048
+consistent3d,"A lamp in the form of a tree, branches holding lights",5.833333333,5.684210526,5.05,5.2
+consistent3d,A mushroom with a cap resembling a stained glass window,3.947368421,2.888888889,3.25,3.333333333
+consistent3d,A paintbrush with bristles made of tiny flower petals,4.470588235,3.421052632,4,3.736842105
+consistent3d,"A rabbit with butterfly wings instead of ears, patterns vivid",3.823529412,3.105263158,3.625,3
+consistent3d,"A shoe designed to look like fish, scales detailed and shiny",2.666666667,2.5,1.85,2.210526316
+consistent3d,A skyscraper constructed from stacked books of varying sizes,5.105263158,2.954545455,3.428571429,3.333333333
+consistent3d,A sunflower with a center that is a functioning clock face,1.80952381,1.9375,2.3,1.684210526
+consistent3d,An earring designed as miniature chandeliers adorned with crystals,5.142857143,3.875,4.1,4.263157895
+consistent3d,A black camera and a metal tripod,6.947368421,5.388888889,5.473684211,5.75
+consistent3d,A blue umbrella and a silver key,3.473684211,3,3.368421053,3.05
+consistent3d,A bronze helmet and a golden crown,2.842105263,2.055555556,2.055555556,2.238095238
+consistent3d,A photo frame and a furry teddy bear,1.047619048,1.5625,1.2,1.105263158
+consistent3d,A wooden house and a coconut tree,4.526315789,3.055555556,3.444444444,3.666666667
+consistent3d,A wooden easel and a canvas painting,4.473684211,4.315789474,2.833333333,3.857142857
+consistent3d,A green apple and a bronze coin,3.75,3.705882353,3.764705882,3.631578947
+consistent3d,A green cactus and a glass bottle,4.9,4.411764706,4.294117647,4.157894737
+consistent3d,A leather wallet and a cotton hat,4.833333333,6.210526316,5.75,5.45
+consistent3d,A metal pen and a plastic ruler,3.45,3,2.411764706,2.631578947
+consistent3d,A plastic spoon and a ceramic cup,3.9,3.529411765,3.882352941,3.578947368
+consistent3d,A yellow lemon and a square table,2.764705882,2.210526316,2.4375,2.105263158
+consistent3d,A red chair and a yellow tennis ball,3.315789474,3.611111111,3.315789474,3.3
+consistent3d,A round clock and a wooden shelf,2.619047619,2.5625,2.1,2.368421053
+consistent3d,A silver teapot and a golden cup,3.941176471,3.894736842,3.4375,3.157894737
+consistent3d,A white flower and a green vase,5.444444444,4.80952381,4.941176471,4.842105263
+consistent3d,A gray rabbit and a brown squirrel,5.611111111,3.789473684,3.95,3.7
+consistent3d,A wooden bench and a bronze statue,4.052631579,4.444444444,4.277777778,4.333333333
+consistent3d,A metal sword and a bronze shield,1.684210526,1.833333333,1.736842105,1.6
+consistent3d,A wooden table and a red candle,3.368421053,3.055555556,3,2.952380952
+consistent3d,A polished silver bell resting on a wooden stand,5.80952381,5.4375,4.65,5.263157895
+consistent3d,A white orchid in a ceramic vase,4.842105263,3,3.277777778,3.476190476
+consistent3d,A white candle in an iron holder,7.421052632,6.5,5.947368421,6.7
+consistent3d,A set of dice beside a deck of cards,2.176470588,1.842105263,1.875,1.684210526
+consistent3d,A ripe strawberry on a delicious cake,6.5,4.882352941,5.294117647,5.631578947
+consistent3d,A pink backpack on a yellow kayak,4.105263158,4.5,4.166666667,4.047619048
+consistent3d,A rubber duck next to a wooden comb,3.944444444,3.714285714,3.470588235,3.368421053
+consistent3d,A swallow on a red brick square chimney,3.210526316,3.333333333,2.9,2.857142857
+consistent3d,"A green plant on a rectangular, wooden chair",7,5.315789474,4.833333333,6.095238095
+consistent3d,A handwoven basket filled with a ripe peach,5.333333333,4.8125,3.8,4.684210526
+consistent3d,A pair of black shoes beside a white hat,4.095238095,4.4375,4.35,4.157894737
+consistent3d,A blue butterfly perched on a yellow flower,3.294117647,2.736842105,3.0625,2.684210526
+consistent3d,A guitar leaning against a wooden chair,4.238095238,3.6875,3.35,3.631578947
+consistent3d,A brass key hanging on a metal hook,4.421052632,4.444444444,4.5,4.19047619
+consistent3d,A glass teapot next to a porcelain cup,4.2,4.294117647,4.235294118,3.842105263
+consistent3d,A silk scarf draped over a wooden hanger,7.157894737,6.166666667,6.7,6.714285714
+consistent3d,A wooden crate holding a single red apple,5.473684211,3.818181818,3.523809524,3.952380952
+consistent3d,A small wooden ship inside a glass bottle,3.904761905,3.125,3.25,3.368421053
+consistent3d,A small cactus inside a clay pot,7.285714286,6.6875,6.35,6.842105263
+consistent3d,A black hat hanging on a brass hook,4.631578947,4.777777778,4.95,4.571428571
+consistent3d,A penguin is waddling with a fish in its beak,6.2,5.058823529,5.058823529,4.842105263
+consistent3d,A dog is barking at a cat with its tail wagging,4.7,4.176470588,4.470588235,4
+consistent3d,A dog is licking an ice cream cone with its tail wagging,4.263157895,2.590909091,3.761904762,3.095238095
+consistent3d,A violinist in a black suit is playing a violin while standing on one foot,6.315789474,4.363636364,4.666666667,4.428571429
+consistent3d,"A cyan crab is holding a sharp, conical shell in its claw",3.294117647,2.842105263,2.75,2.631578947
+consistent3d,A yellow truck is crashing into a wooden house,3.35,2.823529412,2.823529412,2.789473684
+consistent3d,A man holding a book next to a tall bookshelf,2,2.166666667,2.277777778,1.952380952
+consistent3d,"A turtle is crawling to a circular, white shell",3.941176471,3.947368421,2.8125,3.315789474
+consistent3d,A brown dog is chewing a high-heeled shoe,2.95,2.705882353,3.058823529,2.578947368
+consistent3d,A panda is chewing on bamboo while sitting on its hind legs,6.55,5,5.058823529,5.263157895
+consistent3d,A knight is polishing a shield while seated on a stool,5.789473684,4.555555556,4.368421053,4.65
+consistent3d,A dolphin is pushing a ball with its nose while swimming,4.736842105,3.666666667,4.111111111,4.095238095
+consistent3d,A bird is preening its feathers with its beak,3.470588235,3.157894737,3.125,3.052631579
+consistent3d,A duck is chasing a yellow ball with its wings flapping,3.894736842,3.578947368,3.666666667,3.476190476
+consistent3d,A knight is jousting with a lance while riding a white horse,5.823529412,4.315789474,4.375,4.578947368
+consistent3d,"A cat is playing with a ball of yarn, unraveling it with its paws",5.526315789,3.277777778,4.388888889,3.904761905
+consistent3d,A pirate is digging for treasure with a rusty shovel,1.238095238,0.875,1,0.789473684
+consistent3d,A boy is kicking a soccer ball with his foot raised,7.523809524,5.875,4.85,6.263157895
+consistent3d,A black cat is knocking over a glass with its paw extended,4.3,4.058823529,3.411764706,3.578947368
+consistent3d,A bat is hanging upside down from a branch with its wings folded,4.047619048,3.4375,3.1,3.526315789
+consistent3d,A bear astronaut is planting a flag with a paw print,2.947368421,2.090909091,2.19047619,2.047619048
+consistent3d,A crowned koala is inspecting a mystical golden staff,3.578947368,2.166666667,2,2.571428571
+consistent3d,A fox magician is pulling a rabbit from a hat,6.2,6.176470588,5.941176471,5.842105263
+consistent3d,A giant tortoise is peacefully resting while a garden of mushrooms grows on its shell,4.842105263,3.833333333,4.263157895,4.25
+consistent3d,A lion rider is riding a motorcycle,7.8,6.529411765,6.647058824,6.263157895
+consistent3d,A mermaid is holding a white conch shell,2.473684211,1.909090909,2.428571429,1.761904762
+consistent3d,A mouse pirate is guarding a tiny treasure chest,6.789473684,5.222222222,5.611111111,5.619047619
+consistent3d,A panda detective is using a magnifying glass to examine an ancient scroll,5.210526316,4.222222222,4.631578947,4.4
+consistent3d,A parrot wearing a crown is sitting on a jeweled throne,4.578947368,3.736842105,4.277777778,3.904761905
+consistent3d,A penguin in a tuxedo is conducting an orchestra with a baton,2.588235294,2.368421053,2.75,2.473684211
+consistent3d,A phoenix with flaming wings is carrying a silver lantern,3.578947368,3.333333333,3.35,3.142857143
+consistent3d,A rabbit pirate is holding a treasure map with a carrot symbol,5.277777778,3.947368421,4.75,4.3
+consistent3d,A rabbit with a top hat is balancing on a golden egg,5.5,3.882352941,4.647058824,4.368421053
+consistent3d,A raccoon detective is studying a map under a magnifying glass,0.428571429,0.4375,0.55,0.368421053
+consistent3d,A raccoon with wings is casting a spell with a magic wand,5.210526316,4,4,4.3
+consistent3d,A robot butler is holding a tray with a crystal goblet,1.368421053,1.222222222,1.166666667,1.19047619
+consistent3d,A shark with a crown is holding a golden trident,4.578947368,3.222222222,3.85,3.428571429
+consistent3d,A skeleton knight is polishing his golden sword,5.894736842,3.954545455,3.666666667,4.238095238
+consistent3d,A monkey wizard is riding a flying broom and eating a banana,4.947368421,4.5,4.526315789,4.55
+consistent3d,A dog wearing backpack is walking on a rainbow,0.3,0.411764706,0.411764706,0.368421053
+latentnerf,A striped zebra,3.166666667,2.666666667,3.176470588,2.789473684
+latentnerf,A green pepper,3.555555556,2.095238095,2.823529412,2.578947368
+latentnerf,A grey mouse,6.421052632,4.666666667,4.210526316,4.95
+latentnerf,A blue vase,4.80952381,3.25,3.85,3.473684211
+latentnerf,A brown bear,1.368421053,1,1.2,1.238095238
+latentnerf,A red cup,3.052631579,1.842105263,2.444444444,2.238095238
+latentnerf,A round stool,6.647058824,4.421052632,3.8125,4.947368421
+latentnerf,A wooden boat,1.235294118,1.105263158,1.1875,1.052631579
+latentnerf,A white helmet,2.421052632,1.388888889,1.777777778,1.761904762
+latentnerf,A green umbrella,3.736842105,1.842105263,1.611111111,2.380952381
+latentnerf,A yellow hat,6.45,4.882352941,5.235294118,5.157894737
+latentnerf,A wooden bench,6.35,4.941176471,4.882352941,4.947368421
+latentnerf,A brown horse,3.352941176,2,2.25,2.157894737
+latentnerf,A symmetrical arch,3.526315789,2.444444444,2.666666667,2.761904762
+latentnerf,A glass bottle,4.388888889,2.894736842,2.7,3.05
+latentnerf,A white rabbit,7.75,5.235294118,5.294117647,6
+latentnerf,A red bus,2.714285714,1.625,1.9,1.789473684
+latentnerf,A blue jacket,1.578947368,0.888888889,1.3,1.142857143
+latentnerf,A delicious hamburger,7.705882353,5.052631579,5.125,5.684210526
+latentnerf,A canned Coke,6.421052632,2.736842105,3.388888889,3.857142857
+latentnerf,A badge shaped like a shield,1.777777778,1.666666667,0.941176471,1.210526316
+latentnerf,A black umbrella with a curved handle,6.263157895,3.315789474,2.944444444,3.904761905
+latentnerf,A bookmark with a tassel,2.210526316,1.722222222,1.631578947,1.55
+latentnerf,A cactus with a blooming flower,6.894736842,4.944444444,4.75,5.333333333
+latentnerf,A candleholder made of wrought iron,8.166666667,7.157894737,6.1,6.9
+latentnerf,A chess piece carved from ivory,6.842105263,4.055555556,4.555555556,4.952380952
+latentnerf,A coffee mug with a chipped rim,2,1.5625,1.25,1.368421053
+latentnerf,A red rose with a thorny stem,3.105263158,2.666666667,2.894736842,2.65
+latentnerf,A lamp with a fabric shade,6,4.210526316,4.1,4.4
+latentnerf,A lipstick in a golden case,6.947368421,6.111111111,6.421052632,6.3
+latentnerf,A model airplane with spinning propellers,3.277777778,2.368421053,2.55,2.4
+latentnerf,A porcelain vase with dragon motifs,5.333333333,3.210526316,4,3.65
+latentnerf,A soccer ball signed by players,4.764705882,4,3.8125,4.157894737
+latentnerf,A steel hammer with a rubber grip,4.210526316,3.684210526,3.222222222,3.571428571
+latentnerf,A stone castle with a drawbridge,3.684210526,2.111111111,2.444444444,2.619047619
+latentnerf,A straw hat with a blue band,5.842105263,3.277777778,4.111111111,4
+latentnerf,A teddy bear holding a heart,5.736842105,3.055555556,3.888888889,3.714285714
+latentnerf,A wooden chair with a woven seat,6.526315789,5.5,4.789473684,5.55
+latentnerf,A headphone with cushioned ear pads,4.631578947,2.555555556,2.65,2.952380952
+latentnerf,A white sneaker with blue stripes,5.263157895,4.111111111,4.315789474,4
+latentnerf,"A bronze goblet encrusted with rubies, with swirling engravings of dragons coiling up its stem",3.823529412,3.052631579,2.0625,3.105263158
+latentnerf,"A black bat with luminous red eyes, outstretched wings, and a detailed claw with subtle ridges",4.578947368,3.611111111,3.555555556,3.380952381
+latentnerf,"A square table with intricate carvings along the legs, a scratched surface, and a missing corner",2,1.444444444,1.4,1.571428571
+latentnerf,"A golden lamp with an intricate bird and flower motif, and a glossy, amber-colored glass shade",5.45,4.823529412,4.705882353,4.842105263
+latentnerf,"A wooden chair with a broken leg, a cushioned seat, and carved spirals on the arms",5,4.666666667,4.529411765,4.526315789
+latentnerf,A porcelain teapot with a gold-trimmed spout and a painted phoenix spiraling around its surface,4.947368421,3.388888889,2.789473684,3.45
+latentnerf,"A round clock with a cracked face, golden hands, and worn Roman numerals along the edges",2.842105263,1.947368421,1.888888889,2.19047619
+latentnerf,"A potted succulent with plump, fleshy, blue-green leaves edged in red and planted in a terracotta pot",6.714285714,4.9375,5.55,5.684210526
+latentnerf,"A gilded picture frame adorned with ivy leaves, enclosing an oil painting of a serene landscape",2,1.222222222,1.25,1.428571429
+latentnerf,"A blue hat with a wide brim, a finely stitched edge, and a silver feather pinned delicately to one side",5.235294118,4.684210526,3.8125,4.631578947
+latentnerf,"A blue jacket with silver buttons, fur lining on the collar, and a tear on the right sleeve",2.631578947,2.055555556,2.052631579,1.95
+latentnerf,"A yellow pencil with a polished finish, a sharply defined lead tip, and a vibrant red eraser",4.777777778,4.263157895,3.9,3.9
+latentnerf,"A glass bottle with a chipped neck, intricate patterns swirling along the sides, and a faded label",2.789473684,1.777777778,1.8,2.142857143
+latentnerf,"A green cactus with twisted, gnarled branches, white spines, and tiny red flowers growing at the top",6,6.090909091,6,5.952380952
+latentnerf,"A black cat with white paws, one torn ear, and piercing green eyes, sitting with its tail curled",4.631578947,3.722222222,3.421052632,3.7
+latentnerf,"A ceramic vase with swirling patterns etched into the surface, a chipped rim, and a long, narrow neck",1.294117647,1.105263158,1.0625,1.105263158
+latentnerf,"A white dove with one bent wing, a scarred beak, and a single, grey feather among its tail",4.352941176,3.210526316,3.375,3.578947368
+latentnerf,"A bronze statue of a warrior with one arm raised, and a weathered, cracked base",4.5,4,3.470588235,3.526315789
+latentnerf,"A wooden cabin with a finely crafted stone chimney, detailed log walls, and a delicately carved wooden door",5.714285714,3.6875,4.2,4.210526316
+latentnerf,"A golden crown with missing jewels, a slightly bent band, and intricate scrollwork along the edges",5.25,4.823529412,3.941176471,4.578947368
+latentnerf,A cactus blooming flowers made of glowing embers,6.666666667,6.263157895,5.55,5.95
+latentnerf,"A candleholder resembling a twisted, gnarled tree branch",5.235294118,4.157894737,4.125,4.105263158
+latentnerf,A castle built entirely from interlocking giant seashells,6,4.318181818,4.428571429,4.761904762
+latentnerf,"A chair made from intertwined vines, leaves still attached",6.388888889,6.263157895,4.7,5.65
+latentnerf,A flower that blooms metallic petals shaped like butterflies,3.705882353,3.421052632,3.5,3.157894737
+latentnerf,"A frog wearing a tailored shirt with tiny gold buttons, a red bow tie",6.473684211,4.277777778,4.944444444,4.523809524
+latentnerf,A headphone with ear cups shaped like intricate seashells,2.444444444,1.631578947,1.65,1.55
+latentnerf,"A hippo explorer dressed in a khaki outfit, with binoculars slung around its neck",6.368421053,5.5,5.368421053,5.45
+latentnerf,"A house made from oversized mushrooms, walls and roof",2.235294118,1.736842105,1.8125,1.789473684
+latentnerf,"A house shaped like a giant teapot, complete with handle and spout",3.764705882,2.578947368,2.9375,2.578947368
+latentnerf,A hummingbird with wings made of shimmering glass,7,6.277777778,4.578947368,6.05
+latentnerf,"A key carved from bone, adorned with tiny sculpted figures",4.052631579,2.722222222,3.2,3.047619048
+latentnerf,"A lamp in the form of a tree, branches holding lights",7.333333333,6.9375,5.6,6.578947368
+latentnerf,A mushroom with a cap resembling a stained glass window,6.263157895,6.555555556,5.526315789,6.15
+latentnerf,A paintbrush with bristles made of tiny flower petals,6.210526316,4.045454545,3.952380952,4.619047619
+latentnerf,"A rabbit with butterfly wings instead of ears, patterns vivid",4.9,4.647058824,4.588235294,4.421052632
+latentnerf,"A shoe designed to look like fish, scales detailed and shiny",1.944444444,1.380952381,1.588235294,1.526315789
+latentnerf,A skyscraper constructed from stacked books of varying sizes,5.052631579,4.166666667,3.315789474,4.05
+latentnerf,A sunflower with a center that is a functioning clock face,3.666666667,3.619047619,3.529411765,3.736842105
+latentnerf,An earring designed as miniature chandeliers adorned with crystals,4.526315789,3.666666667,3.722222222,3.476190476
+latentnerf,A black camera and a metal tripod,6.157894737,3.631578947,2.722222222,3.857142857
+latentnerf,A blue umbrella and a silver key,3.894736842,2.421052632,2.611111111,2.80952381
+latentnerf,A bronze helmet and a golden crown,2.368421053,1.944444444,1.75,1.904761905
+latentnerf,A photo frame and a furry teddy bear,2.052631579,1.227272727,1.666666667,1.428571429
+latentnerf,A wooden house and a coconut tree,5.666666667,4.476190476,4.647058824,4.894736842
+latentnerf,A wooden easel and a canvas painting,5.736842105,3.833333333,4.722222222,4.380952381
+latentnerf,A green apple and a bronze coin,1.473684211,1.315789474,1.277777778,1.333333333
+latentnerf,A green cactus and a glass bottle,3.529411765,2.684210526,3.0625,2.842105263
+latentnerf,A leather wallet and a cotton hat,3.35,3.235294118,3.352941176,2.894736842
+latentnerf,A metal pen and a plastic ruler,3.157894737,3.222222222,2.631578947,2.7
+latentnerf,A plastic spoon and a ceramic cup,1.333333333,1.523809524,1.588235294,1.421052632
+latentnerf,A yellow lemon and a square table,0.941176471,0.789473684,1.0625,0.894736842
+latentnerf,A red chair and a yellow tennis ball,4.15,2.882352941,3.411764706,3.157894737
+latentnerf,A round clock and a wooden shelf,3.523809524,2.8125,2.8,2.894736842
+latentnerf,A silver teapot and a golden cup,3.647058824,2.789473684,3,2.789473684
+latentnerf,A white flower and a green vase,4.157894737,2.888888889,3.052631579,3.1
+latentnerf,A gray rabbit and a brown squirrel,5.789473684,4.666666667,4.157894737,4.7
+latentnerf,A wooden bench and a bronze statue,6.176470588,4.789473684,3.9375,5
+latentnerf,A metal sword and a bronze shield,3.555555556,3.285714286,3.176470588,3.105263158
+latentnerf,A wooden table and a red candle,3.157894737,2.5,2.833333333,2.666666667
+latentnerf,A polished silver bell resting on a wooden stand,5.058823529,3.473684211,3.5625,3.789473684
+latentnerf,A white orchid in a ceramic vase,2.294117647,1.631578947,1.9375,1.473684211
+latentnerf,A white candle in an iron holder,6.722222222,5.842105263,5.05,5.55
+latentnerf,A set of dice beside a deck of cards,1.894736842,1.947368421,2,1.761904762
+latentnerf,A ripe strawberry on a delicious cake,3.166666667,2.526315789,2.7,2.5
+latentnerf,A pink backpack on a yellow kayak,5.473684211,3.894736842,3.833333333,4.238095238
+latentnerf,A rubber duck next to a wooden comb,5,3.157894737,3.666666667,3.380952381
+latentnerf,A swallow on a red brick square chimney,3.947368421,3.055555556,3.315789474,3.25
+latentnerf,"A green plant on a rectangular, wooden chair",6.222222222,5.904761905,6.058823529,6.105263158
+latentnerf,A handwoven basket filled with a ripe peach,5.631578947,3.611111111,3.722222222,4.285714286
+latentnerf,A pair of black shoes beside a white hat,3.421052632,2.368421053,2.722222222,2.904761905
+latentnerf,A blue butterfly perched on a yellow flower,6.235294118,4.473684211,4.6875,4.736842105
+latentnerf,A guitar leaning against a wooden chair,4.8,4.588235294,4.764705882,4.578947368
+latentnerf,A brass key hanging on a metal hook,6,5.352941176,6,5
+latentnerf,A glass teapot next to a porcelain cup,3.166666667,2.210526316,2.1,2.2
+latentnerf,A silk scarf draped over a wooden hanger,4.052631579,2.861111111,2.65,3.142857143
+latentnerf,A wooden crate holding a single red apple,1.5,1,1.25,1.05
+latentnerf,A small wooden ship inside a glass bottle,3.947368421,3.055555556,2.888888889,3.476190476
+latentnerf,A small cactus inside a clay pot,4.833333333,3.80952381,4.352941176,4.157894737
+latentnerf,A black hat hanging on a brass hook,2.777777778,1.473684211,1.6,1.65
+latentnerf,A penguin is waddling with a fish in its beak,3.473684211,2.157894737,1.888888889,2.428571429
+latentnerf,A dog is barking at a cat with its tail wagging,4.631578947,4.666666667,4.611111111,4.523809524
+latentnerf,A dog is licking an ice cream cone with its tail wagging,4.05,3.705882353,4.588235294,3.526315789
+latentnerf,A violinist in a black suit is playing a violin while standing on one foot,5.157894737,3.681818182,3.047619048,3.333333333
+latentnerf,"A cyan crab is holding a sharp, conical shell in its claw",3.95,3.235294118,4,3.315789474
+latentnerf,A yellow truck is crashing into a wooden house,3.947368421,2.777777778,3.5,3.095238095
+latentnerf,A man holding a book next to a tall bookshelf,4,2.666666667,3.25,3.523809524
+latentnerf,"A turtle is crawling to a circular, white shell",4.055555556,3.19047619,3.411764706,3.421052632
+latentnerf,A brown dog is chewing a high-heeled shoe,3.526315789,1.772727273,2.285714286,2.380952381
+latentnerf,A panda is chewing on bamboo while sitting on its hind legs,5.047619048,3.6875,3.6,3.789473684
+latentnerf,A knight is polishing a shield while seated on a stool,6.210526316,4.5,4.428571429,4.428571429
+latentnerf,A dolphin is pushing a ball with its nose while swimming,4.19047619,3.5625,2.8,3.052631579
+latentnerf,A bird is preening its feathers with its beak,1.842105263,1.333333333,1.6,1.428571429
+latentnerf,A duck is chasing a yellow ball with its wings flapping,6.857142857,4.75,4.9,5.526315789
+latentnerf,A knight is jousting with a lance while riding a white horse,5.263157895,3.888888889,3.611111111,3.80952381
+latentnerf,"A cat is playing with a ball of yarn, unraveling it with its paws",5.157894737,3.5,3.944444444,3.714285714
+latentnerf,A pirate is digging for treasure with a rusty shovel,6.19047619,4.6875,3.9,5
+latentnerf,A boy is kicking a soccer ball with his foot raised,7.421052632,4.590909091,4.333333333,4.80952381
+latentnerf,A black cat is knocking over a glass with its paw extended,3.444444444,2.157894737,2,1.85
+latentnerf,A bat is hanging upside down from a branch with its wings folded,3.526315789,2.444444444,2.5,2.666666667
+latentnerf,A bear astronaut is planting a flag with a paw print,5.470588235,4.157894737,4.0625,3.947368421
+latentnerf,A crowned koala is inspecting a mystical golden staff,5.15,4.176470588,4.823529412,4.052631579
+latentnerf,A fox magician is pulling a rabbit from a hat,7.047619048,5.75,5.05,5.789473684
+latentnerf,A giant tortoise is peacefully resting while a garden of mushrooms grows on its shell,3.789473684,2.444444444,2.888888889,3
+latentnerf,A lion rider is riding a motorcycle,6.428571429,4.3125,4.35,4.526315789
+latentnerf,A mermaid is holding a white conch shell,6.947368421,5.833333333,4.736842105,6.05
+latentnerf,A mouse pirate is guarding a tiny treasure chest,4.222222222,3.666666667,3.470588235,3.263157895
+latentnerf,A panda detective is using a magnifying glass to examine an ancient scroll,0.058823529,0.210526316,0.25,0.157894737
+latentnerf,A parrot wearing a crown is sitting on a jeweled throne,5.25,3.470588235,4.176470588,4
+latentnerf,A penguin in a tuxedo is conducting an orchestra with a baton,5.157894737,4.210526316,4.055555556,4.285714286
+latentnerf,A phoenix with flaming wings is carrying a silver lantern,6.315789474,5.722222222,5.25,5.761904762
+latentnerf,A rabbit pirate is holding a treasure map with a carrot symbol,6.315789474,4.222222222,4.444444444,4.428571429
+latentnerf,A rabbit with a top hat is balancing on a golden egg,6.368421053,4.222222222,5.111111111,4.571428571
+latentnerf,A raccoon detective is studying a map under a magnifying glass,3.333333333,3.142857143,3.823529412,3.052631579
+latentnerf,A raccoon with wings is casting a spell with a magic wand,6.210526316,5.052631579,4.055555556,4.904761905
+latentnerf,A robot butler is holding a tray with a crystal goblet,5.526315789,4.454545455,4.19047619,4.380952381
+latentnerf,A shark with a crown is holding a golden trident,4.666666667,3.578947368,3.6,3.55
+latentnerf,A skeleton knight is polishing his golden sword,5.421052632,4.333333333,4,4.380952381
+latentnerf,A monkey wizard is riding a flying broom and eating a banana,5.842105263,4.863636364,4.80952381,4.428571429
+latentnerf,A dog wearing backpack is walking on a rainbow,2.555555556,1.368421053,2.2,1.65
+one2345++,A striped zebra,7.764705882,6.578947368,6.4375,6.842105263
+one2345++,A green pepper,8.85,8.764705882,7.882352941,8.473684211
+one2345++,A grey mouse,9,8.428571429,8.823529412,8.736842105
+one2345++,A blue vase,6.736842105,8.277777778,6.7,7.333333333
+one2345++,A brown bear,8,7.235294118,5.882352941,6.947368421
+one2345++,A red cup,6.894736842,7.722222222,6.3,7.095238095
+one2345++,A round stool,8.5,8.333333333,8.823529412,8.526315789
+one2345++,A wooden boat,9.2,8.588235294,8.705882353,8.894736842
+one2345++,A white helmet,8.555555556,8.315789474,7.75,8.05
+one2345++,A green umbrella,9.277777778,8.789473684,8.15,8.8
+one2345++,A yellow hat,7.894736842,6.5,7.047619048,6.904761905
+one2345++,A wooden bench,8.631578947,7.666666667,7.736842105,8.05
+one2345++,A brown horse,8.666666667,7.157894737,6.95,7.3
+one2345++,A symmetrical arch,8.526315789,7.636363636,7.80952381,7.952380952
+one2345++,A glass bottle,7.882352941,8.105263158,6.8125,7.684210526
+one2345++,A white rabbit,7.263157895,7,5.277777778,6.619047619
+one2345++,A red bus,8.555555556,7.684210526,7.2,7.65
+one2345++,A blue jacket,9.058823529,8.684210526,8.9375,8.842105263
+one2345++,A delicious hamburger,8.6,7.882352941,6.941176471,7.947368421
+one2345++,A canned Coke,7.444444444,7.19047619,6.823529412,7.105263158
+one2345++,A badge shaped like a shield,9,8.5,8.523809524,8.571428571
+one2345++,A black umbrella with a curved handle,9.238095238,8.3125,8.4,8.421052632
+one2345++,A bookmark with a tassel,7.238095238,6.625,7,6.842105263
+one2345++,A cactus with a blooming flower,7.157894737,4.777777778,6.111111111,6.047619048
+one2345++,A candleholder made of wrought iron,7.333333333,7.047619048,7,7.157894737
+one2345++,A chess piece carved from ivory,9.105263158,8.333333333,8.473684211,8.7
+one2345++,A coffee mug with a chipped rim,7.95,8.117647059,8.294117647,8.052631579
+one2345++,A red rose with a thorny stem,8.722222222,7.736842105,7.05,7.7
+one2345++,A lamp with a fabric shade,8.631578947,7.5,8.421052632,8.15
+one2345++,A lipstick in a golden case,7.315789474,7.954545455,8.476190476,7.80952381
+one2345++,A model airplane with spinning propellers,5.5,3.789473684,4.1,3.9
+one2345++,A porcelain vase with dragon motifs,9,8.619047619,8.529411765,8.789473684
+one2345++,A soccer ball signed by players,8.684210526,7.578947368,7.388888889,7.904761905
+one2345++,A steel hammer with a rubber grip,7.833333333,8,7.8,7.9
+one2345++,A stone castle with a drawbridge,6.222222222,7.210526316,7.05,6.45
+one2345++,A straw hat with a blue band,8.611111111,8.047619048,8.235294118,8.421052632
+one2345++,A teddy bear holding a heart,8.7,8.823529412,8.294117647,8.684210526
+one2345++,A wooden chair with a woven seat,8.095238095,8.0625,7.2,7.789473684
+one2345++,A headphone with cushioned ear pads,9.105263158,8.421052632,8,8.523809524
+one2345++,A white sneaker with blue stripes,8.578947368,8.111111111,7.55,8.047619048
+one2345++,"A bronze goblet encrusted with rubies, with swirling engravings of dragons coiling up its stem",6.315789474,6.526315789,6.833333333,6.428571429
+one2345++,"A black bat with luminous red eyes, outstretched wings, and a detailed claw with subtle ridges",6.526315789,5.888888889,5.555555556,6.047619048
+one2345++,"A square table with intricate carvings along the legs, a scratched surface, and a missing corner",6.333333333,7.4375,6.6,6.736842105
+one2345++,"A golden lamp with an intricate bird and flower motif, and a glossy, amber-colored glass shade",5.631578947,6.444444444,6.315789474,6.05
+one2345++,"A wooden chair with a broken leg, a cushioned seat, and carved spirals on the arms",6.5,7.428571429,7.470588235,7.157894737
+one2345++,A porcelain teapot with a gold-trimmed spout and a painted phoenix spiraling around its surface,6.294117647,7.473684211,6.3125,6.684210526
+one2345++,"A round clock with a cracked face, golden hands, and worn Roman numerals along the edges",7.611111111,7.578947368,7.15,7.55
+one2345++,"A potted succulent with plump, fleshy, blue-green leaves edged in red and planted in a terracotta pot",6.684210526,7,6.5,6.714285714
+one2345++,"A gilded picture frame adorned with ivy leaves, enclosing an oil painting of a serene landscape",7.263157895,7.388888889,6.722222222,6.857142857
+one2345++,"A blue hat with a wide brim, a finely stitched edge, and a silver feather pinned delicately to one side",7.736842105,7.333333333,7.263157895,7.5
+one2345++,"A blue jacket with silver buttons, fur lining on the collar, and a tear on the right sleeve",6.789473684,7.333333333,7,7.1
+one2345++,"A yellow pencil with a polished finish, a sharply defined lead tip, and a vibrant red eraser",7.947368421,7.555555556,7.368421053,7.65
+one2345++,"A glass bottle with a chipped neck, intricate patterns swirling along the sides, and a faded label",5.789473684,7.111111111,6.277777778,6.142857143
+one2345++,"A green cactus with twisted, gnarled branches, white spines, and tiny red flowers growing at the top",6.833333333,6,5.55,5.9
+one2345++,"A black cat with white paws, one torn ear, and piercing green eyes, sitting with its tail curled",6.105263158,6.727272727,6.333333333,6.333333333
+one2345++,"A ceramic vase with swirling patterns etched into the surface, a chipped rim, and a long, narrow neck",7.176470588,7.368421053,7.375,7.105263158
+one2345++,"A white dove with one bent wing, a scarred beak, and a single, grey feather among its tail",5.058823529,5.210526316,5.5,4.947368421
+one2345++,"A bronze statue of a warrior with one arm raised, and a weathered, cracked base",6.473684211,5.111111111,4.888888889,5.380952381
+one2345++,"A wooden cabin with a finely crafted stone chimney, detailed log walls, and a delicately carved wooden door",8.285714286,7.75,7.35,7.736842105
+one2345++,"A golden crown with missing jewels, a slightly bent band, and intricate scrollwork along the edges",4.647058824,3.842105263,4.25,4.052631579
+one2345++,A cactus blooming flowers made of glowing embers,4.157894737,3.277777778,4.1,3.666666667
+one2345++,"A candleholder resembling a twisted, gnarled tree branch",8.555555556,8.142857143,8.235294118,8.473684211
+one2345++,A castle built entirely from interlocking giant seashells,3.315789474,3.727272727,4.047619048,3.333333333
+one2345++,"A chair made from intertwined vines, leaves still attached",7.052631579,5.055555556,5.444444444,5.714285714
+one2345++,A flower that blooms metallic petals shaped like butterflies,6.176470588,5.789473684,6.625,5.947368421
+one2345++,"A frog wearing a tailored shirt with tiny gold buttons, a red bow tie",8.2,7.941176471,7.764705882,7.842105263
+one2345++,A headphone with ear cups shaped like intricate seashells,9.047619048,8.3125,8.4,8.421052632
+one2345++,"A hippo explorer dressed in a khaki outfit, with binoculars slung around its neck",7,6.055555556,6.3,6.380952381
+one2345++,"A house made from oversized mushrooms, walls and roof",8.058823529,7.526315789,7.375,7.736842105
+one2345++,"A house shaped like a giant teapot, complete with handle and spout",6.352941176,6.421052632,6.375,6
+one2345++,A hummingbird with wings made of shimmering glass,7.210526316,7.5,6.7,7
+one2345++,"A key carved from bone, adorned with tiny sculpted figures",6.578947368,5.888888889,5.894736842,6.4
+one2345++,"A lamp in the form of a tree, branches holding lights",6.105263158,5,5.15,5.476190476
+one2345++,A mushroom with a cap resembling a stained glass window,8.6,8.647058824,8.058823529,8.473684211
+one2345++,A paintbrush with bristles made of tiny flower petals,5.736842105,4.777777778,5,5.142857143
+one2345++,"A rabbit with butterfly wings instead of ears, patterns vivid",6.904761905,7.0625,7.2,6.947368421
+one2345++,"A shoe designed to look like fish, scales detailed and shiny",7.823529412,8,8.25,8.105263158
+one2345++,A skyscraper constructed from stacked books of varying sizes,7.473684211,7.5,7.5,7.380952381
+one2345++,A sunflower with a center that is a functioning clock face,7.631578947,7.052631579,7.111111111,7.047619048
+one2345++,An earring designed as miniature chandeliers adorned with crystals,6.578947368,6.333333333,6.105263158,6.6
+one2345++,A black camera and a metal tripod,7.947368421,6.545454545,6.523809524,6.714285714
+one2345++,A blue umbrella and a silver key,8.4,7.117647059,7.764705882,7.526315789
+one2345++,A bronze helmet and a golden crown,6.333333333,7.631578947,6.9,6.65
+one2345++,A photo frame and a furry teddy bear,6.388888889,6.380952381,6.235294118,6.473684211
+one2345++,A wooden house and a coconut tree,5.473684211,4.818181818,5.523809524,5.047619048
+one2345++,A wooden easel and a canvas painting,8,7.238095238,6.588235294,7.210526316
+one2345++,A green apple and a bronze coin,6.470588235,6.736842105,7.5625,6.210526316
+one2345++,A green cactus and a glass bottle,4.315789474,5.318181818,5.761904762,4.857142857
+one2345++,A leather wallet and a cotton hat,4.526315789,6.055555556,6.666666667,5.285714286
+one2345++,A metal pen and a plastic ruler,3.888888889,4.952380952,4.529411765,4.473684211
+one2345++,A plastic spoon and a ceramic cup,5,7.272727273,7.285714286,5.952380952
+one2345++,A yellow lemon and a square table,8.894736842,8.555555556,8.5,8.666666667
+one2345++,A red chair and a yellow tennis ball,8.2,7.058823529,6.823529412,7.263157895
+one2345++,A round clock and a wooden shelf,8.5,8.411764706,7.941176471,8.157894737
+one2345++,A silver teapot and a golden cup,5.238095238,7,7.4,6.157894737
+one2345++,A white flower and a green vase,8.105263158,7.222222222,7.5,7.333333333
+one2345++,A gray rabbit and a brown squirrel,4.421052632,5.611111111,5.842105263,5.3
+one2345++,A wooden bench and a bronze statue,5.052631579,6.666666667,6.736842105,5.6
+one2345++,A metal sword and a bronze shield,7,5.764705882,6.470588235,6
+one2345++,A wooden table and a red candle,9.157894737,8.777777778,8.157894737,8.85
+one2345++,A polished silver bell resting on a wooden stand,7.631578947,8,8,7.857142857
+one2345++,A white orchid in a ceramic vase,8.111111111,7.473684211,7.75,7.65
+one2345++,A white candle in an iron holder,8.578947368,8.166666667,8.15,8.285714286
+one2345++,A set of dice beside a deck of cards,7.157894737,6.045454545,5.428571429,6.19047619
+one2345++,A ripe strawberry on a delicious cake,8.117647059,7,7.5625,7.578947368
+one2345++,A pink backpack on a yellow kayak,7.736842105,7.157894737,6.777777778,7.238095238
+one2345++,A rubber duck next to a wooden comb,6.526315789,6.222222222,6,6.35
+one2345++,A swallow on a red brick square chimney,6.947368421,6.444444444,6.222222222,6.523809524
+one2345++,"A green plant on a rectangular, wooden chair",7.35,6.529411765,6.529411765,6.789473684
+one2345++,A handwoven basket filled with a ripe peach,8.352941176,7.210526316,7.4375,7.736842105
+one2345++,A pair of black shoes beside a white hat,4.842105263,3.944444444,3.842105263,3.95
+one2345++,A blue butterfly perched on a yellow flower,6.789473684,5.631578947,5.944444444,5.952380952
+one2345++,A guitar leaning against a wooden chair,6.473684211,5.055555556,5.789473684,5.7
+one2345++,A brass key hanging on a metal hook,5.842105263,6.888888889,7.3,6.476190476
+one2345++,A glass teapot next to a porcelain cup,4.857142857,6.9375,6.7,5.947368421
+one2345++,A silk scarf draped over a wooden hanger,8.263157895,6.947368421,7,7.476190476
+one2345++,A wooden crate holding a single red apple,8.9,7.764705882,8.470588235,8.315789474
+one2345++,A small wooden ship inside a glass bottle,6.842105263,4.681818182,5.619047619,5.380952381
+one2345++,A small cactus inside a clay pot,8.833333333,7.842105263,7.2,7.85
+one2345++,A black hat hanging on a brass hook,6.470588235,7.210526316,7.625,6.894736842
+one2345++,A penguin is waddling with a fish in its beak,5.736842105,6.444444444,6.444444444,6.095238095
+one2345++,A dog is barking at a cat with its tail wagging,6.105263158,4.105263158,4.277777778,4.714285714
+one2345++,A dog is licking an ice cream cone with its tail wagging,5.789473684,4.318181818,4.523809524,4.571428571
+one2345++,A violinist in a black suit is playing a violin while standing on one foot,6.526315789,5.166666667,5.555555556,5.80952381
+one2345++,"A cyan crab is holding a sharp, conical shell in its claw",4.789473684,4.611111111,4.526315789,4.65
+one2345++,A yellow truck is crashing into a wooden house,5.388888889,5.761904762,5.705882353,5.578947368
+one2345++,A man holding a book next to a tall bookshelf,7.428571429,6,5.3,6.263157895
+one2345++,"A turtle is crawling to a circular, white shell",5,6.842105263,7.1,5.8
+one2345++,A brown dog is chewing a high-heeled shoe,6.6,6,6.176470588,6.157894737
+one2345++,A panda is chewing on bamboo while sitting on its hind legs,7.263157895,5.833333333,6.315789474,6.6
+one2345++,A knight is polishing a shield while seated on a stool,6.526315789,5.318181818,5.857142857,5.761904762
+one2345++,A dolphin is pushing a ball with its nose while swimming,5.736842105,7.045454545,7.142857143,6.619047619
+one2345++,A bird is preening its feathers with its beak,7.157894737,5.944444444,6.055555556,6.428571429
+one2345++,A duck is chasing a yellow ball with its wings flapping,7.611111111,6.473684211,6.25,6.55
+one2345++,A knight is jousting with a lance while riding a white horse,7.210526316,5.277777778,5.473684211,5.95
+one2345++,"A cat is playing with a ball of yarn, unraveling it with its paws",4.210526316,2.555555556,4.35,3.476190476
+one2345++,A pirate is digging for treasure with a rusty shovel,7.263157895,5.944444444,6.105263158,6.8
+one2345++,A boy is kicking a soccer ball with his foot raised,8.166666667,6.428571429,6.411764706,6.842105263
+one2345++,A black cat is knocking over a glass with its paw extended,4.947368421,3.5,3.952380952,3.952380952
+one2345++,A bat is hanging upside down from a branch with its wings folded,4.095238095,5,4.25,4.473684211
+one2345++,A bear astronaut is planting a flag with a paw print,4.894736842,6.227272727,6.285714286,5.714285714
+one2345++,A crowned koala is inspecting a mystical golden staff,7.5,6.619047619,6.705882353,6.789473684
+one2345++,A fox magician is pulling a rabbit from a hat,5.888888889,6.095238095,5.647058824,5.842105263
+one2345++,A giant tortoise is peacefully resting while a garden of mushrooms grows on its shell,5.421052632,6.954545455,6.666666667,6.380952381
+one2345++,A lion rider is riding a motorcycle,8,6.647058824,6.588235294,6.947368421
+one2345++,A mermaid is holding a white conch shell,7.631578947,6.222222222,5.388888889,6.285714286
+one2345++,A mouse pirate is guarding a tiny treasure chest,7.19047619,5.4375,5.95,6
+one2345++,A panda detective is using a magnifying glass to examine an ancient scroll,6.210526316,5.454545455,5.476190476,5.80952381
+one2345++,A parrot wearing a crown is sitting on a jeweled throne,7.526315789,6,6.19047619,6.523809524
+one2345++,A penguin in a tuxedo is conducting an orchestra with a baton,6.25,6.176470588,5.823529412,5.894736842
+one2345++,A phoenix with flaming wings is carrying a silver lantern,5.294117647,4.526315789,5.4375,4.684210526
+one2345++,A rabbit pirate is holding a treasure map with a carrot symbol,5.947368421,4.863636364,4.952380952,5.095238095
+one2345++,A rabbit with a top hat is balancing on a golden egg,8.210526316,7.181818182,6.714285714,7.380952381
+one2345++,A raccoon detective is studying a map under a magnifying glass,6.315789474,6.181818182,6.714285714,6.428571429
+one2345++,A raccoon with wings is casting a spell with a magic wand,5.666666667,5.523809524,5.764705882,5.526315789
+one2345++,A robot butler is holding a tray with a crystal goblet,7.473684211,6.681818182,6.285714286,6.952380952
+one2345++,A shark with a crown is holding a golden trident,7.526315789,6,6.368421053,6.6
+one2345++,A skeleton knight is polishing his golden sword,5.578947368,4.388888889,4.5,4.80952381
+one2345++,A monkey wizard is riding a flying broom and eating a banana,6.684210526,5.833333333,6.45,6.238095238
+one2345++,A dog wearing backpack is walking on a rainbow,7.105263158,6.090909091,6.761904762,6.714285714

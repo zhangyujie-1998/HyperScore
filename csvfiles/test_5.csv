@@ -1,0 +1,257 @@
+model,prompt,Alignment,Geometry,Texture,Overall
+dreamfusion,"A white helmet",1.78947368421053,1.88888888888889,1.55,1.57142857142857
+dreamfusion,"A blue vase",8,7.66666666666667,6.3,7.23809523809524
+dreamfusion,"A grey mouse",0.94444444444444,0.76190476190476,0.64705882352941,0.84210526315789
+dreamfusion,"A symmetrical arch",1.05263157894737,1.54545454545455,1.28571428571429,1.04761904761905
+magic3d,"A white helmet",3.63157894736842,3.88888888888889,2.84210526315789,3.2
+magic3d,"A blue vase",8,7.13636363636364,5.85714285714286,6.66666666666667
+magic3d,"A grey mouse",4.23529411764706,3.73684210526316,2.875,3.26315789473684
+magic3d,"A symmetrical arch",0.35294117647059,0.73684210526316,0.875,0.57894736842105
+sjc,"A white helmet",5.55,4.82352941176471,3.82352941176471,4.63157894736842
+sjc,"A blue vase",6.34210526315789,4.08333333333333,4.19444444444444,4.66666666666667
+sjc,"A grey mouse",3.85714285714286,2.3125,1.9,2.26315789473684
+sjc,"A symmetrical arch",1.36842105263158,1.54545454545455,1.38095238095238,1.23809523809524
+textmesh,"A white helmet",1.05263157894737,1.22222222222222,0.95,0.95238095238095
+textmesh,"A blue vase",7.38888888888889,6.71428571428571,6.17647058823529,6.73684210526316
+textmesh,"A grey mouse",8.2,7.29411764705882,7.23529411764706,7.68421052631579
+textmesh,"A symmetrical arch",1.10526315789474,1,1.16666666666667,1
+3dtopia,"A white helmet",4.29411764705882,4.05263157894737,3.9375,4.10526315789474
+3dtopia,"A blue vase",6.8,5.82352941176471,5.52941176470588,5.94736842105263
+3dtopia,"A grey mouse",2.63157894736842,1.94444444444444,2.6,2.04761904761905
+3dtopia,"A symmetrical arch",7.9,7.41176470588235,7.58823529411765,7.57894736842105
+consistent3d,"A white helmet",6,4.75,4.45,5.10526315789474
+consistent3d,"A blue vase",4.52631578947368,3,3.21052631578947,3.25
+consistent3d,"A grey mouse",6,5.14285714285714,4.94117647058824,4.42105263157895
+consistent3d,"A symmetrical arch",0.88888888888889,1,1.55,1
+latentnerf,"A white helmet",2.42105263157895,1.38888888888889,1.77777777777778,1.76190476190476
+latentnerf,"A blue vase",4.80952380952381,3.25,3.85,3.47368421052632
+latentnerf,"A grey mouse",6.42105263157895,4.66666666666667,4.21052631578947,4.95
+latentnerf,"A symmetrical arch",3.52631578947368,2.44444444444444,2.66666666666667,2.76190476190476
+one2345++,"A white helmet",8.55555555555556,8.31578947368421,7.75,8.05
+one2345++,"A blue vase",6.73684210526316,8.27777777777778,6.7,7.33333333333333
+one2345++,"A grey mouse",9,8.42857142857143,8.82352941176471,8.73684210526316
+one2345++,"A symmetrical arch",8.52631578947368,7.63636363636364,7.80952380952381,7.95238095238095
+dreamfusion,"A red rose with a thorny stem",2.66666666666667,1.68421052631579,1.85,1.7
+dreamfusion,"A badge shaped like a shield",2.5,2.21052631578947,1.85,2.15
+dreamfusion,"A lipstick in a golden case",6.83333333333333,6.52631578947368,6,6.25
+dreamfusion,"A headphone with cushioned ear pads",3.73684210526316,3.88888888888889,3.47368421052632,3.6
+magic3d,"A red rose with a thorny stem",4.5,4.28571428571429,4.17647058823529,4.26315789473684
+magic3d,"A badge shaped like a shield",2.52941176470588,2.63157894736842,2.1875,2.15789473684211
+magic3d,"A lipstick in a golden case",5.15789473684211,3.77272727272727,3.76190476190476,3.90476190476191
+magic3d,"A headphone with cushioned ear pads",5.26315789473684,3.45454545454545,3.14285714285714,3.85714285714286
+sjc,"A red rose with a thorny stem",6.95,5.70588235294118,5.70588235294118,6.10526315789474
+sjc,"A badge shaped like a shield",2.63157894736842,2,1.5,2
+sjc,"A lipstick in a golden case",6.05555555555556,4.78947368421053,3.85,4.45
+sjc,"A headphone with cushioned ear pads",1.84210526315789,0.94736842105263,0.83333333333333,1.14285714285714
+textmesh,"A red rose with a thorny stem",1.42105263157895,1.16666666666667,1.83333333333333,1.28571428571429
+textmesh,"A badge shaped like a shield",2.78947368421053,2.66666666666667,2.8,2.42857142857143
+textmesh,"A lipstick in a golden case",6.94736842105263,6.66666666666667,6,6.38095238095238
+textmesh,"A headphone with cushioned ear pads",0.94736842105263,1.16666666666667,1.05,0.85714285714286
+3dtopia,"A red rose with a thorny stem",5.55555555555556,4.19047619047619,4.58823529411765,4.42105263157895
+3dtopia,"A badge shaped like a shield",7.89473684210526,7.66666666666667,7.55,7.71428571428571
+3dtopia,"A lipstick in a golden case",4.84210526315789,5.5,5.65,5.04761904761905
+3dtopia,"A headphone with cushioned ear pads",2.27777777777778,3.21052631578947,4.55,2.7
+consistent3d,"A red rose with a thorny stem",3.5,2.64705882352941,2.64705882352941,2.63157894736842
+consistent3d,"A badge shaped like a shield",4.21052631578947,3.55555555555556,3.26315789473684,3.4
+consistent3d,"A lipstick in a golden case",6.11111111111111,6.14285714285714,5.35294117647059,5.63157894736842
+consistent3d,"A headphone with cushioned ear pads",7.8,6.82352941176471,6.35294117647059,6.78947368421053
+latentnerf,"A red rose with a thorny stem",3.10526315789474,2.66666666666667,2.89473684210526,2.65
+latentnerf,"A badge shaped like a shield",1.77777777777778,1.66666666666667,0.94117647058824,1.21052631578947
+latentnerf,"A lipstick in a golden case",6.94736842105263,6.11111111111111,6.42105263157895,6.3
+latentnerf,"A headphone with cushioned ear pads",4.63157894736842,2.55555555555556,2.65,2.95238095238095
+one2345++,"A red rose with a thorny stem",8.72222222222222,7.73684210526316,7.05,7.7
+one2345++,"A badge shaped like a shield",9,8.5,8.52380952380952,8.57142857142857
+one2345++,"A lipstick in a golden case",7.31578947368421,7.95454545454546,8.47619047619048,7.80952380952381
+one2345++,"A headphone with cushioned ear pads",9.1052631578947,8.42105263157895,8,8.52380952380952
+dreamfusion,"A golden lamp with an intricate bird and flower motif, and a glossy, amber-colored glass shade",3.33333333333333,3.47619047619048,2.76470588235294,3.21052631578947
+dreamfusion,"A blue hat with a wide brim, a finely stitched edge, and a silver feather pinned delicately to one side",4.94736842105263,4.84210526315789,4.66666666666667,4.80952380952381
+dreamfusion,"A square table with intricate carvings along the legs, a scratched surface, and a missing corner",5.78947368421053,7.18181818181818,5.57142857142857,6.19047619047619
+dreamfusion,"A potted succulent with plump, fleshy, blue-green leaves edged in red and planted in a terracotta pot",8,7.89473684210526,7.15,7.6
+magic3d,"A golden lamp with an intricate bird and flower motif, and a glossy, amber-colored glass shade",6.42105263157895,5.86363636363636,5.90476190476191,6.04761904761905
+magic3d,"A blue hat with a wide brim, a finely stitched edge, and a silver feather pinned delicately to one side",7.22222222222222,6.85714285714286,6.76470588235294,7
+magic3d,"A square table with intricate carvings along the legs, a scratched surface, and a missing corner",5.45,7.47058823529412,6.64705882352941,6.31578947368421
+magic3d,"A potted succulent with plump, fleshy, blue-green leaves edged in red and planted in a terracotta pot",8.36842105263158,7.5,7.26315789473684,7.85
+sjc,"A golden lamp with an intricate bird and flower motif, and a glossy, amber-colored glass shade",6.04761904761905,5.875,5.2,5.63157894736842
+sjc,"A blue hat with a wide brim, a finely stitched edge, and a silver feather pinned delicately to one side",3.94736842105263,2.52631578947368,2.11111111111111,2.85714285714286
+sjc,"A square table with intricate carvings along the legs, a scratched surface, and a missing corner",0.55,0.58823529411765,0.70588235294118,0.57894736842105
+sjc,"A potted succulent with plump, fleshy, blue-green leaves edged in red and planted in a terracotta pot",6.47368421052632,3.63157894736842,3.88888888888889,4.61904761904762
+textmesh,"A golden lamp with an intricate bird and flower motif, and a glossy, amber-colored glass shade",6.5,7.09523809523809,6,6.63157894736842
+textmesh,"A blue hat with a wide brim, a finely stitched edge, and a silver feather pinned delicately to one side",5.23809523809524,4.8125,4.9,5
+textmesh,"A square table with intricate carvings along the legs, a scratched surface, and a missing corner",6.85714285714286,6.6875,5.6,6.26315789473684
+textmesh,"A potted succulent with plump, fleshy, blue-green leaves edged in red and planted in a terracotta pot",1.11764705882353,1.42105263157895,1.1875,1.05263157894737
+3dtopia,"A golden lamp with an intricate bird and flower motif, and a glossy, amber-colored glass shade",7.31578947368421,6.59090909090909,6.90476190476191,6.85714285714286
+3dtopia,"A blue hat with a wide brim, a finely stitched edge, and a silver feather pinned delicately to one side",2.57894736842105,2.57894736842105,3.27777777777778,2.47619047619048
+3dtopia,"A square table with intricate carvings along the legs, a scratched surface, and a missing corner",5.52631578947368,5,4.72222222222222,5.38095238095238
+3dtopia,"A potted succulent with plump, fleshy, blue-green leaves edged in red and planted in a terracotta pot",5.17647058823529,4.10526315789474,4.5,4.47368421052632
+consistent3d,"A golden lamp with an intricate bird and flower motif, and a glossy, amber-colored glass shade",5.63157894736842,4.38888888888889,4.75,4.61904761904762
+consistent3d,"A blue hat with a wide brim, a finely stitched edge, and a silver feather pinned delicately to one side",5.83333333333333,6.42857142857143,6.17647058823529,6.42105263157895
+consistent3d,"A square table with intricate carvings along the legs, a scratched surface, and a missing corner",3.89473684210526,3,3.55555555555556,3.23809523809524
+consistent3d,"A potted succulent with plump, fleshy, blue-green leaves edged in red and planted in a terracotta pot",6.15789473684211,4.61111111111111,5.15,5.23809523809524
+latentnerf,"A golden lamp with an intricate bird and flower motif, and a glossy, amber-colored glass shade",5.45,4.82352941176471,4.70588235294118,4.84210526315789
+latentnerf,"A blue hat with a wide brim, a finely stitched edge, and a silver feather pinned delicately to one side",5.23529411764706,4.68421052631579,3.8125,4.63157894736842
+latentnerf,"A square table with intricate carvings along the legs, a scratched surface, and a missing corner",2,1.44444444444444,1.4,1.57142857142857
+latentnerf,"A potted succulent with plump, fleshy, blue-green leaves edged in red and planted in a terracotta pot",6.71428571428571,4.9375,5.55,5.68421052631579
+one2345++,"A golden lamp with an intricate bird and flower motif, and a glossy, amber-colored glass shade",5.63157894736842,6.44444444444444,6.31578947368421,6.05
+one2345++,"A blue hat with a wide brim, a finely stitched edge, and a silver feather pinned delicately to one side",7.73684210526316,7.33333333333333,7.26315789473684,7.5
+one2345++,"A square table with intricate carvings along the legs, a scratched surface, and a missing corner",6.33333333333333,7.4375,6.6,6.73684210526316
+one2345++,"A potted succulent with plump, fleshy, blue-green leaves edged in red and planted in a terracotta pot",6.68421052631579,7,6.5,6.71428571428571
+dreamfusion,"A flower that blooms metallic petals shaped like butterflies",1.26315789473684,1.16666666666667,1.27777777777778,1.28571428571429
+dreamfusion,"A key carved from bone, adorned with tiny sculpted figures",2,1.57894736842105,2.11111111111111,1.76190476190476
+dreamfusion,"A hummingbird with wings made of shimmering glass",2.42105263157895,1.61111111111111,2.2,2.0952380952381
+dreamfusion,"A frog wearing a tailored shirt with tiny gold buttons, a red bow tie",5.63157894736842,5.63636363636364,4.90476190476191,5.23809523809524
+magic3d,"A flower that blooms metallic petals shaped like butterflies",7.21052631578947,7.5,7.28571428571429,7.14285714285714
+magic3d,"A key carved from bone, adorned with tiny sculpted figures",2.55555555555556,2.0952380952381,2.17647058823529,2.31578947368421
+magic3d,"A hummingbird with wings made of shimmering glass",5.29411764705882,5.15789473684211,4.1875,4.68421052631579
+magic3d,"A frog wearing a tailored shirt with tiny gold buttons, a red bow tie",6.83333333333333,5.94736842105263,5.95,5.85
+sjc,"A flower that blooms metallic petals shaped like butterflies",5.38888888888889,4.31578947368421,4.2,4.15
+sjc,"A key carved from bone, adorned with tiny sculpted figures",4.73684210526316,3.68421052631579,2.94444444444444,3.76190476190476
+sjc,"A hummingbird with wings made of shimmering glass",4.95238095238095,4,3.45,3.84210526315789
+sjc,"A frog wearing a tailored shirt with tiny gold buttons, a red bow tie",3.38095238095238,2.5625,1.8,2.31578947368421
+textmesh,"A flower that blooms metallic petals shaped like butterflies",1.27777777777778,1.04761904761905,1.05882352941176,1.36842105263158
+textmesh,"A key carved from bone, adorned with tiny sculpted figures",5.73684210526316,5.94736842105263,4.72222222222222,5.61904761904762
+textmesh,"A hummingbird with wings made of shimmering glass",4.26315789473684,3.5,3.3,3.52380952380952
+textmesh,"A frog wearing a tailored shirt with tiny gold buttons, a red bow tie",5.04761904761905,4.375,3.8,4.36842105263158
+3dtopia,"A flower that blooms metallic petals shaped like butterflies",4.47368421052632,3.22727272727273,4.14285714285714,3.57142857142857
+3dtopia,"A key carved from bone, adorned with tiny sculpted figures",3.42105263157895,3.05555555555556,3,2.9
+3dtopia,"A hummingbird with wings made of shimmering glass",2.05555555555556,2.68421052631579,3.15,2.1
+3dtopia,"A frog wearing a tailored shirt with tiny gold buttons, a red bow tie",5.11764705882353,4.05263157894737,4.4375,3.94736842105263
+consistent3d,"A flower that blooms metallic petals shaped like butterflies",3.52631578947368,2.68181818181818,2.80952380952381,2.66666666666667
+consistent3d,"A key carved from bone, adorned with tiny sculpted figures",5.42105263157895,5.16666666666667,4.85,5.04761904761905
+consistent3d,"A hummingbird with wings made of shimmering glass",4.77777777777778,4.95238095238095,4,4.15789473684211
+consistent3d,"A frog wearing a tailored shirt with tiny gold buttons, a red bow tie",6.47368421052632,5.09090909090909,4.76190476190476,4.90476190476191
+latentnerf,"A flower that blooms metallic petals shaped like butterflies",3.70588235294118,3.42105263157895,3.5,3.15789473684211
+latentnerf,"A key carved from bone, adorned with tiny sculpted figures",4.05263157894737,2.72222222222222,3.2,3.04761904761905
+latentnerf,"A hummingbird with wings made of shimmering glass",7,6.27777777777778,4.57894736842105,6.05
+latentnerf,"A frog wearing a tailored shirt with tiny gold buttons, a red bow tie",6.47368421052632,4.27777777777778,4.94444444444444,4.52380952380952
+one2345++,"A flower that blooms metallic petals shaped like butterflies",6.17647058823529,5.78947368421053,6.625,5.94736842105263
+one2345++,"A key carved from bone, adorned with tiny sculpted figures",6.57894736842105,5.88888888888889,5.89473684210526,6.4
+one2345++,"A hummingbird with wings made of shimmering glass",7.21052631578947,7.5,6.7,7
+one2345++,"A frog wearing a tailored shirt with tiny gold buttons, a red bow tie",8.2,7.94117647058824,7.76470588235294,7.8421052631579
+dreamfusion,"A wooden easel and a canvas painting",5.84210526315789,5.22222222222222,5.10526315789474,5.3
+dreamfusion,"A silver teapot and a golden cup",3.88235294117647,4.31578947368421,3.8125,3.57894736842105
+dreamfusion,"A round clock and a wooden shelf",1.31578947368421,1.55555555555556,1.3,1.19047619047619
+dreamfusion,"A white flower and a green vase",5.63157894736842,4.77272727272727,4.71428571428571,4.76190476190476
+magic3d,"A wooden easel and a canvas painting",5.57894736842105,5.27777777777778,4.35,5
+magic3d,"A silver teapot and a golden cup",4.21052631578947,3.13636363636364,3.47619047619048,3.14285714285714
+magic3d,"A round clock and a wooden shelf",1,1.47368421052632,1.11111111111111,1
+magic3d,"A white flower and a green vase",5.21052631578947,4.11111111111111,3.57894736842105,4.25
+sjc,"A wooden easel and a canvas painting",3.17647058823529,2.21052631578947,2.125,2.26315789473684
+sjc,"A silver teapot and a golden cup",2.76470588235294,2.26315789473684,1.9375,2
+sjc,"A round clock and a wooden shelf",1.83333333333333,1.21052631578947,1.1,1.1
+sjc,"A white flower and a green vase",4.84210526315789,2.57894736842105,2.77777777777778,3.33333333333333
+textmesh,"A wooden easel and a canvas painting",1.88235294117647,1.84210526315789,2.375,1.63157894736842
+textmesh,"A silver teapot and a golden cup",3.42857142857143,4.25,4.2,3.68421052631579
+textmesh,"A round clock and a wooden shelf",0.52631578947368,1.15789473684211,1.05555555555556,0.71428571428571
+textmesh,"A white flower and a green vase",3.89473684210526,4.38888888888889,4.3,4.04761904761905
+3dtopia,"A wooden easel and a canvas painting",5.77777777777778,6.38095238095238,6.29411764705882,5.94736842105263
+3dtopia,"A silver teapot and a golden cup",3.94736842105263,3.72727272727273,4.28571428571429,3.85714285714286
+3dtopia,"A round clock and a wooden shelf",4.52631578947368,4.05555555555556,4.5,3.95238095238095
+3dtopia,"A white flower and a green vase",3.94736842105263,3.57894736842105,3.61111111111111,3.95238095238095
+consistent3d,"A wooden easel and a canvas painting",4.47368421052632,4.31578947368421,2.83333333333333,3.85714285714286
+consistent3d,"A silver teapot and a golden cup",3.94117647058824,3.89473684210526,3.4375,3.15789473684211
+consistent3d,"A round clock and a wooden shelf",2.61904761904762,2.5625,2.1,2.36842105263158
+consistent3d,"A white flower and a green vase",5.44444444444444,4.80952380952381,4.94117647058824,4.84210526315789
+latentnerf,"A wooden easel and a canvas painting",5.73684210526316,3.83333333333333,4.72222222222222,4.38095238095238
+latentnerf,"A silver teapot and a golden cup",3.64705882352941,2.78947368421053,3,2.78947368421053
+latentnerf,"A round clock and a wooden shelf",3.52380952380952,2.8125,2.8,2.89473684210526
+latentnerf,"A white flower and a green vase",4.15789473684211,2.88888888888889,3.05263157894737,3.1
+one2345++,"A wooden easel and a canvas painting",8,7.23809523809524,6.58823529411765,7.21052631578947
+one2345++,"A silver teapot and a golden cup",5.23809523809524,7,7.4,6.15789473684211
+one2345++,"A round clock and a wooden shelf",8.5,8.41176470588235,7.94117647058824,8.1578947368421
+one2345++,"A white flower and a green vase",8.10526315789474,7.22222222222222,7.5,7.33333333333333
+dreamfusion,"A polished silver bell resting on a wooden stand",6.68421052631579,6.5,5.61111111111111,6.23809523809524
+dreamfusion,"A handwoven basket filled with a ripe peach",6,5.5,5,5.28571428571429
+dreamfusion,"A blue butterfly perched on a yellow flower",6.47368421052632,4.83333333333333,4.89473684210526,5.45
+dreamfusion,"A brass key hanging on a metal hook",4.57894736842105,4.16666666666667,4.3,4.33333333333333
+magic3d,"A polished silver bell resting on a wooden stand",7,6.77777777777778,6.38888888888889,6.47619047619048
+magic3d,"A handwoven basket filled with a ripe peach",6.77777777777778,6.42105263157895,5.85,6.35
+magic3d,"A blue butterfly perched on a yellow flower",5.61111111111111,4.71428571428571,4.88235294117647,4.94736842105263
+magic3d,"A brass key hanging on a metal hook",5.15789473684211,4.05555555555556,4.27777777777778,3.95238095238095
+sjc,"A polished silver bell resting on a wooden stand",4.41176470588235,2.84210526315789,2.8125,3.15789473684211
+sjc,"A handwoven basket filled with a ripe peach",5.85714285714286,4.125,3.25,4.21052631578947
+sjc,"A blue butterfly perched on a yellow flower",6.21052631578947,3.94736842105263,3.22222222222222,4.19047619047619
+sjc,"A brass key hanging on a metal hook",3.42105263157895,2.84210526315789,2.88888888888889,2.80952380952381
+textmesh,"A polished silver bell resting on a wooden stand",7.10526315789474,7.21052631578947,6.88888888888889,7
+textmesh,"A handwoven basket filled with a ripe peach",0.89473684210526,0.88888888888889,0.78947368421053,0.8
+textmesh,"A blue butterfly perched on a yellow flower",3.05555555555556,2.66666666666667,3.17647058823529,3.15789473684211
+textmesh,"A brass key hanging on a metal hook",4.11764705882353,3.89473684210526,4.0625,3.84210526315789
+3dtopia,"A polished silver bell resting on a wooden stand",4.38888888888889,4.94736842105263,5.5,4.5
+3dtopia,"A handwoven basket filled with a ripe peach",5.52631578947368,4.89473684210526,5.61111111111111,5.09523809523809
+3dtopia,"A blue butterfly perched on a yellow flower",2.47368421052632,1.95454545454545,1.85714285714286,2.04761904761905
+3dtopia,"A brass key hanging on a metal hook",4.3,5.29411764705882,5.88235294117647,4.47368421052632
+consistent3d,"A polished silver bell resting on a wooden stand",5.80952380952381,5.4375,4.65,5.26315789473684
+consistent3d,"A handwoven basket filled with a ripe peach",5.33333333333333,4.8125,3.8,4.68421052631579
+consistent3d,"A blue butterfly perched on a yellow flower",3.29411764705882,2.73684210526316,3.0625,2.68421052631579
+consistent3d,"A brass key hanging on a metal hook",4.42105263157895,4.44444444444444,4.5,4.19047619047619
+latentnerf,"A polished silver bell resting on a wooden stand",5.05882352941176,3.47368421052632,3.5625,3.78947368421053
+latentnerf,"A handwoven basket filled with a ripe peach",5.63157894736842,3.61111111111111,3.72222222222222,4.28571428571429
+latentnerf,"A blue butterfly perched on a yellow flower",6.23529411764706,4.47368421052632,4.6875,4.73684210526316
+latentnerf,"A brass key hanging on a metal hook",6,5.35294117647059,6,5
+one2345++,"A polished silver bell resting on a wooden stand",7.63157894736842,8,8,7.85714285714286
+one2345++,"A handwoven basket filled with a ripe peach",8.35294117647059,7.21052631578947,7.4375,7.73684210526316
+one2345++,"A blue butterfly perched on a yellow flower",6.78947368421053,5.63157894736842,5.94444444444444,5.95238095238095
+one2345++,"A brass key hanging on a metal hook",5.84210526315789,6.88888888888889,7.3,6.47619047619048
+dreamfusion,"A yellow truck is crashing into a wooden house",3.36842105263158,2.59090909090909,2.71428571428571,2.66666666666667
+dreamfusion,"A boy is kicking a soccer ball with his foot raised",6.77777777777778,5.42105263157895,4.95,5.35
+dreamfusion,"A violinist in a black suit is playing a violin while standing on one foot",6.10526315789474,4.72222222222222,4.94736842105263,5.1
+dreamfusion,"A knight is polishing a shield while seated on a stool",6.52631578947368,4.66666666666667,4.95,5.04761904761905
+magic3d,"A yellow truck is crashing into a wooden house",2.41176470588235,2.10526315789474,2.375,2
+magic3d,"A boy is kicking a soccer ball with his foot raised",7,4.5,5.52380952380952,5.33333333333333
+magic3d,"A violinist in a black suit is playing a violin while standing on one foot",6.38888888888889,5.71428571428571,5.94117647058824,5.68421052631579
+magic3d,"A knight is polishing a shield while seated on a stool",6.47058823529412,4.89473684210526,4.75,4.84210526315789
+sjc,"A yellow truck is crashing into a wooden house",0.82352941176471,0.89473684210526,1.0625,0.89473684210526
+sjc,"A boy is kicking a soccer ball with his foot raised",6.44444444444444,4.52631578947368,3.7,4.35
+sjc,"A violinist in a black suit is playing a violin while standing on one foot",5.27777777777778,4.76190476190476,3.17647058823529,4.10526315789474
+sjc,"A knight is polishing a shield while seated on a stool",4.70588235294118,2.73684210526316,2.5625,3.15789473684211
+textmesh,"A yellow truck is crashing into a wooden house",1.84210526315789,1.73684210526316,2.16666666666667,1.57142857142857
+textmesh,"A boy is kicking a soccer ball with his foot raised",1.22222222222222,1.57142857142857,0.76470588235294,1.42105263157895
+textmesh,"A violinist in a black suit is playing a violin while standing on one foot",6.47368421052632,5.05555555555556,4.95,5.38095238095238
+textmesh,"A knight is polishing a shield while seated on a stool",6.65,5.23529411764706,5.52941176470588,5.31578947368421
+3dtopia,"A yellow truck is crashing into a wooden house",4.77777777777778,6.14285714285714,5.88235294117647,5.42105263157895
+3dtopia,"A boy is kicking a soccer ball with his foot raised",3.65,2.35294117647059,2.82352941176471,2.68421052631579
+3dtopia,"A violinist in a black suit is playing a violin while standing on one foot",4,3.52631578947368,3.65,3.3
+3dtopia,"A knight is polishing a shield while seated on a stool",5.11111111111111,4.61904761904762,5,4.84210526315789
+consistent3d,"A yellow truck is crashing into a wooden house",3.35,2.82352941176471,2.82352941176471,2.78947368421053
+consistent3d,"A boy is kicking a soccer ball with his foot raised",7.52380952380952,5.875,4.85,6.26315789473684
+consistent3d,"A violinist in a black suit is playing a violin while standing on one foot",6.31578947368421,4.36363636363636,4.66666666666667,4.42857142857143
+consistent3d,"A knight is polishing a shield while seated on a stool",5.78947368421053,4.55555555555556,4.36842105263158,4.65
+latentnerf,"A yellow truck is crashing into a wooden house",3.94736842105263,2.77777777777778,3.5,3.09523809523809
+latentnerf,"A boy is kicking a soccer ball with his foot raised",7.42105263157895,4.59090909090909,4.33333333333333,4.80952380952381
+latentnerf,"A violinist in a black suit is playing a violin while standing on one foot",5.15789473684211,3.68181818181818,3.04761904761905,3.33333333333333
+latentnerf,"A knight is polishing a shield while seated on a stool",6.21052631578947,4.5,4.42857142857143,4.42857142857143
+one2345++,"A yellow truck is crashing into a wooden house",5.38888888888889,5.76190476190476,5.70588235294118,5.57894736842105
+one2345++,"A boy is kicking a soccer ball with his foot raised",8.16666666666667,6.42857142857143,6.41176470588235,6.84210526315789
+one2345++,"A violinist in a black suit is playing a violin while standing on one foot",6.52631578947368,5.16666666666667,5.55555555555556,5.80952380952381
+one2345++,"A knight is polishing a shield while seated on a stool",6.52631578947368,5.31818181818182,5.85714285714286,5.76190476190476
+dreamfusion,"A crowned koala is inspecting a mystical golden staff",2.78947368421053,2,2.5,2.38095238095238
+dreamfusion,"A panda detective is using a magnifying glass to examine an ancient scroll",5.4,5.17647058823529,6.11764705882353,5.42105263157895
+dreamfusion,"A rabbit pirate is holding a treasure map with a carrot symbol",4.10526315789474,2.63157894736842,3,3.04761904761905
+dreamfusion,"A penguin in a tuxedo is conducting an orchestra with a baton",5.23529411764706,4.78947368421053,5.1875,4.47368421052632
+magic3d,"A crowned koala is inspecting a mystical golden staff",8.23809523809524,7,6.95,6.57894736842105
+magic3d,"A panda detective is using a magnifying glass to examine an ancient scroll",4.82352941176471,4.15789473684211,4.5625,4
+magic3d,"A rabbit pirate is holding a treasure map with a carrot symbol",5.73684210526316,5.05263157894737,5.38888888888889,5.09523809523809
+magic3d,"A penguin in a tuxedo is conducting an orchestra with a baton",3.52631578947368,3.16666666666667,1.52631578947368,2.7
+sjc,"A crowned koala is inspecting a mystical golden staff",2.94444444444444,2.21052631578947,1.3,1.95
+sjc,"A panda detective is using a magnifying glass to examine an ancient scroll",4.05263157894737,2.22222222222222,2.66666666666667,2.80952380952381
+sjc,"A rabbit pirate is holding a treasure map with a carrot symbol",5.16666666666667,3.94736842105263,2.7,3.5
+sjc,"A penguin in a tuxedo is conducting an orchestra with a baton",5.61111111111111,4.68421052631579,3.45,4.4
+textmesh,"A crowned koala is inspecting a mystical golden staff",5.47058823529412,5.84210526315789,5.5625,5.57894736842105
+textmesh,"A panda detective is using a magnifying glass to examine an ancient scroll",4.38888888888889,3.68421052631579,3.95,3.45
+textmesh,"A rabbit pirate is holding a treasure map with a carrot symbol",3.42105263157895,3.27777777777778,3.15789473684211,3.1
+textmesh,"A penguin in a tuxedo is conducting an orchestra with a baton",3.64705882352941,3.84210526315789,4.0625,3.42105263157895
+3dtopia,"A crowned koala is inspecting a mystical golden staff",3.52631578947368,2.54545454545455,3.33333333333333,2.42857142857143
+3dtopia,"A panda detective is using a magnifying glass to examine an ancient scroll",0.52631578947368,0.63636363636364,0.76190476190476,0.47619047619048
+3dtopia,"A rabbit pirate is holding a treasure map with a carrot symbol",4.94736842105263,4.47368421052632,4.22222222222222,4.33333333333333
+3dtopia,"A penguin in a tuxedo is conducting an orchestra with a baton",1.29411764705882,1.68421052631579,1.875,1.52631578947368
+consistent3d,"A crowned koala is inspecting a mystical golden staff",3.57894736842105,2.16666666666667,2,2.57142857142857
+consistent3d,"A panda detective is using a magnifying glass to examine an ancient scroll",5.21052631578947,4.22222222222222,4.63157894736842,4.4
+consistent3d,"A rabbit pirate is holding a treasure map with a carrot symbol",5.27777777777778,3.94736842105263,4.75,4.3
+consistent3d,"A penguin in a tuxedo is conducting an orchestra with a baton",2.58823529411765,2.36842105263158,2.75,2.47368421052632
+latentnerf,"A crowned koala is inspecting a mystical golden staff",5.15,4.17647058823529,4.82352941176471,4.05263157894737
+latentnerf,"A panda detective is using a magnifying glass to examine an ancient scroll",0.0588235294117601,0.21052631578947,0.25,0.15789473684211
+latentnerf,"A rabbit pirate is holding a treasure map with a carrot symbol",6.31578947368421,4.22222222222222,4.44444444444444,4.42857142857143
+latentnerf,"A penguin in a tuxedo is conducting an orchestra with a baton",5.15789473684211,4.21052631578947,4.05555555555556,4.28571428571429
+one2345++,"A crowned koala is inspecting a mystical golden staff",7.5,6.61904761904762,6.70588235294118,6.78947368421053
+one2345++,"A panda detective is using a magnifying glass to examine an ancient scroll",6.21052631578947,5.45454545454545,5.47619047619048,5.80952380952381
+one2345++,"A rabbit pirate is holding a treasure map with a carrot symbol",5.94736842105263,4.86363636363636,4.95238095238095,5.09523809523809
+one2345++,"A penguin in a tuxedo is conducting an orchestra with a baton",6.25,6.17647058823529,5.82352941176471,5.89473684210526

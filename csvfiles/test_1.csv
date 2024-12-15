@@ -1,0 +1,257 @@
+model,prompt,Alignment,Geometry,Texture,Overall
+dreamfusion,"A brown horse",4,2.63157894736842,3.5,2.9
+dreamfusion,"A brown bear",1.94736842105263,1.38888888888889,1.27777777777778,1.61904761904762
+dreamfusion,"A white rabbit",8.66666666666667,8.09523809523809,6.82352941176471,7.78947368421053
+dreamfusion,"A glass bottle",7.05263157894737,6.66666666666667,6,6.19047619047619
+magic3d,"A brown horse",5,3.14285714285714,4.35294117647059,3.63157894736842
+magic3d,"A brown bear",6.57894736842105,4.44444444444444,4.78947368421053,5
+magic3d,"A white rabbit",7.63157894736842,6.16666666666667,6,6.61904761904762
+magic3d,"A glass bottle",7.80952380952381,7.5625,6.65,7.42105263157895
+sjc,"A brown horse",5.90476190476191,4.5,3.05,4.05263157894737
+sjc,"A brown bear",3.41176470588235,2.15789473684211,1.875,2.31578947368421
+sjc,"A white rabbit",7.22222222222222,5.26315789473684,3.85,4.95
+sjc,"A glass bottle",6.26315789473684,3.77272727272727,3.61904761904762,4.28571428571429
+textmesh,"A brown horse",3.21052631578947,2.33333333333333,2.94736842105263,2.5
+textmesh,"A brown bear",1,1,1.22222222222222,1
+textmesh,"A white rabbit",8.5,7.05263157894737,7.2,7
+textmesh,"A glass bottle",1.1,1.35294117647059,1.41176470588235,1.15789473684211
+3dtopia,"A brown horse",6.84210526315789,4.78947368421053,5.77777777777778,5.47619047619048
+3dtopia,"A brown bear",6.15789473684211,3.54545454545455,4.33333333333333,4.47619047619048
+3dtopia,"A white rabbit",5.21428571428571,4.65625,4.5,4.68421052631579
+3dtopia,"A glass bottle",5.5,3.58823529411765,4.35294117647059,4.47368421052632
+consistent3d,"A brown horse",5.47619047619048,3.9375,4.35,4.21052631578947
+consistent3d,"A brown bear",6.42105263157895,4.10526315789474,4.44444444444444,4.23809523809524
+consistent3d,"A white rabbit",7.78947368421053,5.15789473684211,5.61111111111111,5.66666666666667
+consistent3d,"A glass bottle",5,3.10526315789474,3.55555555555556,3.61904761904762
+latentnerf,"A brown horse",3.35294117647059,2,2.25,2.15789473684211
+latentnerf,"A brown bear",1.36842105263158,1,1.2,1.23809523809524
+latentnerf,"A white rabbit",7.75,5.23529411764706,5.29411764705882,6
+latentnerf,"A glass bottle",4.38888888888889,2.89473684210526,2.7,3.05
+one2345++,"A brown horse",8.66666666666667,7.1578947368421,6.95,7.3
+one2345++,"A brown bear",8,7.23529411764706,5.88235294117647,6.94736842105263
+one2345++,"A white rabbit",7.26315789473684,7,5.27777777777778,6.61904761904762
+one2345++,"A glass bottle",7.88235294117647,8.10526315789474,6.8125,7.68421052631579
+dreamfusion,"A bookmark with a tassel",2.83333333333333,2.14285714285714,2.17647058823529,2.73684210526316
+dreamfusion,"A wooden chair with a woven seat",6.38095238095238,6.8125,5.95,6.52631578947368
+dreamfusion,"A white sneaker with blue stripes",6.52631578947368,6.77777777777778,5.94444444444444,6.19047619047619
+dreamfusion,"A teddy bear holding a heart",1.36842105263158,1.36842105263158,1.38888888888889,1.14285714285714
+magic3d,"A bookmark with a tassel",4.28947368421053,3.60526315789474,3.36111111111111,3.64285714285714
+magic3d,"A wooden chair with a woven seat",6.94736842105263,6.73684210526316,5.44444444444444,6.23809523809524
+magic3d,"A white sneaker with blue stripes",5.94117647058824,5.05263157894737,6.3125,4.94736842105263
+magic3d,"A teddy bear holding a heart",1.05882352941176,1,1.5,0.78947368421053
+sjc,"A bookmark with a tassel",4.15,3.41176470588235,3.35294117647059,3.52631578947368
+sjc,"A wooden chair with a woven seat",3.84210526315789,2.38888888888889,2.6,2.71428571428571
+sjc,"A white sneaker with blue stripes",3.36842105263158,2.05263157894737,1.83333333333333,2.28571428571429
+sjc,"A teddy bear holding a heart",4.47368421052632,3.66666666666667,2.78947368421053,3.3
+textmesh,"A bookmark with a tassel",2.95238095238095,3.0625,2.45,2.63157894736842
+textmesh,"A wooden chair with a woven seat",6.26315789473684,6.05555555555556,5.3,6.04761904761905
+textmesh,"A white sneaker with blue stripes",1,1.15789473684211,1.375,1
+textmesh,"A teddy bear holding a heart",1.29411764705882,1.42105263157895,1.6875,1.31578947368421
+3dtopia,"A bookmark with a tassel",5.80952380952381,5.5,6.05,5.57894736842105
+3dtopia,"A wooden chair with a woven seat",8.89473684210526,8.88888888888889,8.57894736842105,9
+3dtopia,"A white sneaker with blue stripes",2.68421052631579,1.83333333333333,3,2.33333333333333
+3dtopia,"A teddy bear holding a heart",3.78947368421053,3.83333333333333,3.66666666666667,3.71428571428571
+consistent3d,"A bookmark with a tassel",4.16666666666667,3.47619047619048,3.23529411764706,3.52631578947368
+consistent3d,"A wooden chair with a woven seat",6.61904761904762,5.75,4.85,5.89473684210526
+consistent3d,"A white sneaker with blue stripes",8.5,8,6.7,7.4
+consistent3d,"A teddy bear holding a heart",6.36842105263158,4.88888888888889,4.85,4.76190476190476
+latentnerf,"A bookmark with a tassel",2.21052631578947,1.72222222222222,1.63157894736842,1.55
+latentnerf,"A wooden chair with a woven seat",6.52631578947368,5.5,4.78947368421053,5.55
+latentnerf,"A white sneaker with blue stripes",5.26315789473684,4.11111111111111,4.31578947368421,4
+latentnerf,"A teddy bear holding a heart",5.73684210526316,3.05555555555556,3.88888888888889,3.71428571428571
+one2345++,"A bookmark with a tassel",7.23809523809524,6.625,7,6.84210526315789
+one2345++,"A wooden chair with a woven seat",8.09523809523809,8.0625,7.2,7.78947368421053
+one2345++,"A white sneaker with blue stripes",8.57894736842105,8.11111111111111,7.55,8.04761904761905
+one2345++,"A teddy bear holding a heart",8.7,8.82352941176471,8.29411764705882,8.68421052631579
+dreamfusion,"A bronze goblet encrusted with rubies, with swirling engravings of dragons coiling up its stem",3.11111111111111,2.57142857142857,2.05882352941176,2.52631578947368
+dreamfusion,"A ceramic vase with swirling patterns etched into the surface, a chipped rim, and a long, narrow neck",5.73684210526316,6.38888888888889,5.15789473684211,5.8
+dreamfusion,"A gilded picture frame adorned with ivy leaves, enclosing an oil painting of a serene landscape",0.61111111111111,0.61904761904762,0.88235294117647,0.84210526315789
+dreamfusion,"A wooden chair with a broken leg, a cushioned seat, and carved spirals on the arms",5.63157894736842,5.66666666666667,5.05,5.57142857142857
+magic3d,"A bronze goblet encrusted with rubies, with swirling engravings of dragons coiling up its stem",6.52631578947368,5.89473684210526,5.72222222222222,6.14285714285714
+magic3d,"A ceramic vase with swirling patterns etched into the surface, a chipped rim, and a long, narrow neck",5.68421052631579,6.63636363636364,5.04761904761905,5.80952380952381
+magic3d,"A gilded picture frame adorned with ivy leaves, enclosing an oil painting of a serene landscape",0.44444444444444,0.63157894736842,0.65,0.5
+magic3d,"A wooden chair with a broken leg, a cushioned seat, and carved spirals on the arms",5.21052631578947,4.72222222222222,4.5,4.76190476190476
+sjc,"A bronze goblet encrusted with rubies, with swirling engravings of dragons coiling up its stem",2.57142857142857,1.5625,2,1.84210526315789
+sjc,"A ceramic vase with swirling patterns etched into the surface, a chipped rim, and a long, narrow neck",4.84210526315789,2.63157894736842,3,3.42857142857143
+sjc,"A gilded picture frame adorned with ivy leaves, enclosing an oil painting of a serene landscape",0.72222222222222,0.85714285714286,0.64705882352941,0.52631578947368
+sjc,"A wooden chair with a broken leg, a cushioned seat, and carved spirals on the arms",4,2.83333333333333,2.75,3.14285714285714
+textmesh,"A bronze goblet encrusted with rubies, with swirling engravings of dragons coiling up its stem",4.6,5.58823529411765,4.35294117647059,4.57894736842105
+textmesh,"A ceramic vase with swirling patterns etched into the surface, a chipped rim, and a long, narrow neck",6.05,6.88235294117647,5.58823529411765,6.05263157894737
+textmesh,"A gilded picture frame adorned with ivy leaves, enclosing an oil painting of a serene landscape",4.55555555555556,4.47619047619048,5.11764705882353,4
+textmesh,"A wooden chair with a broken leg, a cushioned seat, and carved spirals on the arms",5.10526315789474,5.95454545454545,5.57142857142857,5.66666666666667
+3dtopia,"A bronze goblet encrusted with rubies, with swirling engravings of dragons coiling up its stem",7.44444444444444,6.21052631578947,6.45,6.45
+3dtopia,"A ceramic vase with swirling patterns etched into the surface, a chipped rim, and a long, narrow neck",5.78947368421053,4.05263157894737,5.94444444444444,5.14285714285714
+3dtopia,"A gilded picture frame adorned with ivy leaves, enclosing an oil painting of a serene landscape",7.47368421052632,6.40909090909091,6.95238095238095,7
+3dtopia,"A wooden chair with a broken leg, a cushioned seat, and carved spirals on the arms",6.05263157894737,5.10526315789474,5.66666666666667,5.61904761904762
+consistent3d,"A bronze goblet encrusted with rubies, with swirling engravings of dragons coiling up its stem",6.55555555555556,6.66666666666667,5.82352941176471,6.42105263157895
+consistent3d,"A ceramic vase with swirling patterns etched into the surface, a chipped rim, and a long, narrow neck",5.42105263157895,3.26315789473684,4.66666666666667,4.47619047619048
+consistent3d,"A gilded picture frame adorned with ivy leaves, enclosing an oil painting of a serene landscape",1.35,1.17647058823529,1.47058823529412,1.15789473684211
+consistent3d,"A wooden chair with a broken leg, a cushioned seat, and carved spirals on the arms",5.42857142857143,3.9375,4.15,4.52631578947368
+latentnerf,"A bronze goblet encrusted with rubies, with swirling engravings of dragons coiling up its stem",3.82352941176471,3.05263157894737,2.0625,3.10526315789474
+latentnerf,"A ceramic vase with swirling patterns etched into the surface, a chipped rim, and a long, narrow neck",1.29411764705882,1.10526315789474,1.0625,1.10526315789474
+latentnerf,"A gilded picture frame adorned with ivy leaves, enclosing an oil painting of a serene landscape",2,1.22222222222222,1.25,1.42857142857143
+latentnerf,"A wooden chair with a broken leg, a cushioned seat, and carved spirals on the arms",5,4.66666666666667,4.52941176470588,4.52631578947368
+one2345++,"A bronze goblet encrusted with rubies, with swirling engravings of dragons coiling up its stem",6.31578947368421,6.52631578947368,6.83333333333333,6.42857142857143
+one2345++,"A ceramic vase with swirling patterns etched into the surface, a chipped rim, and a long, narrow neck",7.17647058823529,7.36842105263158,7.375,7.10526315789474
+one2345++,"A gilded picture frame adorned with ivy leaves, enclosing an oil painting of a serene landscape",7.26315789473684,7.38888888888889,6.72222222222222,6.85714285714286
+one2345++,"A wooden chair with a broken leg, a cushioned seat, and carved spirals on the arms",6.5,7.42857142857143,7.47058823529412,7.1578947368421
+dreamfusion,"A rabbit with butterfly wings instead of ears, patterns vivid",4.21052631578947,3.66666666666667,4,3.85714285714286
+dreamfusion,"A house shaped like a giant teapot, complete with handle and spout",4.89473684210526,5.05555555555556,4.7,4.38095238095238
+dreamfusion,"A sunflower with a center that is a functioning clock face",0.44444444444444,0.52380952380952,0.41176470588235,0.63157894736842
+dreamfusion,"An earring designed as miniature chandeliers adorned with crystals",2.47058823529412,1.94736842105263,2.75,2.21052631578947
+magic3d,"A rabbit with butterfly wings instead of ears, patterns vivid",5,5.76470588235294,4.76470588235294,4.78947368421053
+magic3d,"A house shaped like a giant teapot, complete with handle and spout",4.42105263157895,4.5,3.44444444444444,3.76190476190476
+magic3d,"A sunflower with a center that is a functioning clock face",2.11111111111111,2.28571428571429,2.17647058823529,2.21052631578947
+magic3d,"An earring designed as miniature chandeliers adorned with crystals",2.89473684210526,2.33333333333333,2.57894736842105,2.55
+sjc,"A rabbit with butterfly wings instead of ears, patterns vivid",3.65,2.88235294117647,2.64705882352941,2.94736842105263
+sjc,"A house shaped like a giant teapot, complete with handle and spout",4.89473684210526,3.27777777777778,3.38888888888889,3.47619047619048
+sjc,"A sunflower with a center that is a functioning clock face",2.88888888888889,1.78947368421053,2.25,1.95
+sjc,"An earring designed as miniature chandeliers adorned with crystals",2,1.26315789473684,1,1.15
+textmesh,"A rabbit with butterfly wings instead of ears, patterns vivid",4.44444444444444,4.52631578947368,3.85,3.85
+textmesh,"A house shaped like a giant teapot, complete with handle and spout",4.89473684210526,5.47368421052632,3.94444444444444,4.28571428571429
+textmesh,"A sunflower with a center that is a functioning clock face",1.10526315789474,1.47368421052632,1.44444444444444,1.19047619047619
+textmesh,"An earring designed as miniature chandeliers adorned with crystals",5.44444444444444,4.42105263157895,3.55,4.15
+3dtopia,"A rabbit with butterfly wings instead of ears, patterns vivid",5.38888888888889,6.33333333333333,5.76470588235294,6.05263157894737
+3dtopia,"A house shaped like a giant teapot, complete with handle and spout",6.33333333333333,6.0625,5.1,5.68421052631579
+3dtopia,"A sunflower with a center that is a functioning clock face",4.15789473684211,3.89473684210526,4.38888888888889,3.95238095238095
+3dtopia,"An earring designed as miniature chandeliers adorned with crystals",7.68421052631579,6.77777777777778,6.94736842105263,7.15
+consistent3d,"A rabbit with butterfly wings instead of ears, patterns vivid",3.82352941176471,3.10526315789474,3.625,3
+consistent3d,"A house shaped like a giant teapot, complete with handle and spout",5.10526315789474,5.47368421052632,4.61111111111111,4.57142857142857
+consistent3d,"A sunflower with a center that is a functioning clock face",1.80952380952381,1.9375,2.3,1.68421052631579
+consistent3d,"An earring designed as miniature chandeliers adorned with crystals",5.14285714285714,3.875,4.1,4.26315789473684
+latentnerf,"A rabbit with butterfly wings instead of ears, patterns vivid",4.9,4.64705882352941,4.58823529411765,4.42105263157895
+latentnerf,"A house shaped like a giant teapot, complete with handle and spout",3.76470588235294,2.57894736842105,2.9375,2.57894736842105
+latentnerf,"A sunflower with a center that is a functioning clock face",3.66666666666667,3.61904761904762,3.52941176470588,3.73684210526316
+latentnerf,"An earring designed as miniature chandeliers adorned with crystals",4.52631578947368,3.66666666666667,3.72222222222222,3.47619047619048
+one2345++,"A rabbit with butterfly wings instead of ears, patterns vivid",6.90476190476191,7.0625,7.2,6.94736842105263
+one2345++,"A house shaped like a giant teapot, complete with handle and spout",6.35294117647059,6.42105263157895,6.375,6
+one2345++,"A sunflower with a center that is a functioning clock face",7.63157894736842,7.05263157894737,7.11111111111111,7.04761904761905
+one2345++,"An earring designed as miniature chandeliers adorned with crystals",6.57894736842105,6.33333333333333,6.10526315789474,6.6
+dreamfusion,"A green cactus and a glass bottle",5.11764705882353,6,6.125,5.47368421052632
+dreamfusion,"A leather wallet and a cotton hat",4.35,5.35294117647059,5.58823529411765,4.68421052631579
+dreamfusion,"A blue umbrella and a silver key",3.45,3.41176470588235,3.82352941176471,3.31578947368421
+dreamfusion,"A metal sword and a bronze shield",1.33333333333333,1.875,1.95,1.68421052631579
+magic3d,"A green cactus and a glass bottle",5.9,7.88235294117647,7.58823529411765,6.94736842105263
+magic3d,"A leather wallet and a cotton hat",4.36842105263158,5.55555555555556,5.33333333333333,4.66666666666667
+magic3d,"A blue umbrella and a silver key",2.22222222222222,2.19047619047619,2,2
+magic3d,"A metal sword and a bronze shield",6.88888888888889,5.42105263157895,5.7,5.7
+sjc,"A green cactus and a glass bottle",5.88888888888889,5.63157894736842,4.85,5.2
+sjc,"A leather wallet and a cotton hat",3.10526315789474,1.72727272727273,1.95238095238095,1.9047619047619
+sjc,"A blue umbrella and a silver key",5.15,4.70588235294118,4.88235294117647,4.57894736842105
+sjc,"A metal sword and a bronze shield",2.88235294117647,2.21052631578947,1.875,2.10526315789474
+textmesh,"A green cactus and a glass bottle",5.42105263157895,7,6.8,5.90476190476191
+textmesh,"A leather wallet and a cotton hat",4.47368421052632,5.05555555555556,5.45,4.66666666666667
+textmesh,"A blue umbrella and a silver key",1.58823529411765,2.05263157894737,2.375,1.63157894736842
+textmesh,"A metal sword and a bronze shield",1.84210526315789,2.5,2.55,2.04761904761905
+3dtopia,"A green cactus and a glass bottle",4.23809523809524,4.1875,4.45,4.21052631578947
+3dtopia,"A leather wallet and a cotton hat",4.05263157894737,5.09090909090909,5.33333333333333,4.52380952380952
+3dtopia,"A blue umbrella and a silver key",3.05555555555556,2.9047619047619,3.11764705882353,3
+3dtopia,"A metal sword and a bronze shield",5.23809523809524,6.25,6.7,5.84210526315789
+consistent3d,"A green cactus and a glass bottle",4.9,4.41176470588235,4.29411764705882,4.15789473684211
+consistent3d,"A leather wallet and a cotton hat",4.83333333333333,6.21052631578947,5.75,5.45
+consistent3d,"A blue umbrella and a silver key",3.47368421052632,3,3.36842105263158,3.05
+consistent3d,"A metal sword and a bronze shield",1.68421052631579,1.83333333333333,1.73684210526316,1.6
+latentnerf,"A green cactus and a glass bottle",3.52941176470588,2.68421052631579,3.0625,2.84210526315789
+latentnerf,"A leather wallet and a cotton hat",3.35,3.23529411764706,3.35294117647059,2.89473684210526
+latentnerf,"A blue umbrella and a silver key",3.89473684210526,2.42105263157895,2.61111111111111,2.80952380952381
+latentnerf,"A metal sword and a bronze shield",3.55555555555556,3.28571428571429,3.17647058823529,3.10526315789474
+one2345++,"A green cactus and a glass bottle",4.31578947368421,5.31818181818182,5.76190476190476,4.85714285714286
+one2345++,"A leather wallet and a cotton hat",4.52631578947368,6.05555555555556,6.66666666666667,5.28571428571429
+one2345++,"A blue umbrella and a silver key",8.4,7.11764705882353,7.76470588235294,7.52631578947368
+one2345++,"A metal sword and a bronze shield",7,5.76470588235294,6.47058823529412,6
+dreamfusion,"A black hat hanging on a brass hook",7.11111111111111,6.76190476190476,6.76470588235294,6.73684210526316
+dreamfusion,"A white candle in an iron holder",3.44444444444444,3.78947368421053,3.75,3.05
+dreamfusion,"A ripe strawberry on a delicious cake",1.94736842105263,2,2.11111111111111,2.0952380952381
+dreamfusion,"A glass teapot next to a porcelain cup",0.88888888888889,1.02631578947368,1.075,0.9
+magic3d,"A black hat hanging on a brass hook",6.31578947368421,5.68421052631579,6.33333333333333,5.95238095238095
+magic3d,"A white candle in an iron holder",5.94444444444444,5.09523809523809,4.47058823529412,5
+magic3d,"A ripe strawberry on a delicious cake",3.89473684210526,4.83333333333333,4.10526315789474,4.05
+magic3d,"A glass teapot next to a porcelain cup",3.95238095238095,4.5,3.75,3.78947368421053
+sjc,"A black hat hanging on a brass hook",3.88888888888889,3.14285714285714,2.70588235294118,3.05263157894737
+sjc,"A white candle in an iron holder",7.10526315789474,4.88888888888889,4.83333333333333,5.57142857142857
+sjc,"A ripe strawberry on a delicious cake",1.11111111111111,0.80952380952381,1.17647058823529,0.84210526315789
+sjc,"A glass teapot next to a porcelain cup",2.88235294117647,2.05263157894737,1.75,2.05263157894737
+textmesh,"A black hat hanging on a brass hook",4.15789473684211,4.27777777777778,4.21052631578947,4.2
+textmesh,"A white candle in an iron holder",4.21052631578947,4.11111111111111,4.25,4.14285714285714
+textmesh,"A ripe strawberry on a delicious cake",3.26315789473684,3.22222222222222,3.2,3
+textmesh,"A glass teapot next to a porcelain cup",0.78947368421053,1.44444444444444,1.66666666666667,1.04761904761905
+3dtopia,"A black hat hanging on a brass hook",3.26315789473684,2.95454545454545,3.28571428571429,3
+3dtopia,"A white candle in an iron holder",2.94444444444444,3.05263157894737,3.8,2.55
+3dtopia,"A ripe strawberry on a delicious cake",2.78947368421053,2.27777777777778,3.16666666666667,2.85714285714286
+3dtopia,"A glass teapot next to a porcelain cup",4.45,5.41176470588235,5.41176470588235,4.78947368421053
+consistent3d,"A black hat hanging on a brass hook",4.63157894736842,4.77777777777778,4.95,4.57142857142857
+consistent3d,"A white candle in an iron holder",7.42105263157895,6.5,5.94736842105263,6.7
+consistent3d,"A ripe strawberry on a delicious cake",6.5,4.88235294117647,5.29411764705882,5.63157894736842
+consistent3d,"A glass teapot next to a porcelain cup",4.2,4.29411764705882,4.23529411764706,3.84210526315789
+latentnerf,"A black hat hanging on a brass hook",2.77777777777778,1.47368421052632,1.6,1.65
+latentnerf,"A white candle in an iron holder",6.72222222222222,5.84210526315789,5.05,5.55
+latentnerf,"A ripe strawberry on a delicious cake",3.16666666666667,2.52631578947368,2.7,2.5
+latentnerf,"A glass teapot next to a porcelain cup",3.16666666666667,2.21052631578947,2.1,2.2
+one2345++,"A black hat hanging on a brass hook",6.47058823529412,7.21052631578947,7.625,6.89473684210526
+one2345++,"A white candle in an iron holder",8.57894736842105,8.16666666666667,8.15,8.28571428571429
+one2345++,"A ripe strawberry on a delicious cake",8.11764705882353,7,7.5625,7.57894736842105
+one2345++,"A glass teapot next to a porcelain cup",4.85714285714286,6.9375,6.7,5.94736842105263
+dreamfusion,"A dolphin is pushing a ball with its nose while swimming",7.5,6.47368421052632,6.25,6.45
+dreamfusion,"A turtle is crawling to a circular, white shell",0.84210526315789,0.77777777777778,0.7,0.85714285714286
+dreamfusion,"A bat is hanging upside down from a branch with its wings folded",4.42105263157895,3.77777777777778,3.88888888888889,3.90476190476191
+dreamfusion,"A dog is barking at a cat with its tail wagging",3.45,3.70588235294118,3.64705882352941,3.21052631578947
+magic3d,"A dolphin is pushing a ball with its nose while swimming",7.38888888888889,7,6,6.78947368421053
+magic3d,"A turtle is crawling to a circular, white shell",5.57894736842105,6.55555555555556,6.57894736842105,6.35
+magic3d,"A bat is hanging upside down from a branch with its wings folded",4.94444444444444,5.23809523809524,5.05882352941176,4.57894736842105
+magic3d,"A dog is barking at a cat with its tail wagging",6.94444444444444,6.09523809523809,5.52941176470588,6.10526315789474
+sjc,"A dolphin is pushing a ball with its nose while swimming",2.94736842105263,1.68181818181818,1.9047619047619,1.95238095238095
+sjc,"A turtle is crawling to a circular, white shell",4,3.61111111111111,2.73684210526316,3.45
+sjc,"A bat is hanging upside down from a branch with its wings folded",3.13157894736842,1.63636363636364,1.78571428571429,1.85714285714286
+sjc,"A dog is barking at a cat with its tail wagging",4.15789473684211,1.89473684210526,2.05555555555556,2.71428571428571
+textmesh,"A dolphin is pushing a ball with its nose while swimming",3.52631578947368,3.61111111111111,3.8,3.47619047619048
+textmesh,"A turtle is crawling to a circular, white shell",4.89473684210526,6.05555555555556,5.84210526315789,5.4
+textmesh,"A bat is hanging upside down from a branch with its wings folded",2.84210526315789,2.5,2.61904761904762,2.33333333333333
+textmesh,"A dog is barking at a cat with its tail wagging",2.95238095238095,2.9375,2.8,2.89473684210526
+3dtopia,"A dolphin is pushing a ball with its nose while swimming",4.26315789473684,3.83333333333333,4.15,4
+3dtopia,"A turtle is crawling to a circular, white shell",3.71428571428571,3.375,4.1,3.57894736842105
+3dtopia,"A bat is hanging upside down from a branch with its wings folded",2.10526315789474,1.61111111111111,2.3,1.95238095238095
+3dtopia,"A dog is barking at a cat with its tail wagging",3.21052631578947,2.05555555555556,3.10526315789474,2.4
+consistent3d,"A dolphin is pushing a ball with its nose while swimming",4.73684210526316,3.66666666666667,4.11111111111111,4.09523809523809
+consistent3d,"A turtle is crawling to a circular, white shell",3.94117647058824,3.94736842105263,2.8125,3.31578947368421
+consistent3d,"A bat is hanging upside down from a branch with its wings folded",4.04761904761905,3.4375,3.1,3.52631578947368
+consistent3d,"A dog is barking at a cat with its tail wagging",4.7,4.17647058823529,4.47058823529412,4
+latentnerf,"A dolphin is pushing a ball with its nose while swimming",4.19047619047619,3.5625,2.8,3.05263157894737
+latentnerf,"A turtle is crawling to a circular, white shell",4.05555555555556,3.19047619047619,3.41176470588235,3.42105263157895
+latentnerf,"A bat is hanging upside down from a branch with its wings folded",3.52631578947368,2.44444444444444,2.5,2.66666666666667
+latentnerf,"A dog is barking at a cat with its tail wagging",4.63157894736842,4.66666666666667,4.61111111111111,4.52380952380952
+one2345++,"A dolphin is pushing a ball with its nose while swimming",5.73684210526316,7.04545454545454,7.14285714285714,6.61904761904762
+one2345++,"A turtle is crawling to a circular, white shell",5,6.84210526315789,7.1,5.8
+one2345++,"A bat is hanging upside down from a branch with its wings folded",4.09523809523809,5,4.25,4.47368421052632
+one2345++,"A dog is barking at a cat with its tail wagging",6.10526315789474,4.10526315789474,4.27777777777778,4.71428571428571
+dreamfusion,"A raccoon with wings is casting a spell with a magic wand",4.38095238095238,3.6875,3.9,3.89473684210526
+dreamfusion,"A giant tortoise is peacefully resting while a garden of mushrooms grows on its shell",5.09523809523809,4.625,3.8,4.42105263157895
+dreamfusion,"A bear astronaut is planting a flag with a paw print",4.38095238095238,3.5,3.1,3.63157894736842
+dreamfusion,"A rabbit with a top hat is balancing on a golden egg",6.3,6.88235294117647,6.70588235294118,6.57894736842105
+magic3d,"A raccoon with wings is casting a spell with a magic wand",4.36842105263158,3.52631578947368,4.22222222222222,3.61904761904762
+magic3d,"A giant tortoise is peacefully resting while a garden of mushrooms grows on its shell",5.84210526315789,5.05555555555556,4.73684210526316,5.05
+magic3d,"A bear astronaut is planting a flag with a paw print",4.66666666666667,4.04761904761905,3.70588235294118,3.84210526315789
+magic3d,"A rabbit with a top hat is balancing on a golden egg",4.57894736842105,3.68181818181818,4.19047619047619,3.85714285714286
+sjc,"A raccoon with wings is casting a spell with a magic wand",4.17647058823529,3.42105263157895,3.0625,3.26315789473684
+sjc,"A giant tortoise is peacefully resting while a garden of mushrooms grows on its shell",4.05555555555556,3.19047619047619,2.58823529411765,2.94736842105263
+sjc,"A bear astronaut is planting a flag with a paw print",3.36842105263158,2.33333333333333,2.61111111111111,2.52380952380952
+sjc,"A rabbit with a top hat is balancing on a golden egg",6,4.61904761904762,3.58823529411765,4.57894736842105
+textmesh,"A raccoon with wings is casting a spell with a magic wand",6.15789473684211,5.26315789473684,6.11111111111111,5.61904761904762
+textmesh,"A giant tortoise is peacefully resting while a garden of mushrooms grows on its shell",5.38095238095238,5.9375,5.7,5.63157894736842
+textmesh,"A bear astronaut is planting a flag with a paw print",5.47368421052632,5.21052631578947,4.61111111111111,5.19047619047619
+textmesh,"A rabbit with a top hat is balancing on a golden egg",3.21052631578947,3.88888888888889,3.68421052631579,3.3
+3dtopia,"A raccoon with wings is casting a spell with a magic wand",3.47619047619048,3.125,3.45,3.15789473684211
+3dtopia,"A giant tortoise is peacefully resting while a garden of mushrooms grows on its shell",2.68421052631579,2.16666666666667,2.68421052631579,2.3
+3dtopia,"A bear astronaut is planting a flag with a paw print",4.76190476190476,3.4375,4.85,4.15789473684211
+3dtopia,"A rabbit with a top hat is balancing on a golden egg",2.29411764705882,2.34210526315789,2.9375,2.21052631578947
+consistent3d,"A raccoon with wings is casting a spell with a magic wand",5.21052631578947,4,4,4.3
+consistent3d,"A giant tortoise is peacefully resting while a garden of mushrooms grows on its shell",4.84210526315789,3.83333333333333,4.26315789473684,4.25
+consistent3d,"A bear astronaut is planting a flag with a paw print",2.94736842105263,2.09090909090909,2.19047619047619,2.04761904761905
+consistent3d,"A rabbit with a top hat is balancing on a golden egg",5.5,3.88235294117647,4.64705882352941,4.36842105263158
+latentnerf,"A raccoon with wings is casting a spell with a magic wand",6.21052631578947,5.05263157894737,4.05555555555556,4.90476190476191
+latentnerf,"A giant tortoise is peacefully resting while a garden of mushrooms grows on its shell",3.78947368421053,2.44444444444444,2.88888888888889,3
+latentnerf,"A bear astronaut is planting a flag with a paw print",5.47058823529412,4.15789473684211,4.0625,3.94736842105263
+latentnerf,"A rabbit with a top hat is balancing on a golden egg",6.36842105263158,4.22222222222222,5.11111111111111,4.57142857142857
+one2345++,"A raccoon with wings is casting a spell with a magic wand",5.66666666666667,5.52380952380952,5.76470588235294,5.52631578947368
+one2345++,"A giant tortoise is peacefully resting while a garden of mushrooms grows on its shell",5.42105263157895,6.95454545454545,6.66666666666667,6.38095238095238
+one2345++,"A bear astronaut is planting a flag with a paw print",4.89473684210526,6.22727272727273,6.28571428571429,5.71428571428571
+one2345++,"A rabbit with a top hat is balancing on a golden egg",8.21052631578947,7.18181818181818,6.71428571428571,7.38095238095238

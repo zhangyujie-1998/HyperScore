@@ -1,0 +1,257 @@
+model,prompt,Alignment,Geometry,Texture,Overall
+dreamfusion,A striped zebra,4.764705882,3.105263158,3.1875,3.315789474
+dreamfusion,A blue jacket,4.85,4.117647059,4.764705882,4.315789474
+dreamfusion,A yellow hat,8.315789474,7.277777778,6.684210526,7.3
+dreamfusion,A canned Coke,8.333333333,7.578947368,6.85,7.45
+magic3d,A striped zebra,6.5,5.666666667,5.294117647,5.631578947
+magic3d,A blue jacket,4.944444444,4.238095238,4.235294118,4.263157895
+magic3d,A yellow hat,7.736842105,6.5,5.789473684,6.8
+magic3d,A canned Coke,7.5,6.470588235,6.352941176,6.631578947
+sjc,A striped zebra,4.157894737,3.5,2.473684211,3.1
+sjc,A blue jacket,0.368421053,0.222222222,0.388888889,0.333333333
+sjc,A yellow hat,4,2.166666667,2.611111111,2.666666667
+sjc,A canned Coke,2.105263158,1.210526316,0.833333333,1.523809524
+textmesh,A striped zebra,3.666666667,2.75,2.7,2.684210526
+textmesh,A blue jacket,6.736842105,5.111111111,5.444444444,5.714285714
+textmesh,A yellow hat,5.789473684,4.666666667,4.055555556,4.666666667
+textmesh,A canned Coke,8.388888889,7.736842105,6.85,7.55
+3dtopia,A striped zebra,4.5,3.761904762,4.941176471,3.947368421
+3dtopia,A blue jacket,8.722222222,8.052631579,7.5,7.95
+3dtopia,A yellow hat,2.555555556,2.142857143,3.176470588,2.315789474
+3dtopia,A canned Coke,3,4.333333333,2.117647059,3
+consistent3d,A striped zebra,4.761904762,3.125,3.8,3.631578947
+consistent3d,A blue jacket,5.684210526,4.454545455,4.238095238,4.476190476
+consistent3d,A yellow hat,6.526315789,5.409090909,5.619047619,5.428571429
+consistent3d,A canned Coke,5.789473684,3.263157895,3.722222222,4
+latentnerf,A striped zebra,3.166666667,2.666666667,3.176470588,2.789473684
+latentnerf,A blue jacket,1.578947368,0.888888889,1.3,1.142857143
+latentnerf,A yellow hat,6.45,4.882352941,5.235294118,5.157894737
+latentnerf,A canned Coke,6.421052632,2.736842105,3.388888889,3.857142857
+one2345++,A striped zebra,7.764705882,6.578947368,6.4375,6.842105263
+one2345++,A blue jacket,9.058823529,8.684210526,8.9375,8.842105263
+one2345++,A yellow hat,7.894736842,6.5,7.047619048,6.904761905
+one2345++,A canned Coke,7.444444444,7.19047619,6.823529412,7.105263158
+dreamfusion,A candleholder made of wrought iron,6.263157895,4.210526316,4.166666667,4.761904762
+dreamfusion,A model airplane with spinning propellers,5.736842105,6.888888889,5.833333333,5.904761905
+dreamfusion,A lamp with a fabric shade,7.368421053,5.736842105,5.833333333,6.476190476
+dreamfusion,A chess piece carved from ivory,7.947368421,7,6.666666667,7.095238095
+magic3d,A candleholder made of wrought iron,6.285714286,5.0625,4.95,5.315789474
+magic3d,A model airplane with spinning propellers,6.210526316,4.222222222,3.7,4.571428571
+magic3d,A lamp with a fabric shade,4.428571429,4.25,3.75,4.263157895
+magic3d,A chess piece carved from ivory,7.842105263,8,7.105263158,7.85
+sjc,A candleholder made of wrought iron,6.888888889,5.421052632,4.7,5.25
+sjc,A model airplane with spinning propellers,4.157894737,3.227272727,2.857142857,3.095238095
+sjc,A lamp with a fabric shade,4.684210526,3.555555556,3.157894737,3.5
+sjc,A chess piece carved from ivory,7,6.315789474,5.05,5.8
+textmesh,A candleholder made of wrought iron,6.80952381,6.125,5.5,6.052631579
+textmesh,A model airplane with spinning propellers,5.833333333,5.904761905,5.882352941,5.894736842
+textmesh,A lamp with a fabric shade,6.105263158,5.388888889,4.473684211,5.25
+textmesh,A chess piece carved from ivory,7.789473684,7.227272727,6.571428571,7.19047619
+3dtopia,A candleholder made of wrought iron,7,4.681818182,5.761904762,5.571428571
+3dtopia,A model airplane with spinning propellers,0.470588235,0.526315789,0.8125,0.578947368
+3dtopia,A lamp with a fabric shade,8.578947368,7.333333333,7.684210526,7.9
+3dtopia,A chess piece carved from ivory,8.111111111,7.428571429,7.235294118,7.684210526
+consistent3d,A candleholder made of wrought iron,7.421052632,6.222222222,5.666666667,6.523809524
+consistent3d,A model airplane with spinning propellers,3.263157895,2.684210526,2.666666667,2.714285714
+consistent3d,A lamp with a fabric shade,6.166666667,4.684210526,4.9,4.75
+consistent3d,A chess piece carved from ivory,7.947368421,7.444444444,6.736842105,7.3
+latentnerf,A candleholder made of wrought iron,8.166666667,7.157894737,6.1,6.9
+latentnerf,A model airplane with spinning propellers,3.277777778,2.368421053,2.55,2.4
+latentnerf,A lamp with a fabric shade,6,4.210526316,4.1,4.4
+latentnerf,A chess piece carved from ivory,6.842105263,4.055555556,4.555555556,4.952380952
+one2345++,A candleholder made of wrought iron,7.333333333,7.047619048,7,7.157894737
+one2345++,A model airplane with spinning propellers,5.5,3.789473684,4.1,3.9
+one2345++,A lamp with a fabric shade,8.631578947,7.5,8.421052632,8.15
+one2345++,A chess piece carved from ivory,9.105263158,8.333333333,8.473684211,8.7
+dreamfusion,"A glass bottle with a chipped neck, intricate patterns swirling along the sides, and a faded label",5.705882353,5.052631579,4.1875,5.105263158
+dreamfusion,"A bronze statue of a warrior with one arm raised, and a weathered, cracked base",4.631578947,2.944444444,4,3.428571429
+dreamfusion,A porcelain teapot with a gold-trimmed spout and a painted phoenix spiraling around its surface,5.368421053,5.181818182,4.333333333,4.666666667
+dreamfusion,"A yellow pencil with a polished finish, a sharply defined lead tip, and a vibrant red eraser",5.052631579,4.722222222,4.368421053,4.65
+magic3d,"A glass bottle with a chipped neck, intricate patterns swirling along the sides, and a faded label",6.095238095,6.0625,4.95,5.736842105
+magic3d,"A bronze statue of a warrior with one arm raised, and a weathered, cracked base",2.428571429,2.0625,2.4,2
+magic3d,A porcelain teapot with a gold-trimmed spout and a painted phoenix spiraling around its surface,6.611111111,5.157894737,5,5.2
+magic3d,"A yellow pencil with a polished finish, a sharply defined lead tip, and a vibrant red eraser",5.058823529,4.368421053,4,4.473684211
+sjc,"A glass bottle with a chipped neck, intricate patterns swirling along the sides, and a faded label",5.5,5.764705882,4.529411765,5.105263158
+sjc,"A bronze statue of a warrior with one arm raised, and a weathered, cracked base",4.947368421,3.5,3.055555556,3.666666667
+sjc,A porcelain teapot with a gold-trimmed spout and a painted phoenix spiraling around its surface,4.947368421,4.666666667,3.315789474,3.85
+sjc,"A yellow pencil with a polished finish, a sharply defined lead tip, and a vibrant red eraser",2.166666667,2,1.6,1.65
+textmesh,"A glass bottle with a chipped neck, intricate patterns swirling along the sides, and a faded label",6.647058824,6.842105263,5.5625,6.421052632
+textmesh,"A bronze statue of a warrior with one arm raised, and a weathered, cracked base",5.055555556,4.285714286,3.794117647,4.157894737
+textmesh,A porcelain teapot with a gold-trimmed spout and a painted phoenix spiraling around its surface,5.619047619,5.6875,4.6,5.473684211
+textmesh,"A yellow pencil with a polished finish, a sharply defined lead tip, and a vibrant red eraser",4.842105263,4.944444444,4.222222222,4.285714286
+3dtopia,"A glass bottle with a chipped neck, intricate patterns swirling along the sides, and a faded label",5.684210526,5.833333333,5.4,5.80952381
+3dtopia,"A bronze statue of a warrior with one arm raised, and a weathered, cracked base",4.526315789,4.333333333,5.35,4.380952381
+3dtopia,A porcelain teapot with a gold-trimmed spout and a painted phoenix spiraling around its surface,5.157894737,4.444444444,4.8,4.80952381
+3dtopia,"A yellow pencil with a polished finish, a sharply defined lead tip, and a vibrant red eraser",4.722222222,5.421052632,5.05,4.85
+consistent3d,"A glass bottle with a chipped neck, intricate patterns swirling along the sides, and a faded label",4.5,3.882352941,2.588235294,3.684210526
+consistent3d,"A bronze statue of a warrior with one arm raised, and a weathered, cracked base",5.666666667,5.047619048,4.764705882,4.842105263
+consistent3d,A porcelain teapot with a gold-trimmed spout and a painted phoenix spiraling around its surface,4.842105263,4,3.388888889,3.952380952
+consistent3d,"A yellow pencil with a polished finish, a sharply defined lead tip, and a vibrant red eraser",5.894736842,5.227272727,3.714285714,4.80952381
+latentnerf,"A glass bottle with a chipped neck, intricate patterns swirling along the sides, and a faded label",2.789473684,1.777777778,1.8,2.142857143
+latentnerf,"A bronze statue of a warrior with one arm raised, and a weathered, cracked base",4.5,4,3.470588235,3.526315789
+latentnerf,A porcelain teapot with a gold-trimmed spout and a painted phoenix spiraling around its surface,4.947368421,3.388888889,2.789473684,3.45
+latentnerf,"A yellow pencil with a polished finish, a sharply defined lead tip, and a vibrant red eraser",4.777777778,4.263157895,3.9,3.9
+one2345++,"A glass bottle with a chipped neck, intricate patterns swirling along the sides, and a faded label",5.789473684,7.111111111,6.277777778,6.142857143
+one2345++,"A bronze statue of a warrior with one arm raised, and a weathered, cracked base",6.473684211,5.111111111,4.888888889,5.380952381
+one2345++,A porcelain teapot with a gold-trimmed spout and a painted phoenix spiraling around its surface,6.294117647,7.473684211,6.3125,6.684210526
+one2345++,"A yellow pencil with a polished finish, a sharply defined lead tip, and a vibrant red eraser",7.947368421,7.555555556,7.368421053,7.65
+dreamfusion,A cactus blooming flowers made of glowing embers,2.947368421,2.722222222,2.736842105,2.6
+dreamfusion,A mushroom with a cap resembling a stained glass window,5.8,6.411764706,5.235294118,5.526315789
+dreamfusion,"A chair made from intertwined vines, leaves still attached",1.833333333,0.947368421,1.25,1.1
+dreamfusion,"A candleholder resembling a twisted, gnarled tree branch",4.894736842,4.272727273,4.380952381,4.333333333
+magic3d,A cactus blooming flowers made of glowing embers,2.35,2.117647059,2.352941176,2.052631579
+magic3d,A mushroom with a cap resembling a stained glass window,6.842105263,5.684210526,5.666666667,6
+magic3d,"A chair made from intertwined vines, leaves still attached",6.526315789,6.166666667,5.5,6.19047619
+magic3d,"A candleholder resembling a twisted, gnarled tree branch",7.421052632,6.388888889,5.684210526,6.7
+sjc,A cactus blooming flowers made of glowing embers,2.80952381,2.25,2.4,2.421052632
+sjc,A mushroom with a cap resembling a stained glass window,6,4.863636364,3.714285714,4.619047619
+sjc,"A chair made from intertwined vines, leaves still attached",5.111111111,4.904761905,3.882352941,4.473684211
+sjc,"A candleholder resembling a twisted, gnarled tree branch",5.047619048,4.8125,3.45,4.421052632
+textmesh,A cactus blooming flowers made of glowing embers,2.2,2.235294118,1.823529412,1.894736842
+textmesh,A mushroom with a cap resembling a stained glass window,8,7.894736842,7.5625,7.526315789
+textmesh,"A chair made from intertwined vines, leaves still attached",5.157894737,5.388888889,4.888888889,5.047619048
+textmesh,"A candleholder resembling a twisted, gnarled tree branch",5.894736842,4.818181818,4.952380952,5
+3dtopia,A cactus blooming flowers made of glowing embers,4.894736842,4.111111111,4.894736842,4.75
+3dtopia,A mushroom with a cap resembling a stained glass window,3.294117647,3.210526316,3.6875,3.052631579
+3dtopia,"A chair made from intertwined vines, leaves still attached",2.578947368,1.333333333,1.6,1.761904762
+3dtopia,"A candleholder resembling a twisted, gnarled tree branch",5.333333333,4.947368421,6.15,4.8
+consistent3d,A cactus blooming flowers made of glowing embers,7.05,7,6.882352941,6.842105263
+consistent3d,A mushroom with a cap resembling a stained glass window,3.947368421,2.888888889,3.25,3.333333333
+consistent3d,"A chair made from intertwined vines, leaves still attached",6.529411765,6.052631579,5.5625,5.947368421
+consistent3d,"A candleholder resembling a twisted, gnarled tree branch",7.619047619,7.4375,6.4,7.210526316
+latentnerf,A cactus blooming flowers made of glowing embers,6.666666667,6.263157895,5.55,5.95
+latentnerf,A mushroom with a cap resembling a stained glass window,6.263157895,6.555555556,5.526315789,6.15
+latentnerf,"A chair made from intertwined vines, leaves still attached",6.388888889,6.263157895,4.7,5.65
+latentnerf,"A candleholder resembling a twisted, gnarled tree branch",5.235294118,4.157894737,4.125,4.105263158
+one2345++,A cactus blooming flowers made of glowing embers,4.157894737,3.277777778,4.1,3.666666667
+one2345++,A mushroom with a cap resembling a stained glass window,8.6,8.647058824,8.058823529,8.473684211
+one2345++,"A chair made from intertwined vines, leaves still attached",7.052631579,5.055555556,5.444444444,5.714285714
+one2345++,"A candleholder resembling a twisted, gnarled tree branch",8.555555556,8.142857143,8.235294118,8.473684211
+dreamfusion,A metal pen and a plastic ruler,2.947368421,3.454545455,2.333333333,2.380952381
+dreamfusion,A wooden bench and a bronze statue,3.047619048,2.9375,2.4,2.789473684
+dreamfusion,A red chair and a yellow tennis ball,8.105263158,7.363636364,6.380952381,7.142857143
+dreamfusion,A black camera and a metal tripod,7.526315789,5.5,5.947368421,6.15
+magic3d,A metal pen and a plastic ruler,2.777777778,3.105263158,2.4,2.25
+magic3d,A wooden bench and a bronze statue,3.631578947,3.333333333,3.611111111,3.476190476
+magic3d,A red chair and a yellow tennis ball,5.647058824,4.736842105,4.9375,4.894736842
+magic3d,A black camera and a metal tripod,6.210526316,6.222222222,4.85,5.952380952
+sjc,A metal pen and a plastic ruler,4.421052632,3.421052632,2.222222222,3.476190476
+sjc,A wooden bench and a bronze statue,1.222222222,1.263157895,1,0.95
+sjc,A red chair and a yellow tennis ball,2.105263158,1.611111111,1.55,1.571428571
+sjc,A black camera and a metal tripod,5.888888889,5.238095238,3.647058824,4.526315789
+textmesh,A metal pen and a plastic ruler,3.166666667,3.526315789,2.75,2.9
+textmesh,A wooden bench and a bronze statue,0.888888889,1.315789474,1.15,0.95
+textmesh,A red chair and a yellow tennis ball,5.421052632,3.894736842,4.166666667,4.333333333
+textmesh,A black camera and a metal tripod,7.166666667,6.666666667,5.705882353,6.684210526
+3dtopia,A metal pen and a plastic ruler,6.761904762,6.375,5.65,6.052631579
+3dtopia,A wooden bench and a bronze statue,4.294117647,6.473684211,6.0625,4.842105263
+3dtopia,A red chair and a yellow tennis ball,3.105263158,4.555555556,4.7,3.476190476
+3dtopia,A black camera and a metal tripod,3.947368421,3.388888889,4.3,3.571428571
+consistent3d,A metal pen and a plastic ruler,3.45,3,2.411764706,2.631578947
+consistent3d,A wooden bench and a bronze statue,4.052631579,4.444444444,4.277777778,4.333333333
+consistent3d,A red chair and a yellow tennis ball,3.315789474,3.611111111,3.315789474,3.3
+consistent3d,A black camera and a metal tripod,6.947368421,5.388888889,5.473684211,5.75
+latentnerf,A metal pen and a plastic ruler,3.157894737,3.222222222,2.631578947,2.7
+latentnerf,A wooden bench and a bronze statue,6.176470588,4.789473684,3.9375,5
+latentnerf,A red chair and a yellow tennis ball,4.15,2.882352941,3.411764706,3.157894737
+latentnerf,A black camera and a metal tripod,6.157894737,3.631578947,2.722222222,3.857142857
+one2345++,A metal pen and a plastic ruler,3.888888889,4.952380952,4.529411765,4.473684211
+one2345++,A wooden bench and a bronze statue,5.052631579,6.666666667,6.736842105,5.6
+one2345++,A red chair and a yellow tennis ball,8.2,7.058823529,6.823529412,7.263157895
+one2345++,A black camera and a metal tripod,7.947368421,6.545454545,6.523809524,6.714285714
+dreamfusion,A set of dice beside a deck of cards,3.65,4.470588235,4.235294118,3.842105263
+dreamfusion,A pink backpack on a yellow kayak,6.722222222,5.857142857,5.117647059,5.789473684
+dreamfusion,A wooden crate holding a single red apple,3.315789474,2.777777778,3.166666667,3.047619048
+dreamfusion,A white orchid in a ceramic vase,0.631578947,0.388888889,0.833333333,0.714285714
+magic3d,A set of dice beside a deck of cards,4.65,3.705882353,4.117647059,3.421052632
+magic3d,A pink backpack on a yellow kayak,7.421052632,6.5,6.1,6.761904762
+magic3d,A wooden crate holding a single red apple,4.277777778,5.421052632,5.15,4.45
+magic3d,A white orchid in a ceramic vase,3.315789474,2.611111111,2.85,2.476190476
+sjc,A set of dice beside a deck of cards,0.947368421,0.772727273,0.761904762,0.714285714
+sjc,A pink backpack on a yellow kayak,1.45,1.058823529,1.176470588,1.315789474
+sjc,A wooden crate holding a single red apple,2.5,1.571428571,1.647058824,1.736842105
+sjc,A white orchid in a ceramic vase,4.210526316,2.777777778,2.944444444,3.142857143
+textmesh,A set of dice beside a deck of cards,3.315789474,3.272727273,2.619047619,2.80952381
+textmesh,A pink backpack on a yellow kayak,6.631578947,5.222222222,4.842105263,5.85
+textmesh,A wooden crate holding a single red apple,4.714285714,6.4375,6.4,5.631578947
+textmesh,A white orchid in a ceramic vase,3.263157895,3.666666667,3.3,3.142857143
+3dtopia,A set of dice beside a deck of cards,2.789473684,3.789473684,3.888888889,3
+3dtopia,A pink backpack on a yellow kayak,3.263157895,3.409090909,4.095238095,3.238095238
+3dtopia,A wooden crate holding a single red apple,5.052631579,4.526315789,5.388888889,4.523809524
+3dtopia,A white orchid in a ceramic vase,4.210526316,4.545454545,4.476190476,4.285714286
+consistent3d,A set of dice beside a deck of cards,2.176470588,1.842105263,1.875,1.684210526
+consistent3d,A pink backpack on a yellow kayak,4.105263158,4.5,4.166666667,4.047619048
+consistent3d,A wooden crate holding a single red apple,5.473684211,3.818181818,3.523809524,3.952380952
+consistent3d,A white orchid in a ceramic vase,4.842105263,3,3.277777778,3.476190476
+latentnerf,A set of dice beside a deck of cards,1.894736842,1.947368421,2,1.761904762
+latentnerf,A pink backpack on a yellow kayak,5.473684211,3.894736842,3.833333333,4.238095238
+latentnerf,A wooden crate holding a single red apple,1.5,1,1.25,1.05
+latentnerf,A white orchid in a ceramic vase,2.294117647,1.631578947,1.9375,1.473684211
+one2345++,A set of dice beside a deck of cards,7.157894737,6.045454545,5.428571429,6.19047619
+one2345++,A pink backpack on a yellow kayak,7.736842105,7.157894737,6.777777778,7.238095238
+one2345++,A wooden crate holding a single red apple,8.9,7.764705882,8.470588235,8.315789474
+one2345++,A white orchid in a ceramic vase,8.111111111,7.473684211,7.75,7.65
+dreamfusion,A penguin is waddling with a fish in its beak,4.764705882,5.052631579,5.375,4.842105263
+dreamfusion,A pirate is digging for treasure with a rusty shovel,0.5,0.444444444,0.775,0.619047619
+dreamfusion,"A cyan crab is holding a sharp, conical shell in its claw",1.85,1.647058824,1.764705882,1.578947368
+dreamfusion,A panda is chewing on bamboo while sitting on its hind legs,5.105263158,4.318181818,4.523809524,4.523809524
+magic3d,A penguin is waddling with a fish in its beak,7.1,6.470588235,6.529411765,6.157894737
+magic3d,A pirate is digging for treasure with a rusty shovel,6.761904762,5.75,5.25,5.473684211
+magic3d,"A cyan crab is holding a sharp, conical shell in its claw",4.526315789,3.545454545,3.333333333,3.523809524
+magic3d,A panda is chewing on bamboo while sitting on its hind legs,5.857142857,4.8125,5.05,4.736842105
+sjc,A penguin is waddling with a fish in its beak,2.588235294,2.263157895,1.875,2
+sjc,A pirate is digging for treasure with a rusty shovel,4.736842105,2.954545455,2.619047619,3.095238095
+sjc,"A cyan crab is holding a sharp, conical shell in its claw",3.368421053,2.055555556,2.111111111,2.142857143
+sjc,A panda is chewing on bamboo while sitting on its hind legs,5.2,4.529411765,3.941176471,4.526315789
+textmesh,A penguin is waddling with a fish in its beak,5.523809524,5.75,5.8,5.631578947
+textmesh,A pirate is digging for treasure with a rusty shovel,5.888888889,4.578947368,4.6,4.35
+textmesh,"A cyan crab is holding a sharp, conical shell in its claw",4.055555556,3.666666667,3.352941176,3.578947368
+textmesh,A panda is chewing on bamboo while sitting on its hind legs,3.105263158,2.222222222,2.789473684,2.45
+3dtopia,A penguin is waddling with a fish in its beak,3.368421053,2.222222222,2.833333333,2.714285714
+3dtopia,A pirate is digging for treasure with a rusty shovel,3.210526316,2.409090909,3.095238095,2.571428571
+3dtopia,"A cyan crab is holding a sharp, conical shell in its claw",2.842105263,2.5,3.055555556,2.761904762
+3dtopia,A panda is chewing on bamboo while sitting on its hind legs,1.789473684,1.318181818,1.619047619,1.380952381
+consistent3d,A penguin is waddling with a fish in its beak,6.2,5.058823529,5.058823529,4.842105263
+consistent3d,A pirate is digging for treasure with a rusty shovel,1.238095238,0.875,1,0.789473684
+consistent3d,"A cyan crab is holding a sharp, conical shell in its claw",3.294117647,2.842105263,2.75,2.631578947
+consistent3d,A panda is chewing on bamboo while sitting on its hind legs,6.55,5,5.058823529,5.263157895
+latentnerf,A penguin is waddling with a fish in its beak,3.473684211,2.157894737,1.888888889,2.428571429
+latentnerf,A pirate is digging for treasure with a rusty shovel,6.19047619,4.6875,3.9,5
+latentnerf,"A cyan crab is holding a sharp, conical shell in its claw",3.95,3.235294118,4,3.315789474
+latentnerf,A panda is chewing on bamboo while sitting on its hind legs,5.047619048,3.6875,3.6,3.789473684
+one2345++,A penguin is waddling with a fish in its beak,5.736842105,6.444444444,6.444444444,6.095238095
+one2345++,A pirate is digging for treasure with a rusty shovel,7.263157895,5.944444444,6.105263158,6.8
+one2345++,"A cyan crab is holding a sharp, conical shell in its claw",4.789473684,4.611111111,4.526315789,4.65
+one2345++,A panda is chewing on bamboo while sitting on its hind legs,7.263157895,5.833333333,6.315789474,6.6
+dreamfusion,A mouse pirate is guarding a tiny treasure chest,0.684210526,0.666666667,0.578947368,0.5
+dreamfusion,A parrot wearing a crown is sitting on a jeweled throne,5.095238095,4.25,3.9,4.368421053
+dreamfusion,A phoenix with flaming wings is carrying a silver lantern,1.526315789,1.368421053,1.444444444,1.476190476
+dreamfusion,A raccoon detective is studying a map under a magnifying glass,4.105263158,2.888888889,3.333333333,3.333333333
+magic3d,A mouse pirate is guarding a tiny treasure chest,6.526315789,5.055555556,5.2,5.476190476
+magic3d,A parrot wearing a crown is sitting on a jeweled throne,5.526315789,4.333333333,5.35,5.095238095
+magic3d,A phoenix with flaming wings is carrying a silver lantern,4.941176471,4.105263158,3.9375,4.052631579
+magic3d,A raccoon detective is studying a map under a magnifying glass,5.631578947,5,5.368421053,5.25
+sjc,A mouse pirate is guarding a tiny treasure chest,4,2.894736842,2.625,3.052631579
+sjc,A parrot wearing a crown is sitting on a jeweled throne,4.631578947,3.181818182,3.047619048,3.19047619
+sjc,A phoenix with flaming wings is carrying a silver lantern,4.157894737,2.666666667,2.944444444,3.095238095
+sjc,A raccoon detective is studying a map under a magnifying glass,5.4,4.058823529,4,4.157894737
+textmesh,A mouse pirate is guarding a tiny treasure chest,3.176470588,2.947368421,2.8125,2.526315789
+textmesh,A parrot wearing a crown is sitting on a jeweled throne,7.473684211,6.5,6.222222222,6.761904762
+textmesh,A phoenix with flaming wings is carrying a silver lantern,2.722222222,2.421052632,2.7,2.1
+textmesh,A raccoon detective is studying a map under a magnifying glass,3.631578947,2.777777778,3.7,3.285714286
+3dtopia,A mouse pirate is guarding a tiny treasure chest,3,3.555555556,3.842105263,3.3
+3dtopia,A parrot wearing a crown is sitting on a jeweled throne,3.684210526,2.944444444,3.7,3.380952381
+3dtopia,A phoenix with flaming wings is carrying a silver lantern,2.578947368,2.578947368,3.222222222,2.285714286
+3dtopia,A raccoon detective is studying a map under a magnifying glass,2.578947368,1.944444444,2.947368421,2.2
+consistent3d,A mouse pirate is guarding a tiny treasure chest,6.789473684,5.222222222,5.611111111,5.619047619
+consistent3d,A parrot wearing a crown is sitting on a jeweled throne,4.578947368,3.736842105,4.277777778,3.904761905
+consistent3d,A phoenix with flaming wings is carrying a silver lantern,3.578947368,3.333333333,3.35,3.142857143
+consistent3d,A raccoon detective is studying a map under a magnifying glass,0.428571429,0.4375,0.55,0.368421053
+latentnerf,A mouse pirate is guarding a tiny treasure chest,4.222222222,3.666666667,3.470588235,3.263157895
+latentnerf,A parrot wearing a crown is sitting on a jeweled throne,5.25,3.470588235,4.176470588,4
+latentnerf,A phoenix with flaming wings is carrying a silver lantern,6.315789474,5.722222222,5.25,5.761904762
+latentnerf,A raccoon detective is studying a map under a magnifying glass,3.333333333,3.142857143,3.823529412,3.052631579
+one2345++,A mouse pirate is guarding a tiny treasure chest,7.19047619,5.4375,5.95,6
+one2345++,A parrot wearing a crown is sitting on a jeweled throne,7.526315789,6,6.19047619,6.523809524
+one2345++,A phoenix with flaming wings is carrying a silver lantern,5.294117647,4.526315789,5.4375,4.684210526
+one2345++,A raccoon detective is studying a map under a magnifying glass,6.315789474,6.181818182,6.714285714,6.428571429
