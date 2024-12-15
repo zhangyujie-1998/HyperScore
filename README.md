@@ -1,6 +1,6 @@
 # Benchmarking and Learning Multi-Dimensional Quality Evaluator for Text-to-3D Generation
 
-<div align="center"> Yujie Zhang<sup>1,*</sup>, Bingyang Cui<sup>1,*</sup>, Qi Yang<sup>2</sup>, Zhu Li<sup>2</sup>, Yiling Xu<sup>1</sup>
+<div align="center"> Yujie Zhang<sup>1*</sup>, Bingyang Cui<sup>1*</sup>, Qi Yang<sup>2</sup>, Zhu Li<sup>2</sup>, Yiling Xu<sup>1</sup>
 
 <div align="center"> <small>1 Shanghai Jiao Tong University, 2 University of Missouri-Kansas City</small>
 <div align="center"> <small><sup>*</sup> Indicates Equal Contribution</small>
