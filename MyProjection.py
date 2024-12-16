@@ -4,7 +4,6 @@ from projection.util_projection import MeshRenderer3D
 from tqdm import tqdm
 prompt_path = "data/MATE-3D/prompt_MATE_3D.json"
 data_path = 'data/MATE-3D/'
-
 save_root_path = 'data/projection/'
 os.makedirs(save_root_path, exist_ok=True)
 
