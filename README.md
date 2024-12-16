@@ -2,7 +2,7 @@
 
 <div align="center"> Yujie Zhang<sup>1*</sup>, Bingyang Cui<sup>1*</sup>, Qi Yang<sup>2</sup>, Zhu Li<sup>2</sup>, Yiling Xu<sup>1</sup>
 
-<div align="center"> <small>1 Shanghai Jiao Tong University, 2 University of Missouri-Kansas City</small>
+<div align="center"> <sup>1</sup> Shanghai Jiao Tong University, <sup>2</sup> University of Missouri-Kansas City</small>
 <div align="center"> <small><sup>*</sup> Indicates Equal Contribution</small>
 <p align="center">
   <a href="http://arxiv.org/abs/" target='_**blank**'>
