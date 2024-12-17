@@ -5,8 +5,8 @@
 <div align="center"> <sup>1</sup> Shanghai Jiao Tong University, <sup>2</sup> University of Missouri-Kansas City</small>
 <div align="center"> <small><sup>*</sup> Equal Contribution</small>
 <p align="center">
-  <a href="[http://arxiv.org/abs/](http://arxiv.org/abs/2412.11170)" target='_**blank**'>
-    <img src="https://img.shields.io/badge/arXiv paper-2312.02980📖-blue?">
+  <a href="http://arxiv.org/abs/2412.11170" target='_**blank**'>
+    <img src="https://img.shields.io/badge/arXiv paper-2412.11170📖-blue?">
   </a> 
   <a href="https://mate-3d.github.io/" target='_blank'>
     <img src="https://img.shields.io/badge/Project-&#x1F680-blue">
