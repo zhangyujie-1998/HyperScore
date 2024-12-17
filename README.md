@@ -102,11 +102,11 @@ If you want to infer other textured mesh, please edit  the ' obj_path'  and 'pro
 If you find this work is helpful, please consider citing:
 
 ```bash
-@article{,
-  title={Benchmarking and Learning Multi-Dimensional Quality Evaluator for Text-to-3D Generation},
-  author={Yujie Zhang, Bingyang Cui, Qi Yang, Zhu Li, and Yiling Xu},
-  journal={arXiv preprint arXiv:2},
-  year={2024}
+@article{zhang2024benchmarking,
+title={Benchmarking and Learning Multi-Dimensional Quality Evaluator for Text-to-3D Generation},
+author={Yujie Zhang, Bingyang Cui, Qi Yang, Zhu Li, and Yiling Xu},
+journal={arXiv preprint arXiv:2412.11170},
+year={2024}
 }
 ```
 
