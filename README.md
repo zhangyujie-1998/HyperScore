@@ -1,9 +1,9 @@
 # Benchmarking and Learning Multi-Dimensional Quality Evaluator for Text-to-3D Generation
 
-<div align="center"> Yujie Zhang<sup>1*</sup>, Bingyang Cui<sup>1*</sup>, Qi Yang<sup>2</sup>, Zhu Li<sup>2</sup>, Yiling Xu<sup>1</sup>
+<div align="center"> Yujie Zhang<sup>1*</sup>, Bingyang Cui<sup>1*</sup>, Qi Yang<sup>2</sup>, Zhu Li<sup>2</sup>, Yiling Xu<sup>1†</sup>
 
 <div align="center"> <sup>1</sup> Shanghai Jiao Tong University, <sup>2</sup> University of Missouri-Kansas City</small>
-<div align="center"> <small><sup>*</sup> Equal Contribution</small>
+<div align="center"> <small><sup>*</sup> Equal Contribution &nbsp;&nbsp;&nbsp <sup>†</sup>Corresponding author</small>
 <p align="center">
   <a href="http://arxiv.org/abs/2412.11170" target='_**blank**'>
     <img src="https://img.shields.io/badge/arXiv paper-2412.11170📖-blue?">
