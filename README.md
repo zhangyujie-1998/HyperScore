@@ -26,7 +26,7 @@ Text-to-3D generation has achieved remarkable progress in recent years, yet eval
 Overview of the HyperScore Evaluator
 </div>
 
-## News
+## 🚀 News
 
 📌 **[2025.06.26]** Accepted to [ICCV2025](https://iccv.thecvf.com/).
 
