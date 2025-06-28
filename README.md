@@ -26,6 +26,13 @@ Text-to-3D generation has achieved remarkable progress in recent years, yet eval
 Overview of the HyperScore Evaluator
 </div>
 
+## News
+
+📌 **[2025.06.26]** Accepted to [ICCV2025](https://iccv.thecvf.com/).
+
+📌 **[2024.12.15]** We initially release the MATE-3D dataset and the code of HyperScore.
+
+
 ## 📦 Dataset Preparation
 
 **NOTE:** Since the dataset used in our training is based on MATE-3D, please first download MATE-3D dataset from [onedrive](https://1drv.ms/u/c/669676c02328fc1b/EdJ0J23NWOZOprClaz4pKjQBEp-V-fVFQ7FAT2vZoZsbJw?e=qXgIwt) or  [huggingface](https://huggingface.co/datasets/ccccby/MATE-3D) and unzip  it into ```data``` folder. The file structure of used data should be like:
