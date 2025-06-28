@@ -16,7 +16,7 @@
 </div>
 </div>
 
-## 🚀 News
+## 🔥 News
 
 📌 **[2025.06.26]** Accepted to [ICCV2025](https://iccv.thecvf.com/).
 
