@@ -111,10 +111,10 @@ If you find this work is helpful, please consider citing:
 
 ```bash
 @article{zhang2024benchmarking,
-title={Benchmarking and Learning Multi-Dimensional Quality Evaluator for Text-to-3D Generation},
-author={Yujie Zhang, Bingyang Cui, Qi Yang, Zhu Li, and Yiling Xu},
-journal={arXiv preprint arXiv:2412.11170},
-year={2024}
+  title={Benchmarking and Learning Multi-Dimensional Quality Evaluator for Text-to-3D Generation},
+  author={Yujie Zhang, Bingyang Cui, Qi Yang, Zhu Li, and Yiling Xu},
+  journal={arXiv preprint arXiv:2412.11170},
+  year={2024}
 }
 
 @article{cui2025towards,
