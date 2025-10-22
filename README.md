@@ -116,5 +116,12 @@ author={Yujie Zhang, Bingyang Cui, Qi Yang, Zhu Li, and Yiling Xu},
 journal={arXiv preprint arXiv:2412.11170},
 year={2024}
 }
+
+@article{cui2025towards,
+  title={Towards Fine-Grained Text-to-3D Quality Assessment: A Benchmark and A Two-Stage Rank-Learning Metric},
+  author={Cui, Bingyang and Zhang, Yujie and Yang, Qi and Li, Zhu and Xu, Yiling},
+  journal={arXiv preprint arXiv:2509.23841},
+  year={2025}
+}
 ```
 
